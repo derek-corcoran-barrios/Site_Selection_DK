@@ -1,0 +1,1407 @@
+barcode_fieldsample,type_sample,latitude,longitude,miljoeportal,habitattype,habitattypenumber,commentlanguage,received,samplingcomment,project,sampletype,projectname
+MFD00001,soil,55.6771,9.2778,NA,natural_soil,forest,danish,29/08/2019 00:00,"paragraf 3 mose, lok. nr. 40, kort p-40",P08_1,natural soil,Habitat Vision
+MFD00002,soil,56.0239,9.9034,NA,natural_soil,91D0,danish,21/08/2019 00:00,key biotope (1),P08_1,natural soil,Habitat Vision
+MFD00003,soil,55.3436,11.1495,NA,natural_soil,9130,danish,15/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00004,soil,55.6664,9.2715,NA,natural_soil,6210,danish,28/08/2019 00:00,kort p-210,P08_1,natural soil,Habitat Vision
+MFD00005,soil,55.6526,8.3077,NA,natural_soil,6410,danish,04/09/2019 00:00,varde 19-160,P08_1,natural soil,Habitat Vision
+MFD00006,soil,56.0287,9.9153,NA,natural_soil,9130,danish,21/08/2019 00:00,bøg på muld,P08_1,natural soil,Habitat Vision
+MFD00007,soil,56.9366,10.1784,NA,natural_soil,7100,danish,15/08/2019 00:00,taget i tørv,P08_1,natural soil,Habitat Vision
+MFD00008,soil,55.6058,9.3609000000000009,mose-122,natural_soil,7122,danish,28/08/2019 00:00,122 mose,P08_1,natural soil,Habitat Vision
+MFD00009,soil,55.4522,11.2251,mose-33,natural_soil,7007,danish,28/08/2019 00:00,"bog_willow, dok felt mose-33",P08_1,natural soil,Habitat Vision
+MFD00010,soil,57.6541,10.4065,4248_3,natural_soil,2130,danish,01/08/2019 00:00,novana ,P08_1,natural soil,Habitat Vision
+MFD00012,soil,56.7928,9.801,4624_1,natural_soil,7120,danish,22/07/2019 00:00,novana - prøvefelt 4624-1,P08_1,natural soil,Habitat Vision
+MFD00013,soil,56.8289,9.6218,,natural_soil,6210,danish,23/07/2019 00:00,novana - prøvefelt 1069-5101,P08_1,natural soil,Habitat Vision
+MFD00014,soil,56.8293,10.2708,4216_1,natural_soil,2130,danish,30/07/2019 00:00,novana 4216-1,P08_1,natural soil,Habitat Vision
+MFD00015,soil,56.788,9.826,NA,natural_soil,7110,danish,22/07/2019 00:00,tørv,P08_1,natural soil,Habitat Vision
+MFD00016,soil,55.5667,9.9456,overdrev-277,natural_soil,6230,danish,03/09/2019 00:00,"kommunal opg, overdrev 277",P08_1,natural soil,Habitat Vision
+MFD00017,soil,55.9379,9.7278,NA,natural_soil,6410,danish,28/08/2019 00:00,registreret som eng men på grænsen til mose,P08_1,natural soil,Habitat Vision
+MFD00018,soil,56.1053,9.7775,NA,natural_soil,9120,danish,20/08/2019 00:00,ege-bøgeskov på skrænt,P08_1,natural soil,Habitat Vision
+MFD00019,soil,55.2606,11.2787,NA,natural_soil,forest_oak,danish,14/08/2019 00:00,"gamle egetræer, dbh op til 120 cm",P08_1,natural soil,Habitat Vision
+MFD00020,soil,56.8073,10.2753,4217_1,natural_soil,2130,danish,29/07/2019 00:00,novana 4217-1,P08_1,natural soil,Habitat Vision
+MFD00021,soil,55.3678,9.9084,mose-245,natural_soil,91E0,danish,03/09/2019 00:00,mose 245,P08_1,natural soil,Habitat Vision
+MFD00022,soil,55.6355,9.2349,NA,natural_soil,moor,danish,27/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00023,soil,55.9302,9.7674,NA,natural_soil,bog,danish,28/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00024,soil,55.93,9.7671,NA,natural_soil,grasslands,danish,28/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00025,soil,55.8747,9.7951,NA,natural_soil,grasslands,danish,29/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00026,soil,56.0553,9.6263,NA,natural_soil,moor,danish,14/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00027,soil,55.936698,9.728504,NA,natural_soil,meadow,danish,28/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00028,soil,55.4616,11.3781,eng-49,natural_soil,6403,danish,28/08/2019 00:00,"dok felt til eng-4 (vrj: eng-49, suits gps and date)",P08_1,natural soil,Habitat Vision
+MFD00029,soil,56.8521,10.2559,4528_11,natural_soil,5130,danish,25/07/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00030,soil,55.4575,11.2082,NA,natural_soil,forest_oak,danish,13/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00031,soil,55.4191,11.4075,NA,natural_soil,91E0,danish,14/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00033,soil,57.618,10.3366,4245_13,natural_soil,2130,danish,31/07/2019 00:00,novana 4245-13,P08_1,natural soil,Habitat Vision
+MFD00035,soil,56.4413,9.8146,NA,natural_soil,grasslands,danish,21/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00036,soil,56.4422,9.8107,NA,natural_soil,bog,danish,21/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00037,soil,56.4422,9.8386,NA,natural_soil,bog,danish,21/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00038,soil,55.3724,9.8969,mose-255,natural_soil,7007,danish,03/09/2019 00:00,mose 255,P08_1,natural soil,Habitat Vision
+MFD00039,soil,55.3732,9.8757,eng-215,natural_soil,6402,danish,05/09/2019 00:00,eng-215,P08_1,natural soil,Habitat Vision
+MFD00040,soil,55.3656,9.9031,,natural_soil,9160,danish,05/09/2019 00:00,"mose -233.3, vrj: findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00041,soil,56.0563,9.6281,NA,natural_soil,7200,danish,14/08/2019 00:00,fattigkær (mose),P08_1,natural soil,Habitat Vision
+MFD00042,soil,55.3726,9.93,overdrev-272,natural_soil,6230,danish,05/09/2019 00:00,overdrev-272,P08_1,natural soil,Habitat Vision
+MFD00044,soil,55.5668,9.9426,overdrev-275,natural_soil,6202,danish,03/09/2019 00:00,overdrev-275,P08_1,natural soil,Habitat Vision
+MFD00045,soil,56.4077,9.7857,NA,natural_soil,bog,danish,22/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00046,soil,55.3853,9.9397,NA,natural_soil,6230,danish,03/09/2019 00:00,"overdrev-264, vrj: findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00048,soil,56.4439,9.8139,NA,natural_soil,grasslands,danish,22/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00049,soil,56.8615,10.2261, 4631_10,natural_soil,6410,danish,24/07/2019 00:00,novana - prøvefelt 4631-10,P08_1,natural soil,Habitat Vision
+MFD00050,soil,56.8482,10.2698,4215_1,natural_soil,2130,danish,29/07/2019 00:00,novana 4215-1,P08_1,natural soil,Habitat Vision
+MFD00051,soil,55.5638,8.9273,NA,natural_soil,9100,danish,05/08/2019 00:00,"novana, klelund felt 29-5, vrj:findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00052,soil,55.5974,8.9145,NA,natural_soil,9100,danish,05/08/2019 00:00,"klelund 26-5 , vrj:findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00053,soil,57.4834,10.5056,1098_104,natural_soil,6410,danish,31/07/2019 00:00,novana 1098-104,P08_1,natural soil,Habitat Vision
+MFD00054,soil,56.8422,10.2487,4529_2,natural_soil,5130,danish,29/07/2019 00:00,novana 4529-2,P08_1,natural soil,Habitat Vision
+MFD00055,soil,56.4679,8.904,NA,natural_soil,9190,danish,06/08/2019 00:00,"novana, klelund",P08_1,natural soil,Habitat Vision
+MFD00056,soil,56.2239,8.6113,NA,natural_soil,4030,danish,10/08/2019 00:00,foto lt: 1334,P08_1,natural soil,Habitat Vision
+MFD00057,soil,55.8121,11.4939,NA,natural_soil,meadow_nature,danish,12/08/2019 00:00,odsherred 1-5 vrj: ikke i miljøportal,P08_1,natural soil,Habitat Vision
+MFD00058,soil,55.3951,11.3665,NA,natural_soil,9130,danish,12/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00059,soil,55.565,8.9196,NA,natural_soil,9190,danish,05/08/2019 00:00,"novana, klelund prøvefelt 2_5, vrj: ikke i miljøportalen",P08_1,natural soil,Habitat Vision
+MFD00060,soil,56.8384,9.9158,4586_14,natural_soil,6230,danish,23/07/2019 00:00,"grasslands (vrj ændret habitat jvf miljøportal), novana 4586-14",P08_1,natural soil,Habitat Vision
+MFD00061,soil,55.6053,8.8925,NA,natural_soil,meadow,danish,07/08/2019 00:00,"klelund 1-7, vrj: ikke i miljøportalen",P08_1,natural soil,Habitat Vision
+MFD00062,soil,57.031,10.3637,4254_4,natural_soil,2130,danish,30/07/2019 00:00,"dune (vrj ændret habitat jvf miljøportal), novana 4254-4",P08_1,natural soil,Habitat Vision
+MFD00063,soil,55.7935,11.5172,NA,natural_soil,7210,danish,12/08/2019 00:00,"§3 mose, rør mose",P08_1,natural soil,Habitat Vision
+MFD00064,soil,55.2635,11.2815,NA,natural_soil,9130,danish,14/08/2019 00:00,skovkort viser bøg 1870! bøgetræer m. dbh > 120 cm!,P08_1,natural soil,Habitat Vision
+MFD00065,soil,55.5747,9.1917,LUJ-B-25.2,natural_soil,7000,danish,23/08/2019 00:00,"højstaude-/rør-sump, luj-b-25.2 (kolding k). foto 1617+1618",P08_1,natural soil,Habitat Vision
+MFD00066,soil,55.6611,9.3801,NA,natural_soil,meadow,danish,28/08/2019 00:00,"nord-øst for vejle nr. 41, med tørvemos og værdifuld vegetation (fx djævelsbid, tormentil, eng-vist)",P08_1,natural soil,Habitat Vision
+MFD00067,soil,55.8747,9.2972,mose-411,natural_soil,bog_willow,danish,27/08/2019 00:00,"411 mose, vrj: findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00068,soil,55.8786,9.3609000000000009,NA,natural_soil,grasslands,danish,27/08/2019 00:00,"2670 overdrev, vrj:paser ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD00069,soil,55.6018,8.8833,NA,natural_soil,bog,danish,08/08/2019 00:00,"klelund 14-3, vrj: findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00070,soil,55.5847,9.2789,NA,natural_soil,moor,danish,22/08/2019 00:00,koordinater: gps-foto geokodet luj a 1 kolding kommune,P08_1,natural soil,Habitat Vision
+MFD00071,soil,56.054,9.6292,NA,natural_soil,grasslands/moor,danish,14/08/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00072,soil,55.4185,11.4082,NA,natural_soil,6210,danish,14/08/2019 00:00,egen 5m ukud dok. fed (?),P08_1,natural soil,Habitat Vision
+MFD00073,soil,56.0556,9.6227,NA,natural_soil,7200,danish,14/08/2019 00:00,vrj: tilføjet habitatnr. bog_poorfen: en del tørvemos og star,P08_1,natural soil,Habitat Vision
+MFD00074,soil,55.6785,9.3007,NA,natural_soil,6120,danish,28/08/2019 00:00,"120 overdrev, kort p-120",P08_1,natural soil,Habitat Vision
+MFD00075,soil,55.6,9.3469,NA,natural_soil,grasslands,danish,29/08/2019 00:00,"123,2 overdrev, vrj: findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00076,soil,55.3736,9.9241,eng-279,natural_soil,6402,danish,05/09/2019 00:00,eng med trykvand,P08_1,natural soil,Habitat Vision
+MFD00077,soil,56.8588,10.225,NA,natural_soil,7120,danish,24/07/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00078,soil,56.8715,10.1991,NA,natural_soil,7120,danish,24/07/2019 00:00,,P08_1,natural soil,Habitat Vision
+MFD00079,soil,55.569,9.3465,LUJ-B-27,natural_soil,meadow,danish,23/08/2019 00:00,"fersk eng, luj-b-27 (kolding kommune) foto: 1625+1626",P08_1,natural soil,Habitat Vision
+MFD00080,soil,55.5729,8.9103,NA,natural_soil,meadow,danish,05/08/2019 00:00,klelund 20-5,P08_1,natural soil,Habitat Vision
+MFD00081,soil,55.3592,9.8762,Strandeng-280,natural_soil,1330,danish,05/09/2019 00:00,strandsump,P08_1,natural soil,Habitat Vision
+MFD00082,soil,56.7952,9.974,4640_2,natural_soil,7120,danish,23/07/2019 00:00,tørv. novana prøvefelt 4640-2,P08_1,natural soil,Habitat Vision
+MFD00083,soil,55.5983,8.9002,NA,natural_soil,moor,danish,06/08/2019 00:00,"klelund 6-5, vrj: findes ikke i miljøportal, hede (enekrat)",P08_1,natural soil,Habitat Vision
+MFD00084,soil,55.4304,9.4389,NA,natural_soil,meadow,danish,20/08/2019 00:00,"ferskeng, kos-5 (kolding kommune)",P08_1,natural soil,Habitat Vision
+MFD00085,soil,57.6228,10.3086,4246_13,natural_soil,2130,danish,02/08/2019 00:00,novana 4246-13,P08_1,natural soil,Habitat Vision
+MFD00086,soil,56.7901,9.9821,4640_3,natural_soil,7110,danish,23/07/2019 00:00,"novana 4640-3, ""soil"""""""" = tørvemos""""""",P08_1,natural soil,Habitat Vision
+MFD00087,soil,55.5929,8.9124,NA,natural_soil,9100,danish,05/08/2019 00:00,"klelund 41-1, sitkagran og eur. lærk (plantagekarakter men meget mos i bunden)",P08_1,natural soil,Habitat Vision
+MFD00088,soil,57.6275,10.3059,4249_14,natural_soil,2130,danish,02/08/2019 00:00,novana 4249-14,P08_1,natural soil,Habitat Vision
+MFD00090,soil,55.2727,11.4034,NA,natural_soil,bog_dry,danish,29/08/2019 00:00,dok felt til mose-25,P08_1,natural soil,Habitat Vision
+MFD00094,soil,55.462,11.3908,mose-37,natural_soil,7006,danish,28/08/2019 00:00,"dok felt til mose-37, højstaude-7rørsump",P08_1,natural soil,Habitat Vision
+MFD00098,soil,55.4625,11.3865,NA,natural_soil,bog_willow,danish,28/08/2019 00:00,"vrj: passer ikke m miljøportal, dok felt for eng-5 = ny mose",P08_1,natural soil,Habitat Vision
+MFD00102,soil,55.4554,11.2152,mose-31,natural_soil,7006,danish,28/08/2019 00:00,"dok felt mose-31, højstaude-/rørsump",P08_1,natural soil,Habitat Vision
+MFD00103,soil,55.4068,11.282,mose-36,natural_soil,7230,danish,27/08/2019 00:00,mose 36,P08_1,natural soil,Habitat Vision
+MFD00107,soil,55.3173,11.4087,"mose-43,1",natural_soil,91E0,danish,28/08/2019 00:00,"aske/elle sump, dok felt til mose-43-1",P08_1,natural soil,Habitat Vision
+MFD00110,soil,55.3641,11.2038,mose-2,natural_soil,7006,danish,27/08/2019 00:00,"mose omgivet af nimofile an(?), mose-2, vrj edit  habitat",P08_1,natural soil,Habitat Vision
+MFD00115,soil,55.3166,11.419,mose-44,natural_soil,7230,danish,29/08/2019 00:00,dok felt til mose-44,P08_1,natural soil,Habitat Vision
+MFD00117,soil,55.2725,11.4055,mose-41,natural_soil,7006,danish,29/08/2019 00:00,dok felt til mose-41,P08_1,natural soil,Habitat Vision
+MFD00118,soil,56.4809,8.8984,NA,natural_soil,9190,danish,18/09/2019 00:00,"felt nr. 3067-21, v. flyndersø, skive",P08_1,natural soil,Habitat Vision
+MFD00119,soil,56.1254,9.4993,NA,natural_soil,9100,danish,19/09/2019 00:00,"novana 3034-04, vrj: findes ikke i miljøportal for dato",P08_1,natural soil,Habitat Vision
+MFD00120,soil,56.0871,10.2354,3032-13,natural_soil,9130,danish,16/09/2019 00:00,"novana skovovervågning, dok felt 3032-13",P08_1,natural soil,Habitat Vision
+MFD00121,soil,56.4728,9.6298,3066-05,natural_soil,9190,danish,17/09/2019 00:00,"novana skovovervågning, felt nr. 3066-05",P08_1,natural soil,Habitat Vision
+MFD00122,soil,55.6739,9.8423,3033-04,natural_soil,9150,danish,20/08/2019 00:00,novana 3033-04,P08_1,natural soil,Habitat Vision
+MFD00123,soil,56.1008,10.2384,3034-12,natural_soil,9130,danish,16/09/2019 00:00,"novana skovovervågning øst, 3034-12, kystnært, vrj edit habitat",P08_1,natural soil,Habitat Vision
+MFD00124,soil,56.8901,9.0981,1093-33,natural_soil,6230,danish,22/09/2019 00:00,novana 1093-33 (livø 33),P08_1,natural soil,Habitat Vision
+MFD00125,soil,56.3674,9.3585,3065-S003,natural_soil,9110,danish,18/09/2019 00:00,novana 3065-s003,P08_1,natural soil,Habitat Vision
+MFD00126,soil,57.2397,10.955,1057-102,natural_soil,4030,danish,21/10/2019 00:00,novana 1057-102,P08_1,natural soil,Habitat Vision
+MFD00127,soil,56.0808,10.2295,3032-04,natural_soil,9130,danish,16/09/2019 00:00,novana felt 3032-4,P08_1,natural soil,Habitat Vision
+MFD00128,soil,56.0598,9.6182,3041-01,natural_soil,91D0,danish,19/09/2019 00:00,"tilgrøet birkemose, novana skovovervågning felt nr. 3041-01",P08_1,natural soil,Habitat Vision
+MFD00129,soil,56.1254,9.4998,3039-15,natural_soil,91D0,danish,19/09/2019 00:00,novana ,P08_1,natural soil,Habitat Vision
+MFD00130,soil,56.8224,9.6157,4589_12,natural_soil,6230,danish,27/09/2019 00:00,novana 4589-12 (6230),P08_1,natural soil,Habitat Vision
+MFD00131,soil,57.0004,10.3426,4156_1,natural_soil,1330,danish,29/09/2019 00:00,felt nr. 4156-1,P08_1,natural soil,Habitat Vision
+MFD00132,soil,57.3166,11.0886,5669_2,natural_soil,2140,danish,20/10/2019 00:00,novana nord 5669-2,P08_1,natural soil,Habitat Vision
+MFD00133,soil,57.3097,11.0301,4347_2,natural_soil,2130,danish,20/10/2019 00:00,novana 4347-2,P08_1,natural soil,Habitat Vision
+MFD00134,soil,57.0458,8.5838,4406_1,natural_soil,2190,danish,24/09/2019 00:00,novana 4406-1,P08_1,natural soil,Habitat Vision
+MFD00135,soil,57.0174,10.3549,4442_13,natural_soil,2190,danish,28/09/2019 00:00,novana 4442-13,P08_1,natural soil,Habitat Vision
+MFD00136,soil,57.3201,11.1684,4323_1,natural_soil,2140,danish,19/10/2019 00:00,novana 4323-1 proevefelt,P08_1,natural soil,Habitat Vision
+MFD00137,soil,57.3088,11.0343,4345_4,natural_soil,2140,danish,20/10/2019 00:00,novana 4345-4,P08_1,natural soil,Habitat Vision
+MFD00138,soil,57.4773,10.5126,4102_12,natural_soil,1330,danish,26/09/2019 00:00,novana 4102-12,P08_1,natural soil,Habitat Vision
+MFD00141,soil,57.3173,11.0504,NA,natural_soil,2110,danish,21/10/2019 00:00,novana - selvstændig skema bagpå,P08_1,natural soil,Habitat Vision
+MFD00142,soil,57.2383,11.0582,4515_3,natural_soil,4030,danish,23/10/2019 00:00,novana 4515-3,P08_1,natural soil,Habitat Vision
+MFD00143,soil,57.1395,9.3947,4441_3,natural_soil,2190,danish,24/09/2019 00:00,novana 4441-3,P08_1,natural soil,Habitat Vision
+MFD00144,soil,56.4847,8.894,3067-01,natural_soil,9190,danish,18/09/2019 00:00,"novana skovovervågning prøvefelt: 3067-01 flyndersø, skive",P08_1,natural soil,Habitat Vision
+MFD00145,soil,56.3986,9.3639,3070-13,natural_soil,9190,danish,17/09/2019 00:00,"novana skovovervågning v hald ege, felt nr. 3070-13",P08_1,natural soil,Habitat Vision
+MFD00146,soil,57.2092,10.5123,4155_2,natural_soil,1330,danish,26/09/2019 00:00,novana 4155-2,P08_1,natural soil,Habitat Vision
+MFD00147,soil,56.7005,8.4658,5090_2,natural_soil,6230,danish,11/09/2019 00:00,novana 5090-2,P08_1,natural soil,Habitat Vision
+MFD00148,soil,57.7379,10.6237,4427_8,natural_soil,2190,danish,18/09/2019 00:00,novana 4427-8,P08_1,natural soil,Habitat Vision
+MFD00149,soil,57.0571,8.5522,4307_7,natural_soil,2190,danish,10/09/2019 00:00,"novana 4307, felt 7, naturtype 2190x2140",P08_1,natural soil,Habitat Vision
+MFD00150,soil,57.7393,10.5925,4428_4,natural_soil,2190,danish,20/09/2019 00:00,novana 4428-4,P08_1,natural soil,Habitat Vision
+MFD00151,soil,57.0708,8.604,4310_2,natural_soil,2140,danish,10/09/2019 00:00,staton 4310,P08_1,natural soil,Habitat Vision
+MFD00152,soil,57.6302,10.3204,4439_1,natural_soil,2190,danish,17/09/2019 00:00,novana 4439-1,P08_1,natural soil,Habitat Vision
+MFD00153,soil,57.0276,8.5449,4408_11,natural_soil,2190,danish,12/09/2019 00:00,station 4408,P08_1,natural soil,Habitat Vision
+MFD00154,soil,57.0522,8.9284,4411_11,natural_soil,2190,danish,12/09/2019 00:00,4411-11,P08_1,natural soil,Habitat Vision
+MFD00155,soil,57.6314,10.3409,4437_16,natural_soil,2190,danish,16/09/2019 00:00,"novana 4437-16, klitlavning 2190+grårisklit 2170",P08_1,natural soil,Habitat Vision
+MFD00156,soil,57.0714,8.5965,4310_7,natural_soil,2140,danish,10/09/2019 00:00,"novana station 4310, prøvefelt 7",P08_1,natural soil,Habitat Vision
+MFD00157,soil,56.7934,8.628,4038_4,natural_soil,1330,danish,11/09/2019 00:00,"novana station og prøvefelt 4038-4, habitat naturtype 1330x1220",P08_1,natural soil,Habitat Vision
+MFD00158,soil,57.0692,8.6417,4308_4,natural_soil,2140,danish,09/09/2019 00:00,4308-4,P08_1,natural soil,Habitat Vision
+MFD00159,soil,57.0557,8.5586,4307_9,natural_soil,2140,danish,10/09/2019 00:00,novana feltnummer 4307-9,P08_1,natural soil,Habitat Vision
+MFD00160,soil,57.6305,10.3374,4438_22,natural_soil,2190,danish,16/09/2019 00:00,novana 4438-22 (klitlavning),P08_1,natural soil,Habitat Vision
+MFD00161,soil,57.7408,10.5709,4424_10,natural_soil,2190,danish,19/09/2019 00:00,novana 4424-10,P08_1,natural soil,Habitat Vision
+MFD00162,soil,56.9924,8.9172,NA,natural_soil,6230,danish,10/09/2019 00:00,"novana 1187-t10, vrj: findes ikke i miljøportal",P08_1,natural soil,Habitat Vision
+MFD00163,soil,57.0805,8.623,4309_11,natural_soil,2140,danish,09/09/2019 00:00,4309-11,P08_1,natural soil,Habitat Vision
+MFD00164,soil,56.7258,8.2404,4043_2,natural_soil,1330,danish,10/09/2019 00:00,novana 4043-2,P08_1,natural soil,Habitat Vision
+MFD00165,soil,56.7943,8.6029,4041_8,natural_soil,1330,danish,11/09/2019 00:00,novana station og prøvefelt 4041-8,P08_1,natural soil,Habitat Vision
+MFD00166,soil,56.9945,8.856,4055_1,natural_soil,1330,danish,12/09/2019 00:00,novana 4055-1,P08_1,natural soil,Habitat Vision
+MFD00579,soil,55.6087,9.8265,NA,natural_soil,9150,Danish,09/05/2020 11:19,orkide hotspot ved lille skovsø,P08_1,natural soil,Habitat Vision
+MFD00581,soil,56.0894,10.0573,NA,natural_soil,9100,Danish,15/04/2020 03:38,rødgran plantage mørk og gold,P08_1,natural soil,Habitat Vision
+MFD00582,soil,55.2298,9.4367,NA,natural_soil,91E0,English,07/04/2020 09:49,ellesump m gul iris,P08_1,natural soil,Habitat Vision
+MFD00583,soil,56.1043,10.5378,NA,natural_soil,6200,English,31/03/2020 06:05,limestone. young grassland,P08_1,natural soil,Habitat Vision
+MFD00584,soil,55.2349,9.5577,NA,natural_soil,9130,Danish,08/04/2020 02:03,ældre bøgeskov,P08_1,natural soil,Habitat Vision
+MFD00585,soil,55.2186,9.4069,NA,natural_soil,9100,Danish,07/04/2020 07:35,rødgran plantage,P08_1,natural soil,Habitat Vision
+MFD00586,soil,56.0358,9.9505,NA,natural_soil,7220,Danish,15/04/2020 04:34,kildevæld m milturt,P08_1,natural soil,Habitat Vision
+MFD00587,soil,56.1179,10.2095,NA,natural_soil,9130,English,21/04/2020 10:21,fin artsrig bøgeskov,P08_1,natural soil,Habitat Vision
+MFD00588,soil,55.2439,9.4477,NA,natural_soil,7200,Danish,07/04/2020 06:09,rørsump dom af tagrør,P08_1,natural soil,Habitat Vision
+MFD00590,soil,55.2409,9.3716,NA,natural_soil,7220,Danish,07/04/2020 04:56,kildevæld m milturt,P08_1,natural soil,Habitat Vision
+MFD00591,soil,55.5634,10.0802,NA,natural_soil,7200,English,20/04/2020 08:37,,P08_1,natural soil,Habitat Vision
+MFD00592,soil,55.5139,11.7644,NA,natural_soil,9150,Danish,28/05/2020 09:17,,P08_1,natural soil,Habitat Vision
+MFD00593,soil,55.2403,9.3725,NA,natural_soil,91E0,Danish,07/04/2020 04:35,elle- askeskov m milturt,P08_1,natural soil,Habitat Vision
+MFD00594,soil,56.0198,9.9007,NA,natural_soil,forest,English,15/04/2020 07:05,birkesump m skavgræs,P08_1,natural soil,Habitat Vision
+MFD00595,soil,55.6173,9.8464,NA,natural_soil,9100,Danish,09/05/2020 08:06,birkeskov på tør bund med dominans af ørnebregne,P08_1,natural soil,Habitat Vision
+MFD00596,soil,57.6622,10.381,NA,natural_soil,2120,English,09/05/2020 10:30,,P08_1,natural soil,Habitat Vision
+MFD00597,soil,55.2464,9.5127,NA,natural_soil,7200,Danish,08/04/2020 05:08,pilekrat p 3. vådt og gammel,P08_1,natural soil,Habitat Vision
+MFD00598,soil,55.2412,9.5315,NA,natural_soil,91D0,Danish,08/04/2020 04:31,birkemose med stort sphagnum dække,P08_1,natural soil,Habitat Vision
+MFD00599,soil,55.8058,12.3333,NA,natural_soil,6400,Danish,27/05/2020 04:16,stardomineret eng,P08_1,natural soil,Habitat Vision
+MFD00600,soil,56.23125,10.554201,,natural_soil,9190,Danish,16/02/2021 06:12,egekrat,P08_1,natural soil,Habitat Vision
+MFD00601,soil,56.0984,10.5119,NA,natural_soil,7200,English,31/03/2020 07:12,,P08_1,natural soil,Habitat Vision
+MFD00602,soil,56.5306,10.7261,NA,natural_soil,2140,English,28/04/2020 04:06,,P08_1,natural soil,Habitat Vision
+MFD00603,soil,56.2843,10.4711,NA,natural_soil,9130,English,31/03/2020 09:28,young forest,P08_1,natural soil,Habitat Vision
+MFD00604,soil,55.2301,9.4037,NA,natural_soil,7230,English,07/04/2020 08:58,"rigkær m topstar, p 3",P08_1,natural soil,Habitat Vision
+MFD00605,soil,56.0795,10.035,NA,natural_soil,9130,Danish,15/04/2020 02:31,bøgeskov med etager og med dominans af hvid anemone,P08_1,natural soil,Habitat Vision
+MFD00606,soil,56.2228,10.5858,NA,natural_soil,6410,English,17/04/2020 08:15,,P08_1,natural soil,Habitat Vision
+MFD00607,soil,55.5495,9.8003,NA,natural_soil,6210,Danish,20/04/2020 05:39,fint p 3 overdrev m djævelsbid,P08_1,natural soil,Habitat Vision
+MFD00608,soil,55.8923,9.8304,NA,natural_soil,6400,Danish,22/04/2020 09:45,fin eng på kant til mose.,P08_1,natural soil,Habitat Vision
+MFD00609,soil,55.2468,9.4218,NA,natural_soil,9160,Danish,07/04/2020 07:43,ege blandskov m bøg,P08_1,natural soil,Habitat Vision
+MFD00610,soil,56.1165,9.6637,NA,natural_soil,9120,English,01/05/2020 04:01,,P08_1,natural soil,Habitat Vision
+MFD00611,soil,56.3938,10.9031,NA,natural_soil,4030,English,22/04/2020 03:22,,P08_1,natural soil,Habitat Vision
+MFD00614,soil,55.2503,9.4521,NA,natural_soil,6400,Danish,07/04/2020 05:49,"kultur eng, p 3",P08_1,natural soil,Habitat Vision
+MFD00615,soil,55.6154,9.8402,NA,natural_soil,9160,Danish,09/05/2020 07:43,"artsrig bøgeskov, lidt lysåben",P08_1,natural soil,Habitat Vision
+MFD00616,soil,56.1657,10.5328,NA,natural_soil,dry grassland,English,31/03/2020 03:46,habitattype ?,P08_1,natural soil,Habitat Vision
+MFD00617,soil,56.5024,10.4403,NA,natural_soil,2140,English,07/05/2020 04:57,,P08_1,natural soil,Habitat Vision
+MFD00618,soil,55.5529,9.8314,NA,natural_soil,91E0,Danish,20/04/2020 03:24,elle-aske skov m elfensbenspadderok,P08_1,natural soil,Habitat Vision
+MFD00619,soil,55.2489,9.5175,NA,natural_soil,6230,English,08/04/2020 02:55,surt overdrev m fåresvingel,P08_1,natural soil,Habitat Vision
+MFD00620,soil,55.2502,9.4505,NA,natural_soil,7200,English,07/04/2020 06:01,"pilekrat, p 3",P08_1,natural soil,Habitat Vision
+MFD00621,soil,55.0728,9.4294,NA,natural_soil,91E0,English,07/04/2020 11:27,ellesump m stort mosdække,P08_1,natural soil,Habitat Vision
+MFD00622,soil,55.2473,9.5213,NA,natural_soil,4030,English,08/04/2020 04:46,hede i ringe tilstand,P08_1,natural soil,Habitat Vision
+MFD00623,soil,55.2477,9.5168,NA,natural_soil,91E0,English,08/04/2020 04:05,ung ellesump m engkabbeleje,P08_1,natural soil,Habitat Vision
+MFD00624,soil,55.252,9.5269,NA,natural_soil,7230,Danish,08/04/2020 03:11,rigkær m topstar p 3,P08_1,natural soil,Habitat Vision
+MFD00625,soil,55.2343,9.37,NA,natural_soil,7230,Danish,07/04/2020 03:12,rigkær m. topstar,P08_1,natural soil,Habitat Vision
+MFD00626,soil,55.9604,11.4511,NA,natural_soil,6230,Danish,25/05/2020 07:16,strandoverdrev med kobjælde,P08_1,natural soil,Habitat Vision
+MFD00627,soil,56.2831,10.4695,NA,natural_soil,9100,Danish,31/03/2020 08:57,,P08_1,natural soil,Habitat Vision
+MFD00628,soil,55.2481,9.5178,NA,natural_soil,7100,Danish,08/04/2020 03:39,fattig kær smalbladet kæruld og alm filtmos,P08_1,natural soil,Habitat Vision
+MFD00629,soil,56.021,9.9229,NA,natural_soil,91D0,English,15/04/2020 06:37,birkemose ,P08_1,natural soil,Habitat Vision
+MFD00630,soil,56.2731,10.4756,NA,natural_soil,9160,English,31/03/2020 08:32,rich soil,P08_1,natural soil,Habitat Vision
+MFD00632,soil,55.1777,9.6389,NA,natural_soil,6230,English,28/05/2020 07:41,,P08_1,natural soil,Habitat Vision
+MFD00633,soil,55.1757,9.637,NA,natural_soil,1210,English,28/05/2020 08:40,,P08_1,natural soil,Habitat Vision
+MFD00635,soil,55.8747,9.8756,NA,natural_soil,91E0,English,22/06/2020 03:34,,P08_1,natural soil,Habitat Vision
+MFD00637,soil,55.5499,9.8023,NA,natural_soil,6200,Danish,20/04/2020 05:26,p 3 tilgroet overdrev m gyvel,P08_1,natural soil,Habitat Vision
+MFD00639,soil,55.1253,10.2513,NA,natural_soil,6230,English,20/05/2020 10:05,,P08_1,natural soil,Habitat Vision
+MFD00640,soil,56.2289,10.5493,NA,natural_soil,9100,English,17/04/2020 02:28,,P08_1,natural soil,Habitat Vision
+MFD00641,soil,55.0344,10.7085,NA,natural_soil,6200,English,21/05/2020 05:28,,P08_1,natural soil,Habitat Vision
+MFD00642,soil,55.2534,9.3456,NA,natural_soil,7230,English,14/06/2020 06:40,,P08_1,natural soil,Habitat Vision
+MFD00643,soil,55.8749,9.8827,NA,natural_soil,Mose,English,22/06/2020 08:14,,P08_1,natural soil,Habitat Vision
+MFD00644,soil,56.8617,8.4218,5071-1,natural_soil,6230,English,07/09/2020 11:26, ,P08_1,natural soil,Habitat Vision
+MFD00645,soil,55.1239,10.2827,NA,natural_soil,7200,English,20/05/2020 08:32,,P08_1,natural soil,Habitat Vision
+MFD00646,soil,56.3134,9.763,NA,natural_soil,7200,English,02/06/2020 04:50, ,P08_1,natural soil,Habitat Vision
+MFD00647,soil,55.6003,12.3524,NA,natural_soil,1330,Danish,28/05/2020 03:24,,P08_1,natural soil,Habitat Vision
+MFD00648,soil,56.9949,8.8101,1135-18,natural_soil,1330,English,18/09/2020 04:00, ,P08_1,natural soil,Habitat Vision
+MFD00649,soil,55.566,10.0753,NA,natural_soil,2110,Danish,20/04/2020 09:50,hvid klit,P08_1,natural soil,Habitat Vision
+MFD00650,soil,56.0849,10.234,NA,natural_soil,91D0,English,23/04/2020 12:11,fin mose i skov med tørvemos,P08_1,natural soil,Habitat Vision
+MFD00652,soil,55.052,10.6215,NA,natural_soil,9130,English,21/05/2020 04:27,,P08_1,natural soil,Habitat Vision
+MFD00653,soil,55.1787,9.6406,NA,natural_soil,6230,English,28/05/2020 07:21,,P08_1,natural soil,Habitat Vision
+MFD00654,soil,56.165,10.5323,NA,natural_soil,6210,English,31/03/2020 04:13,limestone dry land,P08_1,natural soil,Habitat Vision
+MFD00655,soil,55.0599,10.6357,NA,natural_soil,7220,English,21/05/2020 04:06,,P08_1,natural soil,Habitat Vision
+MFD00656,soil,55.2532,9.3458,NA,natural_soil,6400,English,14/06/2020 06:28,,P08_1,natural soil,Habitat Vision
+MFD00658,soil,55.0438,10.5816,NA,natural_soil,6410,English,21/05/2020 03:35,,P08_1,natural soil,Habitat Vision
+MFD00659,soil,55.5515,9.8337,NA,natural_soil,6400,Danish,20/04/2020 05:00,skoveng,P08_1,natural soil,Habitat Vision
+MFD00660,soil,55.9054,8.5778,NA,natural_soil,4010,English,03/07/2020 05:28,,P08_1,natural soil,Habitat Vision
+MFD00661,soil,55.5529,9.8343,NA,natural_soil,9130,Danish,20/04/2020 04:35,bøgeskov m skovmærke,P08_1,natural soil,Habitat Vision
+MFD00662,soil,55.554,9.8317,NA,natural_soil,9130,Danish,20/04/2020 03:33,bøgeskov,P08_1,natural soil,Habitat Vision
+MFD00663,soil,56.2227,10.5859,NA,natural_soil,7230,English,17/04/2020 08:14,,P08_1,natural soil,Habitat Vision
+MFD00665,soil,55.3061,9.8969,NA,natural_soil,6210,English,21/05/2020 09:45,,P08_1,natural soil,Habitat Vision
+MFD00666,soil,55.2683,9.7829,NA,natural_soil,6200,English,21/05/2020 11:16,,P08_1,natural soil,Habitat Vision
+MFD00667,soil,56.1241,10.2183,NA,natural_soil,9130,Danish,21/04/2020 11:37,artsrig knold ved kystskrænt,P08_1,natural soil,Habitat Vision
+MFD00668,soil,55.8772,9.8758,NA,natural_soil,7200,English,22/06/2020 05:51,,P08_1,natural soil,Habitat Vision
+MFD00669,soil,56.2392,10.564,NA,natural_soil,7230,English,17/04/2020 05:15,,P08_1,natural soil,Habitat Vision
+MFD00670,soil,55.5962,12.3599,NA,natural_soil,1330,Danish,28/05/2020 04:11,tagrørsump,P08_1,natural soil,Habitat Vision
+MFD00671,soil,55.8721,9.8759,NA,natural_soil,6400,English,08/06/2020 05:39,,P08_1,natural soil,Habitat Vision
+MFD00672,soil,56.5087,10.8005,NA,natural_soil,9130,English,28/04/2020 04:59,,P08_1,natural soil,Habitat Vision
+MFD00673,soil,56.0929,10.2316,NA,natural_soil,7140,Danish,23/04/2020 10:59,hængesæk i skov,P08_1,natural soil,Habitat Vision
+MFD00674,soil,56.0317,9.9141,NA,natural_soil,9100,English,15/04/2020 07:42,lærke bevoksning,P08_1,natural soil,Habitat Vision
+MFD00675,soil,55.564,10.0797,NA,natural_soil,2130,Danish,20/04/2020 09:21,grå grøn klit tilgroet m rynket rose,P08_1,natural soil,Habitat Vision
+MFD00676,soil,57.1569,9.0225,NA,natural_soil,2140,Danish,25/04/2020 11:34,flot klithede med plettet kongepen,P08_1,natural soil,Habitat Vision
+MFD00677,soil,56.8547,9.858,NA,natural_soil,6230,English,19/05/2020 09:28,,P08_1,natural soil,Habitat Vision
+MFD00678,soil,55.5521,9.692, ,natural_soil,6400,Danish,24/08/2020 10:18,eng-44.1,P08_1,natural soil,Habitat Vision
+MFD00679,soil,56.104,10.2157,NA,natural_soil,7100,Danish,23/04/2020 12:25,pilesump ved sø,P08_1,natural soil,Habitat Vision
+MFD00680,soil,55.5142,11.7658,NA,natural_soil,91E0,Danish,28/05/2020 10:03,,P08_1,natural soil,Habitat Vision
+MFD00681,soil,56.6605,9.9487,1172-107,natural_soil,6210,Danish,25/08/2020 08:48,,P08_1,natural soil,Habitat Vision
+MFD00682,soil,56.235,10.5631,NA,natural_soil,9100,English,17/04/2020 07:02,spruce,P08_1,natural soil,Habitat Vision
+MFD00684,soil,55.6055,9.0153,NA,natural_soil,7230,English,20/04/2020 04:25,hv lokalitet - mosrigt rigkær,P08_1,natural soil,Habitat Vision
+MFD00685,soil,56.0184,9.6692,NA,natural_soil,7230,Danish,11/06/2020 05:07,under tilgroning,P08_1,natural soil,Habitat Vision
+MFD00686,soil,56.2364,10.5578,NA,natural_soil,6230,English,17/04/2020 04:32,,P08_1,natural soil,Habitat Vision
+MFD00688,soil,55.4501,9.1791,NA,natural_soil,7230,English,20/04/2020 05:21,mosdomineret rigkær,P08_1,natural soil,Habitat Vision
+MFD00689,soil,56.0928,10.2318,NA,natural_soil,9110,Danish,23/04/2020 10:39,bøgeskov på mosdomineret bund nær hængesæk,P08_1,natural soil,Habitat Vision
+MFD00690,soil,56.1164,10.2224,NA,natural_soil,9110,Danish,05/05/2020 11:28,morbundsknold med enkelte store bøge,P08_1,natural soil,Habitat Vision
+MFD00691,soil,56.0911,10.2464,NA,natural_soil,6210,Danish,23/04/2020 10:20,græsdomineret kalkoverdrev,P08_1,natural soil,Habitat Vision
+MFD00692,soil,55.5162,11.7663,NA,natural_soil,7230,Danish,28/05/2020 11:34,,P08_1,natural soil,Habitat Vision
+MFD00693,soil,56.4891,10.4167,NA,natural_soil,9190,English,07/05/2020 04:01,,P08_1,natural soil,Habitat Vision
+MFD00694,soil,55.9999,11.2885,NA,natural_soil,6210,Danish,25/05/2020 03:36,i slåenkrat,P08_1,natural soil,Habitat Vision
+MFD00695,soil,55.0458,10.5808,NA,natural_soil,91E0,English,21/05/2020 03:05,,P08_1,natural soil,Habitat Vision
+MFD00696,soil,56.0935,10.2474,NA,natural_soil,1230,Danish,23/04/2020 09:55,kystklima med lidt trykvandspåvirkning,P08_1,natural soil,Habitat Vision
+MFD00697,soil,55.5473,9.7958,NA,natural_soil,7200,Danish,20/04/2020 07:13,p 3 mose,P08_1,natural soil,Habitat Vision
+MFD00698,soil,56.2289,10.5478,NA,natural_soil,5130,English,17/04/2020 02:02,,P08_1,natural soil,Habitat Vision
+MFD00699,soil,56.2181,10.5842,NA,natural_soil,2130,English,17/04/2020 08:49,,P08_1,natural soil,Habitat Vision
+MFD00700,soil,56.0914,10.2338,NA,natural_soil,91E0,Danish,23/04/2020 11:24,fin skovmose,P08_1,natural soil,Habitat Vision
+MFD00701,soil,55.2244,9.4229,NA,natural_soil,9100,Danish,07/04/2020 08:13,douglas skov m rødgran,P08_1,natural soil,Habitat Vision
+MFD00702,soil,55.8052,12.3333,NA,natural_soil,6400,Danish,27/05/2020 04:33,lysesiv domineret område i eng,P08_1,natural soil,Habitat Vision
+MFD00703,soil,55.9372,10.026,NA,natural_soil,6400,Danish,22/04/2020 07:57,kultureng på kant til mose,P08_1,natural soil,Habitat Vision
+MFD00704,soil,55.9985,11.2897,NA,natural_soil,6410,Danish,25/05/2020 04:51,"stardomineret, meget call cusp., nu tørt, tid",P08_1,natural soil,Habitat Vision
+MFD00705,soil,57.6534,10.4069,NA,natural_soil,2120,English,09/05/2020 09:49,,P08_1,natural soil,Habitat Vision
+MFD00707,soil,55.5663,10.0762,NA,natural_soil,2120,Danish,20/04/2020 09:57,klit m havtorn,P08_1,natural soil,Habitat Vision
+MFD00708,soil,57.7378,10.6346,NA,natural_soil,2130,English,21/06/2020 07:03,,P08_1,natural soil,Habitat Vision
+MFD00710,soil,56.233,10.5598,NA,natural_soil,4030,English,17/04/2020 03:22,,P08_1,natural soil,Habitat Vision
+MFD00711,soil,56.0783,10.0319,NA,natural_soil,91E0,English,15/04/2020 02:46,elle aske sump m firblad,P08_1,natural soil,Habitat Vision
+MFD00712,soil,56.2395,10.5661,NA,natural_soil,91E0,English,17/04/2020 06:08,,P08_1,natural soil,Habitat Vision
+MFD00714,soil,56.1003,10.238,NA,natural_soil,9150,Danish,21/04/2020 12:03,svampe hotspot,P08_1,natural soil,Habitat Vision
+MFD00715,soil,54.9764,9.4168,NA,natural_soil,9190,English,29/04/2020 06:39,,P08_1,natural soil,Habitat Vision
+MFD00716,soil,55.8065,12.2414,NA,natural_soil,6210,Danish,27/05/2020 10:07,bjergrørhvene domineret,P08_1,natural soil,Habitat Vision
+MFD00717,soil,55.5544,9.8328,NA,natural_soil,9130,Danish,20/04/2020 03:54,bøgeskov med flot mosdække 9130x9110,P08_1,natural soil,Habitat Vision
+MFD00718,soil,56.0941,10.2394,NA,natural_soil,9100,Danish,23/04/2020 09:07,nåleskov med mosdomineret bund,P08_1,natural soil,Habitat Vision
+MFD00719,soil,56.0204,9.8973,NA,natural_soil,9190,English,15/04/2020 07:31,egekrat m bølget bunke,P08_1,natural soil,Habitat Vision
+MFD00720,soil,55.5536,9.8332,NA,natural_soil,9160,Danish,20/04/2020 04:16,gammel egeskov m opvækst af bøg,P08_1,natural soil,Habitat Vision
+MFD00721,soil,55.2213,9.3924,NA,natural_soil,9130,Danish,07/04/2020 06:57,ung ensaldrende bøgeskov uden stor naturværdi,P08_1,natural soil,Habitat Vision
+MFD00722,soil,55.7926,12.2649,NA,natural_soil,6400,Danish,27/05/2020 08:06,,P08_1,natural soil,Habitat Vision
+MFD00723,soil,55.6165,9.8447,NA,natural_soil,9120,Danish,09/05/2020 07:55,"blottet morbund ved kystskrænt, en del mos",P08_1,natural soil,Habitat Vision
+MFD00724,soil,55.9998,11.2889,NA,natural_soil,1220,Danish,25/05/2020 06:12,,P08_1,natural soil,Habitat Vision
+MFD00725,soil,56.3443,9.7833,NA,natural_soil,6230,English,08/06/2020 02:57, ,P08_1,natural soil,Habitat Vision
+MFD00728,soil,55.2373,9.3775,NA,natural_soil,6200,Danish,07/04/2020 03:59,p 3 overdrev med fårestier,P08_1,natural soil,Habitat Vision
+MFD00729,soil,55.2432,9.4477,NA,natural_soil,6200,Danish,07/04/2020 06:17,p3 kalk overdrev. ringe.,P08_1,natural soil,Habitat Vision
+MFD00730,soil,56.0364,9.9498,NA,natural_soil,6200,Danish,15/04/2020 04:20,nitrophil overdrev,P08_1,natural soil,Habitat Vision
+MFD00731,soil,56.2289,10.2307,NA,natural_soil,2320,Danish,05/04/2020 04:55,indlandsklit. obs app virkede ikke i felten. derfor upload ved hjemkomst,P08_1,natural soil,Habitat Vision
+MFD00732,soil,55.2496,9.3512,NA,natural_soil,9130,Danish,07/04/2020 05:20,bøgeskov m tandrod,P08_1,natural soil,Habitat Vision
+MFD00733,soil,55.2311,9.5552,NA,natural_soil,6400,Danish,08/04/2020 02:20,natur eng p 3 dom fløjlsgræs,P08_1,natural soil,Habitat Vision
+MFD00734,soil,55.222,9.4297,NA,natural_soil,9130,Danish,07/04/2020 08:46,"bøge skov, overgræsset af hjorte i dyrehave",P08_1,natural soil,Habitat Vision
+MFD00736,soil,56.0292,9.9628,NA,natural_soil,9130,Danish,15/04/2020 05:32,ældre bøgeskov,P08_1,natural soil,Habitat Vision
+MFD00737,soil,55.2388,9.3753,NA,natural_soil,6400,Danish,07/04/2020 03:24,paragraf 3 eng.,P08_1,natural soil,Habitat Vision
+MFD00738,soil,56.1579,10.5332,NA,natural_soil,4030,English,31/03/2020 04:47,dry heath,P08_1,natural soil,Habitat Vision
+MFD00739,soil,55.2188,9.4388,NA,natural_soil,6400,Danish,07/04/2020 08:30,"skoveng, p 3 natureng i dyrehave",P08_1,natural soil,Habitat Vision
+MFD00740,soil,56.097,10.5121,NA,natural_soil,6200,English,31/03/2020 07:22,,P08_1,natural soil,Habitat Vision
+MFD00741,soil,56.0343,9.9525,NA,natural_soil,9110,English,15/04/2020 05:01,,P08_1,natural soil,Habitat Vision
+MFD00743,soil,56.1206,10.2119,NA,natural_soil,9150,English,21/04/2020 10:30,bøg på kalk. skrænt med fingerstar og skovhundegræs,P08_1,natural soil,Habitat Vision
+MFD00744,soil,55.5534,9.8334,NA,natural_soil,9160,Danish,20/04/2020 04:25,egeskov m hassel og primula,P08_1,natural soil,Habitat Vision
+MFD00745,soil,56.2335,10.5592,NA,natural_soil,5130,English,17/04/2020 03:50,,P08_1,natural soil,Habitat Vision
+MFD00746,soil,55.2301,9.3889,NA,natural_soil,9160,Danish,07/04/2020 06:42,egeskov,P08_1,natural soil,Habitat Vision
+MFD00747,soil,56.081224,10.510455,,natural_soil,7200,Danish,11/02/2021 08:41,rigkær,P08_1,natural soil,Habitat Vision
+MFD00748,soil,55.615472,9.838535,,natural_soil,9110,Danish,16/02/2021 06:14,egeskov,P08_1,natural soil,Habitat Vision
+MFD00749,soil,55.549,9.7984000000000009,NA,natural_soil,7220,Danish,20/04/2020 06:28,kildevæld/trykvand,P08_1,natural soil,Habitat Vision
+MFD00750,soil,56.0289,9.9619,NA,natural_soil,7200,Danish,15/04/2020 05:22,skov mose,P08_1,natural soil,Habitat Vision
+MFD00751,soil,56.5306,10.7069,NA,natural_soil,1330,English,28/04/2020 03:47,,P08_1,natural soil,Habitat Vision
+MFD00752,soil,56.2149,10.5778,NA,natural_soil,5130,English,18/05/2020 05:07,,P08_1,natural soil,Habitat Vision
+MFD00753,soil,55.2391,9.3739,NA,natural_soil,6200,Danish,07/04/2020 04:21,ungt p 3 overdrev,P08_1,natural soil,Habitat Vision
+MFD00755,soil,55.5541,9.8334,NA,natural_soil,9160,Danish,20/04/2020 04:04,ege skov m bøg,P08_1,natural soil,Habitat Vision
+MFD00757,soil,56.5326,10.7993,NA,natural_soil,7200,English,28/04/2020 07:20,rørsump,P08_1,natural soil,Habitat Vision
+MFD00758,soil,55.8143,12.315,NA,natural_soil,6230,Danish,27/05/2020 06:10,,P08_1,natural soil,Habitat Vision
+MFD00759,soil,55.8067,12.2417,NA,natural_soil,6210,Danish,27/05/2020 10:26,ugræsset areal udenfor fold- men flot vegetation,P08_1,natural soil,Habitat Vision
+MFD00760,soil,57.1513,8.9944,NA,natural_soil,2910,Danish,25/04/2020 10:11,fin klitlavning med klokkeensian,P08_1,natural soil,Habitat Vision
+MFD00763,soil,56.5305,10.4059,NA,natural_soil,2190,English,07/05/2020 07:49,,P08_1,natural soil,Habitat Vision
+MFD00764,soil,56.2747,10.4754,NA,natural_soil,9100,Danish,31/03/2020 09:19,,P08_1,natural soil,Habitat Vision
+MFD00765,soil,55.608,9.8269,NA,natural_soil,1230,Danish,09/05/2020 11:48,kystskrænt på plastisk ler,P08_1,natural soil,Habitat Vision
+MFD00766,soil,55.5637,10.0793,NA,natural_soil,2130,English,20/04/2020 09:03,,P08_1,natural soil,Habitat Vision
+MFD00767,soil,56.2827,10.4696,NA,natural_soil,91D0,English,31/03/2020 08:47,,P08_1,natural soil,Habitat Vision
+MFD00768,soil,55.2403,9.3712,NA,natural_soil,9130,Danish,07/04/2020 04:43,ung bøgeskov,P08_1,natural soil,Habitat Vision
+MFD00770,soil,55.8994,9.8814,NA,natural_soil,7200,Danish,22/04/2020 09:18,"højstaude mose domineret af lådden dueurt. dårlig tilstand. eutrof, drænet",P08_1,natural soil,Habitat Vision
+MFD00771,soil,56.1025,10.5364,NA,natural_soil,6120,English,31/03/2020 05:46,,P08_1,natural soil,Habitat Vision
+MFD00772,soil,55.5502,9.8006,NA,natural_soil,1220,Danish,20/04/2020 06:00,flerårige urter på strandvold,P08_1,natural soil,Habitat Vision
+MFD00773,soil,55.5485,9.7968,NA,natural_soil,7230,Danish,20/04/2020 06:53,rigkær nær kysten,P08_1,natural soil,Habitat Vision
+MFD00775,soil,55.8146,12.3147,NA,natural_soil,6230,Danish,27/05/2020 06:26,"stejl skrænt, delvis under træer",P08_1,natural soil,Habitat Vision
+MFD00776,soil,56.2398,10.5645,NA,natural_soil,9100,English,17/04/2020 05:40,willow,P08_1,natural soil,Habitat Vision
+MFD00777,soil,56.2384,10.5653,NA,natural_soil,7220,English,17/04/2020 06:35,spring,P08_1,natural soil,Habitat Vision
+MFD00778,soil,55.0729,9.43,NA,natural_soil,7230,Danish,07/04/2020 11:03,fint rigkær,P08_1,natural soil,Habitat Vision
+MFD00804,soil,56.9676,9.612,NA,natural_soil,1300,English,11/03/2020 08:16,salt meadow ,P08_3,natural soil,MFD
+MFD00805,soil,56.9609,9.5813,NA,natural_soil,1300,English,11/03/2020 14:05,salt meadow ,P08_3,natural soil,MFD
+MFD00806,soil ,56.9676,9.612,NA,natural_soil,1300,English,11/03/2020 13:48,salt meadow ,P08_3,natural soil,MFD
+MFD00807,soil,56.9676,9.612,NA,natural_soil,1300,English,11/03/2020 13:29,salt meadow ,P08_3,natural soil,MFD
+MFD00808,soil,56.9676,9.612,NA,natural_soil,1300,English,11/03/2020 13:16,salt meadow ,P08_3,natural soil,MFD
+MFD00819,soil,56.9613,9.585,NA,natural_soil,1300,English,11/03/2020 12:25,salt meadow ,P08_3,natural soil,MFD
+MFD00820,soil,56.9614,9.5857,NA,natural_soil,1300,English,11/03/2020 12:00,salt meadow ,P08_3,natural soil,MFD
+MFD00821,soil,56.9613,9.5871,NA,natural_soil,1300,English,11/03/2020 11:38,salt meadow ,P08_3,natural soil,MFD
+MFD00822,soil,56.9676,9.612,NA,natural_soil,1300,English,11/03/2020 11:05,salt meadow ,P08_3,natural soil,MFD
+MFD00823,soil,56.9608,9.5708,NA,natural_soil,1300,English,11/03/2020 10:36,salt meadow,P08_3,natural soil,MFD
+MFD00851,soil,55.5962,12.3595,NA,natural_soil,1330,Danish,28/05/2020 04:12,"tør øvre del, fåregræsset",P08_1,natural soil,Habitat Vision
+MFD00852,soil,57.2754,10.9489,1044-21,natural_soil,4010,English,21/10/2020 06:17,,P08_3,natural soil,MFD
+MFD00855,soil,56.1811,8.9456,NA,natural_soil,9190,English,01/06/2020 04:10, ,P08_1,natural soil,Habitat Vision
+MFD00856,soil,55.9979,11.2879,NA,natural_soil,4030,Danish,25/05/2020 05:30,,P08_1,natural soil,Habitat Vision
+MFD00857,soil,55.4979,9.3152,LUJ-Åkær Å_mose-96,natural_soil,7220,Danish,15/09/2020 03:56,"kolding kommune pg3, luj-åkær å-ny mose 1",P08_1,natural soil,Habitat Vision
+MFD00858,soil,55.9994,11.2891,NA,natural_soil,6210,Danish,25/05/2020 04:08,"fin flora, kuperet område.",P08_1,natural soil,Habitat Vision
+MFD00860,soil,56.0513,9.5985,NA,natural_soil,7100,Danish,03/06/2020 07:24,trykvandspåvirket næringsfattig mose på skrænt,P08_1,natural soil,Habitat Vision
+MFD00861,soil,56.1797,8.9483,NA,natural_soil,9110,English,01/06/2020 04:56, ,P08_1,natural soil,Habitat Vision
+MFD00862,soil,55.535,9.36,LUJ-ferup_mose-62,natural_soil,7200,Danish,14/09/2020 12:09,"kolding kommune pg3, luj-ferup-mose-62",P08_1,natural soil,Habitat Vision
+MFD00863,soil,56.0639,9.625,NA,natural_soil,91D0,Danish,04/06/2020 06:17,tørvemos i bunden og ok med dødt ved,P08_1,natural soil,Habitat Vision
+MFD00864,soil,55.8031,12.3367,NA,natural_soil,7230,Danish,26/05/2020 10:45,dominans af mos og kærbregne,P08_1,natural soil,Habitat Vision
+MFD00865,soil,56.1245,8.9639,NA,natural_soil,4010,English,01/06/2020 05:31, ,P08_1,natural soil,Habitat Vision
+MFD00868,soil,55.3059,9.8997,NA,natural_soil,6230,English,21/05/2020 11:20,,P08_1,natural soil,Habitat Vision
+MFD00870,soil,56.6918,9.5115,,natural_soil,6230,Danish,21/09/2020 04:52,"1198, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD00871,soil,55.998,11.2901,NA,natural_soil,6400,Danish,25/05/2020 05:08,eng domineret af bjergrørhvene,P08_1,natural soil,Habitat Vision
+MFD00872,soil,55.4739,9.2937,LUJ-Lunderskov_mose-134,natural_soil,7200,Danish,15/09/2020 08:13,kolding kommune luj-lunderskov_ny mose kort d27,P08_1,natural soil,Habitat Vision
+MFD00873,soil,55.8026,12.3374,NA,natural_soil,7200,Danish,26/05/2020 10:32,,P08_1,natural soil,Habitat Vision
+MFD00874,soil,55.8031,12.3376,NA,natural_soil,7230,Danish,26/05/2020 09:58,,P08_1,natural soil,Habitat Vision
+MFD00875,soil,56.0613,9.6396,NA,natural_soil,7140,Danish,04/06/2020 09:43,,P08_1,natural soil,Habitat Vision
+MFD00876,soil,56.6675,9.9489,1072-5,natural_soil,6210,Danish,25/08/2020 07:53,,P08_1,natural soil,Habitat Vision
+MFD00877,soil,56.1794,8.9443,NA,natural_soil,6230,English,01/06/2020 04:33, ,P08_1,natural soil,Habitat Vision
+MFD00878,soil,57.0628,8.9423,NA,natural_soil,2130,Danish,22/07/2020 03:16,,P08_1,natural soil,Habitat Vision
+MFD00879,soil,56.3133,9.752,NA,natural_soil,6400,English,03/06/2020 07:42, ,P08_1,natural soil,Habitat Vision
+MFD00880,soil,55.8043,12.3387,NA,natural_soil,6200,Danish,26/05/2020 08:49,,P08_1,natural soil,Habitat Vision
+MFD00881,soil,56.3381,9.7552,NA,natural_soil,6410,English,04/06/2020 03:06, ,P08_1,natural soil,Habitat Vision
+MFD00882,soil,55.0596,10.6243,NA,natural_soil,9160,English,21/05/2020 04:32,,P08_1,natural soil,Habitat Vision
+MFD00883,soil,56.3136,9.7637,NA,natural_soil,6410,English,02/06/2020 04:23, ,P08_1,natural soil,Habitat Vision
+MFD00884,soil,56.0165,9.6718,NA,natural_soil,91D0,Danish,11/06/2020 06:51,sphagnumdække i bunden og ok med dødt ved,P08_1,natural soil,Habitat Vision
+MFD00885,soil,55.9557,9.7665,NA,natural_soil,7000,English,27/05/2020 02:30, ,P08_1,natural soil,Habitat Vision
+MFD00886,soil,55.2712,8.9408,NA,natural_soil,2320,English,14/06/2020 08:07,,P08_1,natural soil,Habitat Vision
+MFD00887,soil,56.0236,9.6622,NA,natural_soil,91D0,Danish,11/06/2020 10:08,,P08_1,natural soil,Habitat Vision
+MFD00888,soil,55.8844,9.9098,NA,natural_soil,6400,English,25/05/2020 03:42, ,P08_1,natural soil,Habitat Vision
+MFD00890,soil,55.4966,9.3238,LUJ-Lunderskov_overdrev-75,natural_soil,6230,Danish,15/09/2020 06:52,"fint artsrigt overdrev med djævelsbid og mælkeurt, kolding kommune luj-lunderskov_overdrev-75",P08_1,natural soil,Habitat Vision
+MFD00891,soil,55.8036,12.3378,NA,natural_soil,7200,Danish,26/05/2020 09:40,kærstar dom. mose tilgroet i pil,P08_1,natural soil,Habitat Vision
+MFD00893,soil,55.2447,9.5515,NA,natural_soil,6400,English,28/05/2020 04:45,,P08_1,natural soil,Habitat Vision
+MFD00894,soil,55.306,9.8996,NA,natural_soil,6200,English,21/05/2020 11:17,,P08_1,natural soil,Habitat Vision
+MFD00895,soil,55.4787,9.2749,LUJ-Lunderskov_mose-136,natural_soil,7230,Danish,16/09/2020 04:16,"kolding kommune, luj-lunderskov_ny mose kort d25",P08_1,natural soil,Habitat Vision
+MFD00896,soil,55.2444,9.5515,NA,natural_soil,6400,English,28/05/2020 04:54,,P08_1,natural soil,Habitat Vision
+MFD00897,soil,55.8052,12.3329,NA,natural_soil,6210,Danish,27/05/2020 05:01,kalkoverdrev under tilgroning men fine arter,P08_1,natural soil,Habitat Vision
+MFD00898,soil,55.803,12.3381,NA,natural_soil,91E0,Danish,26/05/2020 11:35,,P08_1,natural soil,Habitat Vision
+MFD00899,soil,56.6773,9.4804,1197-3,natural_soil,6230,Danish,17/09/2020 03:54,fint 6230 med guldblomme og stejle skråninger med fårestier,P08_1,natural soil,Habitat Vision
+MFD00900,soil,55.8039,12.3373,NA,natural_soil,9130,Danish,26/05/2020 09:28,store bøge og meget dødt ved,P08_1,natural soil,Habitat Vision
+MFD00901,soil,56.0506,9.7029,NA,natural_soil,6230,Danish,11/06/2020 11:45,,P08_1,natural soil,Habitat Vision
+MFD00903,soil,55.1469,10.2867,NA,natural_soil,9110,English,20/05/2020 09:08,,P08_1,natural soil,Habitat Vision
+MFD00904,soil,56.1823,8.9479,NA,natural_soil,4030,English,01/06/2020 03:44, ,P08_1,natural soil,Habitat Vision
+MFD00906,soil,55.2447,9.5488,NA,natural_soil,7230,English,28/05/2020 02:32,,P08_1,natural soil,Habitat Vision
+MFD00907,soil,55.8028,12.3393,NA,natural_soil,91E0,Danish,26/05/2020 11:59,"starsump og forhøjning med frytle, gulaks, tormentil",P08_1,natural soil,Habitat Vision
+MFD00908,soil,56.3432,9.7767,NA,natural_soil,6230,English,08/06/2020 04:40, ,P08_1,natural soil,Habitat Vision
+MFD00909,soil,55.8045,12.3386,NA,natural_soil,6210,Danish,26/05/2020 08:21,,P08_1,natural soil,Habitat Vision
+MFD00910,soil,56.1251,8.9569,NA,natural_soil,7100,English,01/06/2020 08:59, ,P08_1,natural soil,Habitat Vision
+MFD00911,soil,55.8031,12.3372,NA,natural_soil,7230,Danish,26/05/2020 11:13,høslet -dominans af butblomstret siv,P08_1,natural soil,Habitat Vision
+MFD00912,soil,55.0429,10.5782,NA,natural_soil,6200,English,20/05/2020 11:16,,P08_1,natural soil,Habitat Vision
+MFD00913,soil,57.154,9.0464,NA,natural_soil,2130,Danish,21/07/2020 03:52,,P08_1,natural soil,Habitat Vision
+MFD00915,soil,55.5961,12.3589,NA,natural_soil,6200,Danish,28/05/2020 04:28,strandoverdrev,P08_1,natural soil,Habitat Vision
+MFD00916,soil,57.2868,10.9764,5659-1,natural_soil,4030,English,20/10/2020 08:27,,P08_3,natural soil,MFD
+MFD00917,soil,55.5246,9.8379, ,natural_soil,6200,Danish,25/08/2020 04:22,overdrev-328,P08_1,natural soil,Habitat Vision
+MFD00918,soil,55.034,10.7141,NA,natural_soil,6200,English,21/05/2020 06:25,,P08_1,natural soil,Habitat Vision
+MFD00919,soil,55.8723,9.8766,NA,natural_soil,6210,English,08/06/2020 09:27,,P08_1,natural soil,Habitat Vision
+MFD00920,soil,56.182,8.9483,NA,natural_soil,4030,English,01/06/2020 03:30, ,P08_1,natural soil,Habitat Vision
+MFD00922,soil,55.5165,11.7681,NA,natural_soil,6210,Danish,28/05/2020 10:38,ved flueblomst!!!,P08_1,natural soil,Habitat Vision
+MFD00923,soil,56.0614,9.632,NA,natural_soil,4000,Danish,04/06/2020 07:17,,P08_1,natural soil,Habitat Vision
+MFD00924,soil,55.9604,11.4504,NA,natural_soil,6230,Danish,25/05/2020 07:54,tilgroet i rynket rose,P08_1,natural soil,Habitat Vision
+MFD00926,soil,56.0158,9.672,NA,natural_soil,91D0,Danish,11/06/2020 07:47,,P08_1,natural soil,Habitat Vision
+MFD00927,soil,55.1262,10.2838,NA,natural_soil,7200,English,20/05/2020 08:17,,P08_1,natural soil,Habitat Vision
+MFD00929,soil,55.1389,10.2873,NA,natural_soil,9100,Danish,20/05/2020 03:44,normans gran,P08_1,natural soil,Habitat Vision
+MFD00930,soil,56.017,9.6699,NA,natural_soil,91D0,Danish,11/06/2020 05:38,,P08_1,natural soil,Habitat Vision
+MFD00931,soil,55.9139,9.6215,NA,natural_soil,7230,English,01/07/2020 03:05,,P08_1,natural soil,Habitat Vision
+MFD00932,soil,55.1247,10.2768,NA,natural_soil,9100,Danish,20/05/2020 08:56,gammel douglas bevoksning,P08_1,natural soil,Habitat Vision
+MFD00934,soil,55.6034,12.3515,NA,natural_soil,6200,Danish,28/05/2020 06:12,overdrev i strandeng,P08_1,natural soil,Habitat Vision
+MFD00935,soil,55.0343,10.7136,NA,natural_soil,1330,English,21/05/2020 06:15,,P08_1,natural soil,Habitat Vision
+MFD00937,soil,55.244,9.5516,NA,natural_soil,7200,English,28/05/2020 06:22,,P08_1,natural soil,Habitat Vision
+MFD00939,soil,55.8837,9.9085,NA,natural_soil,7320,English,25/05/2020 03:14, ,P08_1,natural soil,Habitat Vision
+MFD00940,soil,56.6879,10.0977,1258-33,natural_soil,6210,Danish,25/08/2020 04:29,,P08_1,natural soil,Habitat Vision
+MFD00941,soil,55.3052,9.8992,NA,natural_soil,7200,English,21/05/2020 09:22,,P08_1,natural soil,Habitat Vision
+MFD00944,soil,56.1243,8.964,NA,natural_soil,6400,English,01/06/2020 08:17, ,P08_1,natural soil,Habitat Vision
+MFD00945,soil,56.6874,10.0978,1258-20,natural_soil,6210,Danish,25/08/2020 05:16,,P08_1,natural soil,Habitat Vision
+MFD00946,soil,55.9972,11.2879,NA,natural_soil,4000,Danish,25/05/2020 05:47,,P08_1,natural soil,Habitat Vision
+MFD00947,soil,56.0692,8.1008,NA,natural_soil,2120,English,06/06/2020 09:13,,P08_1,natural soil,Habitat Vision
+MFD00948,soil,55.9998,11.2883,NA,natural_soil,6210,Danish,25/05/2020 03:56,ugræsset næringsrigt overdrev,P08_1,natural soil,Habitat Vision
+MFD00949,soil,56.5021,10.44,NA,natural_soil,2190,English,07/05/2020 08:08,,P08_1,natural soil,Habitat Vision
+MFD00950,soil,56.3846,9.906,NA,natural_soil,9160,English,08/05/2020 03:55,,P08_1,natural soil,Habitat Vision
+MFD00952,soil,56.0218,9.1647,NA,natural_soil,4010,English,12/05/2020 03:30, ,P08_1,natural soil,Habitat Vision
+MFD00953,soil,56.5253,10.4209,NA,natural_soil,2140,English,07/05/2020 06:05,,P08_1,natural soil,Habitat Vision
+MFD00954,soil,56.5255,10.4209,NA,natural_soil,2190,English,07/05/2020 06:19,,P08_1,natural soil,Habitat Vision
+MFD00955,soil,56.8525,9.8631,NA,natural_soil,9110,English,12/06/2020 06:25, ,P08_1,natural soil,Habitat Vision
+MFD00956,soil,55.138814000000004,10.270031,NA,natural_soil,9160,English,20/05/2020 11:28,,P08_1,natural soil,Habitat Vision
+MFD00957,soil,56.5246,10.4191,NA,natural_soil,2140,English,07/05/2020 05:57,,P08_1,natural soil,Habitat Vision
+MFD00958,soil,56.845,9.85,NA,natural_soil,9130,English,12/06/2020 07:22, ,P08_1,natural soil,Habitat Vision
+MFD00959,soil,56.3073,9.6989,NA,natural_soil,6400,English,28/05/2020 07:31, ,P08_1,natural soil,Habitat Vision
+MFD00960,soil,57.6535,10.4074,NA,natural_soil,4010,English,09/05/2020 09:24,,P08_1,natural soil,Habitat Vision
+MFD00961,soil,56.0184,9.1659,NA,natural_soil,9100,Danish,12/05/2020 07:22,nåleskov,P08_1,natural soil,Habitat Vision
+MFD00962,soil,55.5165,11.7698,NA,natural_soil,6210,Danish,28/05/2020 11:16,tidligt succesionsstadie,P08_1,natural soil,Habitat Vision
+MFD00964,soil,56.0298,9.1593,NA,natural_soil,2310,Danish,12/05/2020 05:45,indlandsklit m. revling og engelsk visse 2310x2320,P08_1,natural soil,Habitat Vision
+MFD00965,soil,55.8066,12.3332,NA,natural_soil,6400,Danish,27/05/2020 03:33,artsrig mosdomineret eng,P08_1,natural soil,Habitat Vision
+MFD00966,soil,56.2634,10.6337,NA,natural_soil,6200,English,05/06/2020 10:05, ,P08_1,natural soil,Habitat Vision
+MFD00968,soil,56.237,10.3327,NA,natural_soil,9100,Danish,12/05/2020 06:06,birke fyrreskov,P08_1,natural soil,Habitat Vision
+MFD00969,soil,56.5211,10.4187,NA,natural_soil,2190,English,07/05/2020 06:09,,P08_1,natural soil,Habitat Vision
+MFD00970,soil,56.8557,9.8601,NA,natural_soil,9100,Danish,19/05/2020 08:31,nål,P08_1,natural soil,Habitat Vision
+MFD00971,soil,56.016,9.1474,NA,natural_soil,7110,English,12/05/2020 08:49, ,P08_1,natural soil,Habitat Vision
+MFD00972,soil,56.2555,10.0856,NA,natural_soil,91E0,Danish,12/05/2020 10:42,,P08_1,natural soil,Habitat Vision
+MFD00973,soil,56.3012,9.6823,NA,natural_soil,7140,English,27/05/2020 05:24, ,P08_1,natural soil,Habitat Vision
+MFD00974,soil,56.5024,10.4406,NA,natural_soil,2130,English,07/05/2020 04:22,,P08_1,natural soil,Habitat Vision
+MFD00975,soil,55.8066,12.2415,NA,natural_soil,6210,Danish,27/05/2020 08:49,,P08_1,natural soil,Habitat Vision
+MFD00976,soil,56.5237,10.4157,NA,natural_soil,2140,English,07/05/2020 07:00,,P08_1,natural soil,Habitat Vision
+MFD00977,soil,56.2551,10.0857,NA,natural_soil,7230,Danish,12/05/2020 10:20,trykvandspåvirket rigkær på skrænt,P08_1,natural soil,Habitat Vision
+MFD00978,soil,56.0212,9.1617,NA,natural_soil,4010,English,12/05/2020 03:54, ,P08_1,natural soil,Habitat Vision
+MFD00979,soil,56.0279,9.1531,NA,natural_soil,4030,English,12/05/2020 05:14, ,P08_1,natural soil,Habitat Vision
+MFD00980,soil,56.519786,10.434166,,natural_soil,6230,Danish,16/02/2021 06:15,surt overdrev,P08_1,natural soil,Habitat Vision
+MFD00981,soil,56.0173,9.1496,NA,natural_soil,4030,English,12/05/2020 09:07, ,P08_1,natural soil,Habitat Vision
+MFD00982,soil,56.5306,10.4081,NA,natural_soil,91D0,English,07/05/2020 08:12,,P08_1,natural soil,Habitat Vision
+MFD00983,soil,55.123654,10.270851,NA,natural_soil,7140,English,20/05/2020 11:20,,P08_1,natural soil,Habitat Vision
+MFD00984,soil,56.5317,10.408,NA,natural_soil,1330,English,07/05/2020 07:47,,P08_1,natural soil,Habitat Vision
+MFD00985,soil,56.1832,10.169,NA,natural_soil,6410,Danish,26/05/2020 05:57,mellemting mellem overdrev og eng. ,P08_1,natural soil,Habitat Vision
+MFD00986,soil,56.1229,8.9583,NA,natural_soil,6410,English,01/06/2020 08:42, ,P08_1,natural soil,Habitat Vision
+MFD00987,soil,56.0167,9.1478,NA,natural_soil,7100,English,12/05/2020 08:16, ,P08_1,natural soil,Habitat Vision
+MFD00988,soil,55.2708,8.9407,NA,natural_soil,2190,English,14/06/2020 07:56,,P08_1,natural soil,Habitat Vision
+MFD00993,soil,56.3131,9.7438,NA,natural_soil,6400,English,03/06/2020 04:56, ,P08_1,natural soil,Habitat Vision
+MFD00994,soil,56.5239,10.6276,NA,natural_soil,2180,English,16/05/2020 07:32,,P08_1,natural soil,Habitat Vision
+MFD00996,soil,56.5317,10.4086,NA,natural_soil,1330,English,07/05/2020 07:58,,P08_1,natural soil,Habitat Vision
+MFD00997,soil,56.3436,9.7792,NA,natural_soil,6410,English,08/06/2020 03:39, ,P08_1,natural soil,Habitat Vision
+MFD01000,soil,56.3236,9.7734,NA,natural_soil,6400,English,11/06/2020 06:49, ,P08_1,natural soil,Habitat Vision
+MFD01002,soil,56.482,10.3855,NA,natural_soil,2140,English,07/05/2020 03:34,,P08_1,natural soil,Habitat Vision
+MFD01003,soil,56.525,10.6295,NA,natural_soil,2120,English,16/05/2020 06:58,,P08_1,natural soil,Habitat Vision
+MFD01004,soil,56.482,10.3855,NA,natural_soil,2130,English,07/05/2020 03:11,,P08_1,natural soil,Habitat Vision
+MFD01005,soil,56.526,10.4227,NA,natural_soil,2190,English,07/05/2020 06:28,,P08_1,natural soil,Habitat Vision
+MFD01006,soil,56.1832,10.169,NA,natural_soil,6400,English,26/05/2020 05:22, ,P08_1,natural soil,Habitat Vision
+MFD01008,soil,56.0517,9.5988,NA,natural_soil,7100,Danish,03/06/2020 06:05,dom. af lysesiv,P08_1,natural soil,Habitat Vision
+MFD01009,soil,56.1959,10.6789,NA,natural_soil,6230,English,05/06/2020 04:52, ,P08_1,natural soil,Habitat Vision
+MFD01010,soil,56.022,9.1501,NA,natural_soil,4030,English,12/05/2020 04:31, ,P08_1,natural soil,Habitat Vision
+MFD01011,soil,56.3128,9.7456,NA,natural_soil,6400,English,03/06/2020 04:13, ,P08_1,natural soil,Habitat Vision
+MFD01012,soil,57.6534,10.407,NA,natural_soil,2130,English,09/05/2020 09:34,,P08_1,natural soil,Habitat Vision
+MFD01013,soil,56.189,10.0096,NA,natural_soil,6400,English,16/06/2020 04:41, ,P08_1,natural soil,Habitat Vision
+MFD01014,soil,56.2375,10.3366,NA,natural_soil,4030,Danish,12/05/2020 06:50,,P08_1,natural soil,Habitat Vision
+MFD01016,soil,56.3242,9.7707,NA,natural_soil,6400,English,11/06/2020 05:40, ,P08_1,natural soil,Habitat Vision
+MFD01017,soil,55.8763,9.6852,NA,natural_soil,91E0,English,30/06/2020 03:41,,P08_1,natural soil,Habitat Vision
+MFD01018,soil,56.5016,10.4407,NA,natural_soil,2250,English,07/05/2020 05:47,,P08_1,natural soil,Habitat Vision
+MFD01019,soil,56.1873,10.1825,NA,natural_soil,6200,Danish,26/05/2020 08:14,eutrof,P08_1,natural soil,Habitat Vision
+MFD01020,soil,56.2588,10.6344,NA,natural_soil,6230,English,05/06/2020 10:54, ,P08_1,natural soil,Habitat Vision
+MFD01021,soil,55.8026,12.322,NA,natural_soil,9110,Danish,26/05/2020 14:15,"lysning ved sø, store bøge og meget dødt ved",P08_1,natural soil,Habitat Vision
+MFD01022,soil,56.5204,10.4204,NA,natural_soil,2190,English,07/05/2020 06:20,,P08_1,natural soil,Habitat Vision
+MFD01023,soil,56.0275,9.1654,NA,natural_soil,4030,English,12/05/2020 06:09, ,P08_1,natural soil,Habitat Vision
+MFD01024,soil,56.0151,9.6126,NA,natural_soil,6400,Danish,20/05/2020 12:13,,P08_1,natural soil,Habitat Vision
+MFD01025,soil,55.0346,10.7111,NA,natural_soil,1330,English,21/05/2020 05:34,,P08_1,natural soil,Habitat Vision
+MFD01026,soil,57.6635,10.4683,NA,natural_soil,9110,English,09/05/2020 01:36,,P08_1,natural soil,Habitat Vision
+MFD01027,soil,55.8831,9.8945,NA,natural_soil,6400,English,20/05/2020 05:21, ,P08_1,natural soil,Habitat Vision
+MFD01029,soil,56.5171,10.4177,NA,natural_soil,2250,English,07/05/2020 08:36,,P08_1,natural soil,Habitat Vision
+MFD01030,soil,56.1942,10.5436,NA,natural_soil,5130,English,05/06/2020 05:50, ,P08_1,natural soil,Habitat Vision
+MFD01033,soil,57.6589,10.4841,NA,natural_soil,2130,English,09/05/2020 02:08,,P08_1,natural soil,Habitat Vision
+MFD01034,soil,55.8023,12.3216,NA,natural_soil,9110,English,26/05/2020 13:06,,P08_1,natural soil,Habitat Vision
+MFD01035,soil,55.807,12.2422,NA,natural_soil,7230,Danish,27/05/2020 11:02,helt tilgroet i tagrør,P08_1,natural soil,Habitat Vision
+MFD01037,soil,56.8549,9.8615,NA,natural_soil,9150,English,19/05/2020 08:17,,P08_1,natural soil,Habitat Vision
+MFD01038,soil,56.253,10.0843,NA,natural_soil,4030,English,12/05/2020 09:47,,P08_1,natural soil,Habitat Vision
+MFD01039,soil,56.675,9.4791,1197-9,natural_soil,6230,Danish,17/09/2020 05:20,,P08_1,natural soil,Habitat Vision
+MFD01040,soil,56.3073,9.6989,NA,natural_soil,7200,English,28/05/2020 04:25, ,P08_1,natural soil,Habitat Vision
+MFD01041,soil,55.5154,11.7679,NA,natural_soil,9150,Danish,28/05/2020 10:14,vårfladbælg,P08_1,natural soil,Habitat Vision
+MFD01042,soil,56.8608,9.8607,NA,natural_soil,7230,English,19/05/2020 06:29,,P08_1,natural soil,Habitat Vision
+MFD01044,soil,56.5246,10.6315,NA,natural_soil,2190,English,16/05/2020 07:09,,P08_1,natural soil,Habitat Vision
+MFD01045,soil,55.0344,10.7095,NA,natural_soil,1330,English,21/05/2020 06:45,,P08_1,natural soil,Habitat Vision
+MFD01046,soil,55.3017,9.9344,NA,natural_soil,1220,English,21/05/2020 11:15,,P08_1,natural soil,Habitat Vision
+MFD01047,soil,56.5204,10.4164,NA,natural_soil,2190,English,07/05/2020 06:35,,P08_1,natural soil,Habitat Vision
+MFD01048,soil,57.0036,8.8173,1138-29,natural_soil,1330,English,18/09/2020 06:25, ,P08_1,natural soil,Habitat Vision
+MFD01049,soil,57.1541,10.2727,NA,natural_soil,7200,English,19/05/2020 05:01,,P08_1,natural soil,Habitat Vision
+MFD01050,soil,55.8723,9.8766,NA,natural_soil,7220,English,08/06/2020 04:18,7220x91e0,P08_1,natural soil,Habitat Vision
+MFD01051,soil,57.2473,9.7469,4171-7,natural_soil,1340,English,28/09/2020 10:24,,P08_1,natural soil,Habitat Vision
+MFD01053,soil,57.1617,10.2561,NA,natural_soil,9100,English,19/05/2020 04:51,,P08_1,natural soil,Habitat Vision
+MFD01055,soil,56.1873,10.1825,NA,natural_soil,6200,Danish,26/05/2020 05:35,tjørnekrat,P08_1,natural soil,Habitat Vision
+MFD01056,soil,56.8693,9.8441,NA,natural_soil,6410,English,19/05/2020 06:22,,P08_1,natural soil,Habitat Vision
+MFD01057,soil,55.3053,9.8984,NA,natural_soil,7200,English,21/05/2020 09:33,,P08_1,natural soil,Habitat Vision
+MFD01058,soil,56.8886,8.6738,5137-4,natural_soil,1330,English,09/09/2020 06:20, ,P08_1,natural soil,Habitat Vision
+MFD01059,soil,55.126,10.2868,NA,natural_soil,7200,English,20/05/2020 06:00,,P08_1,natural soil,Habitat Vision
+MFD01061,soil,56.9346,8.5925,,natural_soil,9110,English,14/10/2020 04:19,,P08_1,natural soil,Habitat Vision
+MFD01062,soil,57.1537,10.2726,NA,natural_soil,6400,English,19/05/2020 05:05,,P08_1,natural soil,Habitat Vision
+MFD01063,soil,56.1959,10.6789,NA,natural_soil,6120,English,05/06/2020 07:25, ,P08_1,natural soil,Habitat Vision
+MFD01064,soil,55.8723,9.8766,NA,natural_soil,7200,English,08/06/2020 04:36,,P08_1,natural soil,Habitat Vision
+MFD01065,soil,55.0338,10.707,NA,natural_soil,1330,English,21/05/2020 06:03,,P08_1,natural soil,Habitat Vision
+MFD01066,soil,56.7332,8.8143,1133-13,natural_soil,1330,English,21/09/2020 06:29, ,P08_1,natural soil,Habitat Vision
+MFD01067,soil,55.127162,10.274852,NA,natural_soil,9100,Danish,20/05/2020 11:32,douglasskov,P08_1,natural soil,Habitat Vision
+MFD01068,soil,55.8846,9.9126,NA,natural_soil,91E0,English,25/05/2020 04:42, ,P08_1,natural soil,Habitat Vision
+MFD01070,soil,55.177,9.6383,NA,natural_soil,1330,English,28/05/2020 08:11,,P08_1,natural soil,Habitat Vision
+MFD01071,soil,56.482,10.3855,NA,natural_soil,2140,English,07/05/2020 03:22,,P08_1,natural soil,Habitat Vision
+MFD01072,soil,56.1873,10.1825,NA,natural_soil,6200,English,26/05/2020 05:09, ,P08_1,natural soil,Habitat Vision
+MFD01073,soil,55.8197,8.6158,NA,natural_soil,9130,Danish,06/05/2020 06:09,bøgeskov,P08_1,natural soil,Habitat Vision
+MFD01075,soil,56.1866,10.1816,NA,natural_soil,9100,Danish,26/05/2020 07:49,ahorn uden ramsløg,P08_1,natural soil,Habitat Vision
+MFD01076,soil,55.8743,9.8633,NA,natural_soil,6200,English,08/06/2020 08:42,,P08_1,natural soil,Habitat Vision
+MFD01078,soil,56.8534,9.8599,NA,natural_soil,7200,Danish,19/05/2020 07:16,m skavgræs,P08_1,natural soil,Habitat Vision
+MFD01080,soil,56.306,9.6887,NA,natural_soil,7140,Danish,27/05/2020 04:19,prøven består af tørvemos,P08_1,natural soil,Habitat Vision
+MFD01081,soil,55.2442,9.5444,NA,natural_soil,6410,English,28/05/2020 04:11,,P08_1,natural soil,Habitat Vision
+MFD01082,soil,55.0379,10.7076,NA,natural_soil,9100,Danish,21/05/2020 06:24,lærk,P08_1,natural soil,Habitat Vision
+MFD01086,soil,55.8749,9.8759,NA,natural_soil,6400,English,22/06/2020 03:59,,P08_1,natural soil,Habitat Vision
+MFD01087,soil,55.1275,10.2936,NA,natural_soil,6400,English,20/05/2020 06:52,,P08_1,natural soil,Habitat Vision
+MFD01088,soil,56.8607,9.8615,NA,natural_soil,9110,English,19/05/2020 06:40,,P08_1,natural soil,Habitat Vision
+MFD01089,soil,56.5016,10.4407,NA,natural_soil,2130,English,07/05/2020 06:48,,P08_1,natural soil,Habitat Vision
+MFD01092,soil,56.1231,8.9648,NA,natural_soil,7110,English,01/06/2020 10:00, ,P08_1,natural soil,Habitat Vision
+MFD01093,soil,56.2383,10.3385,NA,natural_soil,4010,Danish,12/05/2020 07:14,,P08_1,natural soil,Habitat Vision
+MFD01094,soil,55.8831,9.8958,NA,natural_soil,6400,English,20/05/2020 04:52, ,P08_1,natural soil,Habitat Vision
+MFD01095,soil,55.133956,10.264434,NA,natural_soil,7140,English,20/05/2020 11:22,,P08_1,natural soil,Habitat Vision
+MFD01096,soil,55.123,10.2783,NA,natural_soil,6200,English,20/05/2020 05:22,,P08_1,natural soil,Habitat Vision
+MFD01097,soil,55.6575,8.1579,NA,natural_soil,2140,Danish,09/07/2020 10:07,fugtig,P08_1,natural soil,Habitat Vision
+MFD01099,soil,56.2417,10.3408,NA,natural_soil,1330,Danish,12/05/2020 07:53,,P08_1,natural soil,Habitat Vision
+MFD01100,soil,56.8693,9.8442,NA,natural_soil,9100,English,19/05/2020 06:58,,P08_1,natural soil,Habitat Vision
+MFD01101,soil,56.0574,9.6909,NA,natural_soil,91E0,Danish,18/05/2020 05:09,,P08_1,natural soil,Habitat Vision
+MFD01102,soil,56.1873,10.1825,NA,natural_soil,9100,Danish,26/05/2020 07:03,ahorn med ramsløg,P08_1,natural soil,Habitat Vision
+MFD01103,soil,56.8968,8.3959,5065-2,natural_soil,6230,English,07/09/2020 05:25, ,P08_1,natural soil,Habitat Vision
+MFD01104,soil,56.8495,9.8238,NA,natural_soil,9150,English,19/05/2020 07:42,,P08_1,natural soil,Habitat Vision
+MFD01106,soil,56.3871,10.8652,NA,natural_soil,9100,Danish,22/04/2020 04:06,skovfyr bevoksning,P08_1,natural soil,Habitat Vision
+MFD01107,soil,56.3104,9.6803,NA,natural_soil,4030,English,27/05/2020 07:07, ,P08_1,natural soil,Habitat Vision
+MFD01108,soil,56.3058,9.6999,NA,natural_soil,91E0,English,08/06/2020 04:50, ,P08_1,natural soil,Habitat Vision
+MFD01109,soil,56.5287,10.7012,NA,natural_soil,2130,English,28/04/2020 03:07,,P08_1,natural soil,Habitat Vision
+MFD01110,soil,55.5711,10.0974,NA,natural_soil,2130,English,20/04/2020 10:54,,P08_1,natural soil,Habitat Vision
+MFD01111,soil,57.6588,10.485,NA,natural_soil,2110,English,09/05/2020 02:41,hulsig strand,P08_1,natural soil,Habitat Vision
+MFD01112,soil,56.9351,8.5933,1210-11,natural_soil,7140,English,14/10/2020 03:29,,P08_1,natural soil,Habitat Vision
+MFD01114,soil,56.2497,10.0811,NA,natural_soil,6230,Danish,12/05/2020 09:22,artsrigt overdrev,P08_1,natural soil,Habitat Vision
+MFD01115,soil,55.2445,9.5519,NA,natural_soil,6200,English,28/05/2020 05:35,,P08_1,natural soil,Habitat Vision
+MFD01116,soil,55.614457,10.592142,,natural_soil,6210,Danish,16/02/2021 06:16,kalk overdrev,P08_1,natural soil,Habitat Vision
+MFD01118,soil,56.2371,10.3308,NA,natural_soil,6230,Danish,12/05/2020 05:41,"fladt overdrevs areal, noget slid fra gående.",P08_1,natural soil,Habitat Vision
+MFD01120,soil,55.7409,9.4189,NA,natural_soil,91E0,English,12/05/2020 08:18,,P08_1,natural soil,Habitat Vision
+MFD01121,soil,55.1235,10.2788,NA,natural_soil,7200,English,20/05/2020 04:54,,P08_1,natural soil,Habitat Vision
+MFD01122,soil,55.4363,10.6883,NA,natural_soil,9110,Danish,21/04/2020 03:30,bøgeskov,P08_1,natural soil,Habitat Vision
+MFD01123,soil,55.1753,9.6367,NA,natural_soil,2120,English,28/05/2020 08:47,,P08_1,natural soil,Habitat Vision
+MFD01125,soil,55.0381,10.7089,NA,natural_soil,9100,English,21/05/2020 06:57,,P08_1,natural soil,Habitat Vision
+MFD01127,soil,56.5241,10.6283,NA,natural_soil,2180,English,16/05/2020 07:30,,P08_1,natural soil,Habitat Vision
+MFD01130,soil,56.1069,9.6819,NA,natural_soil,4030,English,01/05/2020 02:28,,P08_1,natural soil,Habitat Vision
+MFD01131,soil,55.1238,10.2788,NA,natural_soil,9100,English,20/05/2020 05:05,,P08_1,natural soil,Habitat Vision
+MFD01132,soil,55.1367,10.2878,NA,natural_soil,9130,English,20/05/2020 04:13,,P08_1,natural soil,Habitat Vision
+MFD01133,soil,55.2712,8.941,NA,natural_soil,2190,English,14/06/2020 07:40,,P08_1,natural soil,Habitat Vision
+MFD01134,soil,55.7469,9.4324,NA,natural_soil,91E0,English,12/05/2020 03:05,,P08_1,natural soil,Habitat Vision
+MFD01136,soil,56.3073,9.6989,NA,natural_soil,6230,Danish,28/05/2020 03:03,gravhøj,P08_1,natural soil,Habitat Vision
+MFD01137,soil,55.7365,9.4145,NA,natural_soil,9100,English,15/05/2020 04:26,,P08_1,natural soil,Habitat Vision
+MFD01138,soil,55.134551,10.269441,NA,natural_soil,9110,English,20/05/2020 11:26,,P08_1,natural soil,Habitat Vision
+MFD01139,soil,55.3059,9.8997,NA,natural_soil,1220,English,21/05/2020 11:19,,P08_1,natural soil,Habitat Vision
+MFD01140,soil,56.1572,10.6885,NA,natural_soil,9190,English,05/06/2020 08:55, ,P08_1,natural soil,Habitat Vision
+MFD01141,soil,56.8533,9.8534,NA,natural_soil,9190,English,19/05/2020 09:14,,P08_1,natural soil,Habitat Vision
+MFD01144,soil,57.0021,8.484,4372-3,natural_soil,2170,English,08/09/2020 07:56, ,P08_1,natural soil,Habitat Vision
+MFD01145,soil,55.1265,10.295,NA,natural_soil,91E0,English,20/05/2020 06:40,,P08_1,natural soil,Habitat Vision
+MFD01147,soil,55.7456,9.4401,NA,natural_soil,9110,English,12/05/2020 02:49,,P08_1,natural soil,Habitat Vision
+MFD01148,soil,55.1252,10.2808,NA,natural_soil,6200,English,20/05/2020 04:32,,P08_1,natural soil,Habitat Vision
+MFD01149,soil,56.1878,10.5325,NA,natural_soil,9110,English,05/06/2020 08:36,9110x9130,P08_1,natural soil,Habitat Vision
+MFD01150,soil,55.745,9.4276,NA,natural_soil,91D0,English,12/05/2020 07:20,,P08_1,natural soil,Habitat Vision
+MFD01151,soil,55.135134,10.267843,NA,natural_soil,7140,English,20/05/2020 11:25,,P08_1,natural soil,Habitat Vision
+MFD01152,soil,56.3955,10.8919,NA,natural_soil,9100,Danish,22/04/2020 04:18,sitka bevoksning,P08_1,natural soil,Habitat Vision
+MFD01153,soil,57.1572,10.2728,NA,natural_soil,9130,English,19/05/2020 03:24,,P08_1,natural soil,Habitat Vision
+MFD01154,soil,56.1867,10.1801,NA,natural_soil,6400,English,26/05/2020 07:29, ,P08_1,natural soil,Habitat Vision
+MFD01155,soil,55.7448,9.4275,NA,natural_soil,7140,English,12/05/2020 07:34,,P08_1,natural soil,Habitat Vision
+MFD01156,soil,56.8541,9.862,NA,natural_soil,9100,Danish,19/05/2020 07:08,ung bøg på rækker,P08_1,natural soil,Habitat Vision
+MFD01158,soil,56.056,9.6973,NA,natural_soil,7140,Danish,18/05/2020 09:13,,P08_1,natural soil,Habitat Vision
+MFD01159,soil,56.0556,9.7019,NA,natural_soil,91D0,Danish,20/05/2020 05:42,,P08_1,natural soil,Habitat Vision
+MFD01161,soil,56.5245,10.6269,NA,natural_soil,2110,English,16/05/2020 06:51,,P08_1,natural soil,Habitat Vision
+MFD01162,soil,55.1254,10.2861,NA,natural_soil,9100,Danish,20/05/2020 05:43,nål,P08_1,natural soil,Habitat Vision
+MFD01164,soil,55.8807,9.8886,NA,natural_soil,6410,English,20/05/2020 06:35, ,P08_1,natural soil,Habitat Vision
+MFD01165,soil,55.6084,12.3227,NA,natural_soil,6400,Danish,28/05/2020 07:19,har været vinteroversvømmet,P08_1,natural soil,Habitat Vision
+MFD01166,soil,56.5215,10.4164,NA,natural_soil,2140,English,07/05/2020 06:48,,P08_1,natural soil,Habitat Vision
+MFD01167,soil,55.7435,9.4357,NA,natural_soil,91E0,English,13/05/2020 07:34,91e0x7220,P08_1,natural soil,Habitat Vision
+MFD01169,soil,57.6678,10.4736,NA,natural_soil,2330,English,21/06/2020 05:34,,P08_1,natural soil,Habitat Vision
+MFD01171,soil,55.8733,9.8629,NA,natural_soil,7220,English,08/06/2020 09:02,,P08_1,natural soil,Habitat Vision
+MFD01172,soil,55.8723,9.8766,NA,natural_soil,6200,English,08/06/2020 07:53,,P08_1,natural soil,Habitat Vision
+MFD01173,soil,55.1763,9.638,NA,natural_soil,2130,English,28/05/2020 08:24,,P08_1,natural soil,Habitat Vision
+MFD01174,soil,56.3432,9.7726,NA,natural_soil,6400,English,09/06/2020 03:27, ,P08_1,natural soil,Habitat Vision
+MFD01175,soil,55.8339,9.4973,NA,natural_soil,7200,English,30/06/2020 06:15, ,P08_1,natural soil,Habitat Vision
+MFD01177,soil,55.3057,9.8932,NA,natural_soil,1230,English,22/06/2020 15:54,,P08_1,natural soil,Habitat Vision
+MFD01178,soil,55.2447,9.5484000000000009,NA,natural_soil,7200,English,28/05/2020 02:37,,P08_1,natural soil,Habitat Vision
+MFD01179,soil,57.4505,10.2518,1090-103,natural_soil,6230,English,29/09/2020 08:15, ,P08_1,natural soil,Habitat Vision
+MFD01181,soil,56.3888,10.8981,NA,natural_soil,2320,Danish,22/04/2020 02:24,indlandsklit m revling og hedelyng,P08_1,natural soil,Habitat Vision
+MFD01182,soil,55.1264,10.2914,NA,natural_soil,6200,English,20/05/2020 06:28,,P08_1,natural soil,Habitat Vision
+MFD01183,soil,56.0564,9.7005,NA,natural_soil,6410,Danish,19/05/2020 05:46,,P08_1,natural soil,Habitat Vision
+MFD01184,soil,55.147,10.2867,NA,natural_soil,9130,English,20/05/2020 07:30,,P08_1,natural soil,Habitat Vision
+MFD01185,soil,56.8531,9.8549,NA,natural_soil,9190,English,19/05/2020 08:58,,P08_1,natural soil,Habitat Vision
+MFD01186,soil,56.056,9.7015,NA,natural_soil,6230,Danish,20/05/2020 06:13,,P08_1,natural soil,Habitat Vision
+MFD01187,soil,55.4587,10.666,NA,natural_soil,2120,Danish,21/04/2020 02:36,hvid klit,P08_1,natural soil,Habitat Vision
+MFD01188,soil,55.123677,10.271228,NA,natural_soil,7140,English,20/05/2020 11:18,,P08_1,natural soil,Habitat Vision
+MFD01190,soil,56.0565,9.7017,NA,natural_soil,6410,Danish,20/05/2020 08:25,,P08_1,natural soil,Habitat Vision
+MFD01192,soil,55.8236,8.6082,NA,natural_soil,4010,Danish,06/05/2020 04:26,våd hede domineret af tørvemos,P08_1,natural soil,Habitat Vision
+MFD01193,soil,56.2392,10.3396,NA,natural_soil,2120,Danish,12/05/2020 08:13,,P08_1,natural soil,Habitat Vision
+MFD01194,soil,56.049,9.688,NA,natural_soil,6230,English,18/05/2020 03:52,,P08_1,natural soil,Habitat Vision
+MFD01195,soil,56.111,9.6808,NA,natural_soil,9120,English,01/05/2020 03:06,,P08_1,natural soil,Habitat Vision
+MFD01196,soil,55.5556,9.7045,,natural_soil,6230,English,24/08/2020 15:53, fredericia overdrev-51,P08_1,natural soil,Habitat Vision
+MFD01197,soil,55.4319,10.6924,NA,natural_soil,1230,Danish,21/04/2020 03:04,klint,P08_1,natural soil,Habitat Vision
+MFD01198,soil,57.7383,10.6327,NA,natural_soil,2160,English,21/06/2020 06:49,,P08_1,natural soil,Habitat Vision
+MFD01199,soil,55.7446,9.446,NA,natural_soil,9160,English,13/05/2020 06:45,,P08_1,natural soil,Habitat Vision
+MFD01200,soil,57.6683,10.4748,NA,natural_soil,2330,English,21/06/2020 05:50,,P08_1,natural soil,Habitat Vision
+MFD01201,soil,55.6135,10.5933,NA,natural_soil,6210,Danish,21/04/2020 07:39,tilgroet overdrev,P08_1,natural soil,Habitat Vision
+MFD01202,soil,55.8723,9.8766,NA,natural_soil,6200,English,08/06/2020 08:17,,P08_1,natural soil,Habitat Vision
+MFD01204,soil,56.2238,10.5952,NA,natural_soil,2180,English,18/05/2020 05:39,,P08_1,natural soil,Habitat Vision
+MFD01205,soil,56.5239,10.4294,NA,natural_soil,2140,English,07/05/2020 04:49,,P08_1,natural soil,Habitat Vision
+MFD01206,soil,56.853,9.862,NA,natural_soil,9150,English,19/05/2020 07:49,,P08_1,natural soil,Habitat Vision
+MFD01207,soil,55.139974,10.270837,NA,natural_soil,7140,English,20/05/2020 11:29,,P08_1,natural soil,Habitat Vision
+MFD01208,soil,56.0567,9.7011,NA,natural_soil,7230,Danish,20/05/2020 09:23,,P08_1,natural soil,Habitat Vision
+MFD01209,soil,55.7447,9.4462,NA,natural_soil,9160,English,12/05/2020 03:57,,P08_1,natural soil,Habitat Vision
+MFD01210,soil,56.2311,10.6195,NA,natural_soil,1220,English,05/06/2020 06:58, ,P08_1,natural soil,Habitat Vision
+MFD01211,soil,55.1244,10.2807,NA,natural_soil,9100,Danish,20/05/2020 04:41,ung bøg,P08_1,natural soil,Habitat Vision
+MFD01212,soil,56.2586,10.6339,NA,natural_soil,6400,English,05/06/2020 10:32, ,P08_1,natural soil,Habitat Vision
+MFD01213,soil,56.5224,10.4374,NA,natural_soil,2130,English,07/05/2020 04:32,,P08_1,natural soil,Habitat Vision
+MFD01214,soil,55.6073,10.6069,NA,natural_soil,6210,Danish,21/04/2020 05:11,overdrev m primula,P08_1,natural soil,Habitat Vision
+MFD01215,soil,56.1162,9.6623,NA,natural_soil,6230,English,01/05/2020 04:20,teltplads,P08_1,natural soil,Habitat Vision
+MFD01216,soil,55.6062,10.6062,NA,natural_soil,1330,Danish,21/04/2020 04:44,strandeng,P08_1,natural soil,Habitat Vision
+MFD01217,soil,54.9719,9.4015,NA,natural_soil,6410,English,29/04/2020 09:44,,P08_1,natural soil,Habitat Vision
+MFD01218,soil,55.4596,10.6664,NA,natural_soil,2190,Danish,21/04/2020 02:04,klitlavning,P08_1,natural soil,Habitat Vision
+MFD01219,soil,55.5909,10.202,NA,natural_soil,1330,Danish,20/04/2020 11:25,strandeng m kveller,P08_1,natural soil,Habitat Vision
+MFD01220,soil,55.611,10.5947,NA,natural_soil,1330,Danish,21/04/2020 06:03,strandeng m strandvejbred,P08_1,natural soil,Habitat Vision
+MFD01221,soil,54.9706,9.4037,NA,natural_soil,7150,English,29/04/2020 09:44,,P08_1,natural soil,Habitat Vision
+MFD01222,soil,56.1905,10.0499,NA,natural_soil,7200,English,22/06/2020 04:02, ,P08_1,natural soil,Habitat Vision
+MFD01223,soil,54.9741,9.4106,NA,natural_soil,7140,English,29/04/2020 05:53,,P08_1,natural soil,Habitat Vision
+MFD01224,soil,56.1874,10.0063,NA,natural_soil,6400,English,16/06/2020 03:36, ,P08_1,natural soil,Habitat Vision
+MFD01225,soil,55.4353,10.6884,NA,natural_soil,9130,Danish,21/04/2020 03:39,bøgeskov,P08_1,natural soil,Habitat Vision
+MFD01228,soil,56.5325,10.8078,NA,natural_soil,2190,English,28/04/2020 05:36,,P08_1,natural soil,Habitat Vision
+MFD01229,soil,55.444,10.0229,mose-387,natural_soil,7200,English,26/08/2020 04:36, ,P08_1,natural soil,Habitat Vision
+MFD01230,soil,55.8195,8.6138,NA,natural_soil,9000,Danish,05/05/2020 08:10,nåleskov,P08_1,natural soil,Habitat Vision
+MFD01232,soil,55.8124,8.6165,NA,natural_soil,Forest,Danish,06/05/2020 08:18, ,P08_1,natural soil,Habitat Vision
+MFD01234,soil,56.4207,10.9213,NA,natural_soil,6210,English,22/04/2020 06:54,,P08_1,natural soil,Habitat Vision
+MFD01235,soil,55.7421,9.4492,NA,natural_soil,91E0,English,13/05/2020 10:11,91e0x7220,P08_1,natural soil,Habitat Vision
+MFD01236,soil,56.5332,10.8081,NA,natural_soil,2130,English,28/04/2020 05:54,,P08_1,natural soil,Habitat Vision
+MFD01237,soil,55.6101,10.5972,NA,natural_soil,1220,Danish,21/04/2020 05:44,stenstrand,P08_1,natural soil,Habitat Vision
+MFD01238,soil,56.5336,10.7993,NA,natural_soil,7200,English,28/04/2020 06:57,pilekrat,P08_1,natural soil,Habitat Vision
+MFD01239,soil,56.4197,10.8535,NA,natural_soil,7200,Danish,22/04/2020 09:40,tagrørs sump,P08_1,natural soil,Habitat Vision
+MFD01242,soil,56.3638,10.5867,NA,natural_soil,7200,English,28/04/2020 08:32,,P08_1,natural soil,Habitat Vision
+MFD01243,soil,55.4595,10.6664,NA,natural_soil,2130,Danish,21/04/2020 02:15,grønklit,P08_1,natural soil,Habitat Vision
+MFD01245,soil,55.8383,9.5052,NA,natural_soil,7200,English,30/06/2020 03:48, ,P08_1,natural soil,Habitat Vision
+MFD01246,soil,56.5196,10.4348,NA,natural_soil,6032,English,07/05/2020 03:56,,P08_1,natural soil,Habitat Vision
+MFD01247,soil,56.5322,10.8077,NA,natural_soil,2140,English,28/04/2020 05:22,,P08_1,natural soil,Habitat Vision
+MFD01248,soil,56.1067,9.6813,NA,natural_soil,4030,English,01/05/2020 02:44,ørnebregne og camp intro dominans,P08_1,natural soil,Habitat Vision
+MFD01249,soil,56.4162,10.8711,NA,natural_soil,9130,Danish,22/04/2020 09:26,bøgeskov m gul anemone,P08_1,natural soil,Habitat Vision
+MFD01250,soil,55.9086,9.8551,NA,natural_soil,9160,English,30/04/2020 02:34,meget ahorn,P08_1,natural soil,Habitat Vision
+MFD01251,soil,54.9726,9.4046,NA,natural_soil,6230,English,29/04/2020 09:44,,P08_1,natural soil,Habitat Vision
+MFD01252,soil,56.3857,10.913,NA,natural_soil,9230,English,22/04/2020 06:01,,P08_1,natural soil,Habitat Vision
+MFD01253,soil,55.6111,10.5936,NA,natural_soil,1230,English,21/04/2020 06:50,,P08_1,natural soil,Habitat Vision
+MFD01254,soil,56.4824,10.891,NA,natural_soil,1230,English,22/04/2020 08:42,,P08_1,natural soil,Habitat Vision
+MFD01257,soil,55.8222,8.6095,NA,natural_soil,4030,Danish,06/05/2020 05:18,tør hede,P08_1,natural soil,Habitat Vision
+MFD01258,soil,56.4518,10.8303,NA,natural_soil,6230,Danish,22/04/2020 09:06,gravhøj,P08_1,natural soil,Habitat Vision
+MFD01259,soil,55.9077,9.8541,NA,natural_soil,9160,English,30/04/2020 02:53,ung bev,P08_1,natural soil,Habitat Vision
+MFD01260,soil,54.9705,9.4061,NA,natural_soil,7120,English,29/04/2020 09:44,,P08_1,natural soil,Habitat Vision
+MFD01261,soil,56.5303,10.4058,NA,natural_soil,2140,English,07/05/2020 07:57,,P08_1,natural soil,Habitat Vision
+MFD01262,soil,56.581,8.5293,NA,natural_soil,2320,Danish,01/05/2020 11:26,klithede domineret af revling,P08_1,natural soil,Habitat Vision
+MFD01263,soil,55.8188,8.6219,NA,natural_soil,Forest,English,05/05/2020 07:45, ,P08_1,natural soil,Habitat Vision
+MFD01264,soil,55.7991,8.6193,NA,natural_soil,Forest,Danish,05/05/2020 04:27,bøg med kristorn,P08_1,natural soil,Habitat Vision
+MFD01265,soil,55.6114,10.5948,NA,natural_soil,1330,Danish,21/04/2020 06:12,strandeng m malurt,P08_1,natural soil,Habitat Vision
+MFD01266,soil,55.8196,8.6109000000000009,NA,natural_soil,Marsh,Danish,05/05/2020 08:48,fattigkær i hedeområde,P08_1,natural soil,Habitat Vision
+MFD01267,soil,55.4602,10.6663,NA,natural_soil,2110,Danish,21/04/2020 02:28,klit ,P08_1,natural soil,Habitat Vision
+MFD01268,soil,55.134118,10.265317,NA,natural_soil,9110,Danish,20/05/2020 11:24,,P08_1,natural soil,Habitat Vision
+MFD01269,soil,55.6459,8.1473,NA,natural_soil,2130,Danish,10/07/2020 10:52,grøn klit,P08_1,natural soil,Habitat Vision
+MFD01270,soil,56.105,9.6836,NA,natural_soil,4030,English,01/05/2020 02:19,,P08_1,natural soil,Habitat Vision
+MFD01271,soil,55.8732,9.8985,NA,natural_soil,6230,English,06/05/2020 07:34,,P08_1,natural soil,Habitat Vision
+MFD01272,soil,56.4813,10.8949,NA,natural_soil,1230,Danish,22/04/2020 08:44,klint,P08_1,natural soil,Habitat Vision
+MFD01273,soil,56.5332,10.8092,NA,natural_soil,2110,English,28/04/2020 06:11,,P08_1,natural soil,Habitat Vision
+MFD01274,soil,56.3895,10.6493,NA,natural_soil,6210,English,28/04/2020 08:10,,P08_1,natural soil,Habitat Vision
+MFD01275,soil,56.5332,10.8089,NA,natural_soil,2120,English,28/04/2020 06:13,,P08_1,natural soil,Habitat Vision
+MFD01276,soil,56.3889,10.8995,NA,natural_soil,2320,English,22/04/2020 02:40,,P08_1,natural soil,Habitat Vision
+MFD01277,soil,55.4397,10.0256,mose-393,natural_soil,7200,English,26/08/2020 07:57, ,P08_1,natural soil,Habitat Vision
+MFD01278,soil,56.578,8.5423,NA,natural_soil,Pasture,Danish,01/05/2020 12:41, ,P08_1,natural soil,Habitat Vision
+MFD01279,soil,55.8194,8.6045,NA,natural_soil,Moor,Danish,06/05/2020 02:45,bræmme med hede i skov. ,P08_1,natural soil,Habitat Vision
+MFD01280,soil,56.178,10.0114,NA,natural_soil,6400,English,16/06/2020 09:01, ,P08_1,natural soil,Habitat Vision
+MFD01281,soil,55.883869,9.827398,,natural_soil,9130,Danish,16/02/2021 06:18,"bøge skov v landevej, horsens",P08_1,natural soil,Habitat Vision
+MFD01282,soil,56.2812,10.5872,NA,natural_soil,9100,Danish,27/04/2020 03:31,nåle skov m ædelgran,P08_1,natural soil,Habitat Vision
+MFD01284,soil,56.5803,8.5342,NA,natural_soil,4030,Danish,01/05/2020 11:56,tør hede dominans af dværgbuske,P08_1,natural soil,Habitat Vision
+MFD01285,soil,55.8196,8.6109000000000009,NA,natural_soil,moor,Danish,05/05/2020 08:30,græsset hedeareal med skov omkring,P08_1,natural soil,Habitat Vision
+MFD01286,soil,56.3852,10.9142,NA,natural_soil,2140,English,22/04/2020 05:07,,P08_1,natural soil,Habitat Vision
+MFD01287,soil,56.44,10.9562,NA,natural_soil,6210,English,22/04/2020 06:35,,P08_1,natural soil,Habitat Vision
+MFD01288,soil,56.3843,10.9154,NA,natural_soil,2110,English,22/04/2020 05:24,,P08_1,natural soil,Habitat Vision
+MFD01289,soil,55.553,9.7166,,natural_soil,6400,English,24/08/2020 09:56, fredericia eng-53 vrj:passer ikke med dato i miljøportalen,P08_1,natural soil,Habitat Vision
+MFD01290,soil,56.4403,10.9569,NA,natural_soil,6230,English,22/04/2020 06:15,,P08_1,natural soil,Habitat Vision
+MFD01291,soil,55.8233,8.6102,NA,natural_soil,9100,Danish,06/05/2020 04:52,nåleskov,P08_1,natural soil,Habitat Vision
+MFD01292,soil,56.1115,9.6767,NA,natural_soil,9100,English,01/05/2020 03:25,rødgran og alm ædelgran,P08_1,natural soil,Habitat Vision
+MFD01293,soil,56.1129,9.6733,NA,natural_soil,9160,English,01/05/2020 03:43,,P08_1,natural soil,Habitat Vision
+MFD01294,soil,56.1051,9.6811,NA,natural_soil,4030,English,01/05/2020 06:05,dom af ørnebregne,P08_1,natural soil,Habitat Vision
+MFD01295,soil,55.8195,8.6049,NA,natural_soil,Moor,Danish,06/05/2020 03:29,våd hede under tilgroning med birk,P08_1,natural soil,Habitat Vision
+MFD01296,soil,56.3888,10.8975,NA,natural_soil,5130,Danish,22/04/2020 02:12,enebærhede,P08_1,natural soil,Habitat Vision
+MFD01297,soil,56.3942,10.9032,NA,natural_soil,2130,Danish,22/04/2020 03:30,domineret af rensdyrlav,P08_1,natural soil,Habitat Vision
+MFD01298,soil,56.3841,10.9151,NA,natural_soil,2130,English,22/04/2020 05:27,,P08_1,natural soil,Habitat Vision
+MFD01300,soil,56.1811,10.0211,NA,natural_soil,7200,English,18/06/2020 02:28, ,P08_1,natural soil,Habitat Vision
+MFD01303,soil,55.8341,9.4909,NA,natural_soil,6200,English,30/06/2020 07:59, ,P08_1,natural soil,Habitat Vision
+MFD01305,soil,57.6589,10.4849,NA,natural_soil,2120,English,09/05/2020 02:31,,P08_1,natural soil,Habitat Vision
+MFD01306,soil,56.3847,10.9153,NA,natural_soil,2120,English,22/04/2020 05:16,,P08_1,natural soil,Habitat Vision
+MFD01307,soil,56.109,9.6669,NA,natural_soil,6410,English,01/05/2020 05:28,,P08_1,natural soil,Habitat Vision
+MFD01308,soil,55.8151,8.6137,NA,natural_soil,Moor,Danish,06/05/2020 07:10,mosaik af tør og våd hede,P08_1,natural soil,Habitat Vision
+MFD01309,soil,56.181,10.0148,NA,natural_soil,7230,English,18/06/2020 04:08, ,P08_1,natural soil,Habitat Vision
+MFD01310,soil,56.3901,10.8996,NA,natural_soil,7200,Danish,22/04/2020 02:53,mose dom af mosebunke og birk,P08_1,natural soil,Habitat Vision
+MFD01311,soil,56.7068,8.6126,4054-38,natural_soil,1310,Danish,24/09/2020 03:36,dominerende naturtype 1330. proeve taget i 1310-del af felt. ,P08_1,natural soil,Habitat Vision
+MFD01312,soil,56.4275,10.9206,NA,natural_soil,1220,Danish,22/04/2020 07:46,stenstrand m flerårige urter,P08_1,natural soil,Habitat Vision
+MFD01313,soil,55.8722,9.9026,NA,natural_soil,6210,English,06/05/2020 08:48,,P08_1,natural soil,Habitat Vision
+MFD01314,soil,55.8841,9.7957,NA,natural_soil,9100,Danish,06/05/2020 04:44,ung skov,P08_1,natural soil,Habitat Vision
+MFD01315,soil,55.8737,9.899,NA,natural_soil,6400,English,06/05/2020 07:56,,P08_1,natural soil,Habitat Vision
+MFD01316,soil,55.9611,9.8575,NA,natural_soil,7220,Danish,06/05/2020 02:43,kildevæld i skov,P08_1,natural soil,Habitat Vision
+MFD01317,soil,56.8471,9.8525,NA,natural_soil,9160,English,12/06/2020 06:58, ,P08_1,natural soil,Habitat Vision
+MFD01318,soil,56.5222,10.4204,NA,natural_soil,2140,English,07/05/2020 06:59,,P08_1,natural soil,Habitat Vision
+MFD01319,soil,55.8739,9.899,NA,natural_soil,7230,English,06/05/2020 08:09,,P08_1,natural soil,Habitat Vision
+MFD01320,soil,55.803,8.6258,NA,natural_soil,Marsh,English,05/05/2020 05:34, ,P08_1,natural soil,Habitat Vision
+MFD01321,soil,55.8349,9.4949,NA,natural_soil,6200,English,30/06/2020 08:49, ,P08_1,natural soil,Habitat Vision
+MFD01323,soil,56.8501,9.8686,NA,natural_soil,9100,English,12/06/2020 05:02, ,P08_1,natural soil,Habitat Vision
+MFD01326,soil,55.9611,9.8575,NA,natural_soil,7220,Danish,06/05/2020 02:20,kildevæld i skov,P08_1,natural soil,Habitat Vision
+MFD01327,soil,56.53,10.7269,NA,natural_soil,4030,English,28/04/2020 04:19,,P08_1,natural soil,Habitat Vision
+MFD01328,soil,56.5261,10.4224,NA,natural_soil,2130,English,07/05/2020 07:40,,P08_1,natural soil,Habitat Vision
+MFD01329,soil,56.3412,9.7646,NA,natural_soil,7230,English,04/06/2020 04:25, ,P08_1,natural soil,Habitat Vision
+MFD01330,soil,55.8721,9.7801,NA,natural_soil,9160,English,06/05/2020 06:13,,P08_1,natural soil,Habitat Vision
+MFD01331,soil,56.1873,10.0066,NA,natural_soil,6200,English,16/06/2020 03:07, ,P08_1,natural soil,Habitat Vision
+MFD01333,soil,56.1809,10.019,NA,natural_soil,6400,English,18/06/2020 05:22, ,P08_1,natural soil,Habitat Vision
+MFD01334,soil,56.8473,9.8683,NA,natural_soil,9100,English,12/06/2020 04:33, ,P08_1,natural soil,Habitat Vision
+MFD01335,soil,55.9611,9.8575,NA,natural_soil,7220,Danish,06/05/2020 02:58,i skov,P08_1,natural soil,Habitat Vision
+MFD01336,soil,55.9611,9.8575,NA,natural_soil,91E0,Danish,06/05/2020 03:17,med milturt,P08_1,natural soil,Habitat Vision
+MFD01337,soil,56.1169,9.6591,NA,natural_soil,6230,English,01/05/2020 04:39,teltplads,P08_1,natural soil,Habitat Vision
+MFD01338,soil,56.3472,9.7822,NA,natural_soil,6230,English,04/06/2020 08:44, ,P08_1,natural soil,Habitat Vision
+MFD01339,soil,55.8033,8.6285,NA,natural_soil,Meadow,English,05/05/2020 05:58, ,P08_1,natural soil,Habitat Vision
+MFD01340,soil,55.8721,9.7783,NA,natural_soil,91E0,English,06/05/2020 06:29,,P08_1,natural soil,Habitat Vision
+MFD01341,soil,56.8513,9.8611,NA,natural_soil,9110,English,12/06/2020 05:23, ,P08_1,natural soil,Habitat Vision
+MFD01342,soil,56.1905,10.0106,NA,natural_soil,6200,English,16/06/2020 06:08, ,P08_1,natural soil,Habitat Vision
+MFD01343,soil,55.8183,8.6065,NA,natural_soil,Moor,Danish,06/05/2020 02:08,både tør og pletvis våd hede. ,P08_1,natural soil,Habitat Vision
+MFD01344,soil,56.5201,10.4391,NA,natural_soil,9100,English,07/05/2020 04:10,,P08_1,natural soil,Habitat Vision
+MFD01345,soil,56.182,10.0062,NA,natural_soil,6400,English,16/06/2020 07:15, ,P08_1,natural soil,Habitat Vision
+MFD01346,soil,55.9017,9.8485,NA,natural_soil,91E0,Danish,06/05/2020 03:34,,P08_1,natural soil,Habitat Vision
+MFD01347,soil,55.8748,9.8781,NA,natural_soil,7230,English,06/05/2020 09:04,,P08_1,natural soil,Habitat Vision
+MFD01348,soil,55.9612,9.8575,NA,natural_soil,6400,Danish,06/05/2020 02:32,kultureng,P08_1,natural soil,Habitat Vision
+MFD01349,soil,55.892,9.8078,NA,natural_soil,7200,Danish,06/05/2020 05:59,mose dom af højsødgræd,P08_1,natural soil,Habitat Vision
+MFD01350,soil,56.2862,9.6731,NA,natural_soil,91E0,English,22/07/2020 03:25,,P08_1,natural soil,Habitat Vision
+MFD01537,soil,55.4955,9.3922,NA,natural_soil,7200,English,14/07/2020 07:05, ,P08_1,natural soil,Habitat Vision
+MFD01538,soil,55.4955,9.3922,NA,natural_soil,91E0,English,14/07/2020 12:08, ,P08_1,natural soil,Habitat Vision
+MFD01539,soil,55.4861,9.4237,NA,natural_soil,6200,English,13/07/2020 11:10, ,P08_1,natural soil,Habitat Vision
+MFD01540,soil,56.8302,10.2341,NA,natural_soil,6410,English,04/08/2020 05:36,6410x4010,P08_1,natural soil,Habitat Vision
+MFD01541,soil,55.5148,9.5354,NA,natural_soil,6230,English,15/07/2020 03:53, ,P08_1,natural soil,Habitat Vision
+MFD01544,soil,55.443,10.0242,eng-384,natural_soil,6400,English,26/08/2020 06:25, ,P08_1,natural soil,Habitat Vision
+MFD01550,soil,55.4796,9.3963,NA,natural_soil,6400,English,14/07/2020 10:54, ,P08_1,natural soil,Habitat Vision
+MFD01551,soil,55.5522,9.6807, ,natural_soil,6400,Danish,24/08/2020 07:20,"fredericia eng-40.1, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD01552,soil,55.4836,9.3987,NA,natural_soil,6200,English,14/07/2020 08:32, ,P08_1,natural soil,Habitat Vision
+MFD01556,soil,55.54,9.6149,NA,natural_soil,6230,English,15/07/2020 03:01, 6230x6210,P08_1,natural soil,Habitat Vision
+MFD01557,soil,57.0176,8.5727,NA,natural_soil,6410,English,21/07/2020 08:35,,P08_1,natural soil,Habitat Vision
+MFD01558,soil,55.4955,9.3922,NA,natural_soil,7200,English,14/07/2020 05:51, ,P08_1,natural soil,Habitat Vision
+MFD01562,soil,55.4887,9.4395,NA,natural_soil,7220,English,14/07/2020 02:14, ,P08_1,natural soil,Habitat Vision
+MFD01567,soil,56.1779,9.6168,NA,natural_soil,7140,English,23/07/2020 05:33,,P08_1,natural soil,Habitat Vision
+MFD01573,soil,56.2407,9.6694,NA,natural_soil,91E0,English,22/07/2020 08:44,,P08_1,natural soil,Habitat Vision
+MFD01575,soil,55.5049,9.2695,NA,natural_soil,91E0,English,16/07/2020 03:00, ,P08_1,natural soil,Habitat Vision
+MFD01579,soil,55.4911,9.4225,NA,natural_soil,6400,English,14/07/2020 05:21, ,P08_1,natural soil,Habitat Vision
+MFD01581,soil,56.6832,9.1774,1091-33,natural_soil,6230,English,28/09/2020 03:27,,P08_1,natural soil,Habitat Vision
+MFD01582,soil,56.2504,9.6688,NA,natural_soil,91E0,English,22/07/2020 10:41,,P08_1,natural soil,Habitat Vision
+MFD01584,soil,55.4514,10.0155,Overdrev-377,natural_soil,6200,English,25/08/2020 09:29, ,P08_1,natural soil,Habitat Vision
+MFD01588,soil,56.3199,9.767,NA,natural_soil,6400,English,15/06/2020 04:48, ,P08_1,natural soil,Habitat Vision
+MFD01589,soil,56.8103,8.2451,,natural_soil,2110,English,13/10/2020 06:29,,P08_1,natural soil,Habitat Vision
+MFD01590,soil,55.4903,9.4232,NA,natural_soil,6230,English,14/07/2020 03:39, ,P08_1,natural soil,Habitat Vision
+MFD01596,soil,55.4422,10.0243,Mose-386,natural_soil,7200,English,26/08/2020 03:09, ,P08_1,natural soil,Habitat Vision
+MFD01597,soil,57.6665,10.4739,NA,natural_soil,2180,English,21/06/2020 05:18,,P08_1,natural soil,Habitat Vision
+MFD01598,soil,55.4798,9.5148,NA,natural_soil,7200,English,15/07/2020 11:27, ,P08_1,natural soil,Habitat Vision
+MFD01599,soil,55.5552,9.7183, ,natural_soil,9130,Danish,24/08/2020 08:23,"hannerup skov 2. halvåben, efter plukhugst.",P08_1,natural soil,Habitat Vision
+MFD01600,soil,55.4997,9.3025,NA,natural_soil,6200,English,16/07/2020 02:34, ,P08_1,natural soil,Habitat Vision
+MFD01603,soil,55.8479,9.6282,NA,natural_soil,7200,English,30/06/2020 07:42,,P08_1,natural soil,Habitat Vision
+MFD01604,soil,55.2481,9.4615,NA,natural_soil,6200,English,14/06/2020 03:51,,P08_1,natural soil,Habitat Vision
+MFD01605,soil,55.5113,9.544,NA,natural_soil,6200,English,15/07/2020 06:35, ,P08_1,natural soil,Habitat Vision
+MFD01606,soil,55.8849,9.6523,NA,natural_soil,6200,English,29/06/2020 05:51,,P08_1,natural soil,Habitat Vision
+MFD01607,soil,56.9607,9.237,NA,natural_soil,6210,Danish,23/07/2020 05:42,,P08_1,natural soil,Habitat Vision
+MFD01611,soil,55.4955,9.3922,NA,natural_soil,7220,English,14/07/2020 07:46, ,P08_1,natural soil,Habitat Vision
+MFD01612,soil,55.4383,10.0326,Mose-395,natural_soil,7200,English,26/08/2020 09:25, ,P08_1,natural soil,Habitat Vision
+MFD01614,soil,55.9275,9.5011,NA,natural_soil,7140,Danish,29/06/2020 03:54,"""jord"" består af tørvemos",P08_1,natural soil,Habitat Vision
+MFD01615,soil,56.8909,8.3314,,natural_soil,7150,English,13/10/2020 08:17,,P08_1,natural soil,Habitat Vision
+MFD01616,soil,55.9049,8.5791,NA,natural_soil,4030,English,03/07/2020 06:26,,P08_1,natural soil,Habitat Vision
+MFD01617,soil,55.6421,8.1457,NA,natural_soil,2120,English,08/07/2020 11:25, ,P08_1,natural soil,Habitat Vision
+MFD01618,soil,55.9053,8.5783,NA,natural_soil,4010,English,03/07/2020 05:21,,P08_1,natural soil,Habitat Vision
+MFD01620,soil,55.9025,9.5309,NA,natural_soil,6230,English,30/06/2020 03:58, ,P08_1,natural soil,Habitat Vision
+MFD01622,soil,57.738,10.6348,NA,natural_soil,2170,English,21/06/2020 06:33,,P08_1,natural soil,Habitat Vision
+MFD01623,soil,55.8721,9.5953,NA,natural_soil,7230,English,01/07/2020 04:22, ,P08_1,natural soil,Habitat Vision
+MFD01624,soil,55.5542,9.7163, ,natural_soil,9110,English,24/08/2020 07:54,hannerup skov 1,P08_1,natural soil,Habitat Vision
+MFD01625,soil,55.9049,9.5255,NA,natural_soil,7200,English,30/06/2020 05:44, ,P08_1,natural soil,Habitat Vision
+MFD01630,soil,55.8763,9.6852,NA,natural_soil,7200,English,30/06/2020 02:57,,P08_1,natural soil,Habitat Vision
+MFD01631,soil,56.8883,8.6738,5137-5,natural_soil,1330,English,09/09/2020 06:38, ,P08_1,natural soil,Habitat Vision
+MFD01632,soil,56.3199,9.767,NA,natural_soil,7200,English,15/06/2020 07:25, ,P08_1,natural soil,Habitat Vision
+MFD01633,soil,57.6666,10.4749,NA,natural_soil,2180,English,21/06/2020 05:09,,P08_1,natural soil,Habitat Vision
+MFD01635,soil,56.3157,9.7404,NA,natural_soil,6200,English,15/06/2020 04:15, ,P08_1,natural soil,Habitat Vision
+MFD01636,soil,55.8673,9.6019,NA,natural_soil,91D0,English,01/07/2020 09:33, ,P08_1,natural soil,Habitat Vision
+MFD01638,soil,55.8609,9.6678,NA,natural_soil,7230,English,30/06/2020 02:31,,P08_1,natural soil,Habitat Vision
+MFD01639,soil,55.5534,9.7212, ,natural_soil,9100,Danish,24/08/2020 08:42,hannerup skov 3. blandet nåleskov.,P08_1,natural soil,Habitat Vision
+MFD01640,soil,55.8817,9.5019,NA,natural_soil,6230,English,29/06/2020 09:11, ,P08_1,natural soil,Habitat Vision
+MFD01641,soil,55.899,9.621,NA,natural_soil,7200,English,01/07/2020 10:21,,P08_1,natural soil,Habitat Vision
+MFD01642,soil,55.8983,9.54,NA,natural_soil,6200,English,29/06/2020 07:48,"""6230 light""",P08_1,natural soil,Habitat Vision
+MFD01644,soil,56.9955,8.8293,1138-37,natural_soil,1330,English,17/09/2020 09:03, ,P08_1,natural soil,Habitat Vision
+MFD01646,soil,57.2476,9.7463,4171-2,natural_soil,1340,English,28/09/2020 09:47, ,P08_1,natural soil,Habitat Vision
+MFD01650,soil,55.5528,9.6892, ,natural_soil,6200,Danish,24/08/2020 09:04,"fredericia overdrev-46, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD01651,soil,55.8672,9.6024,NA,natural_soil,7230,English,02/07/2020 03:59, ,P08_1,natural soil,Habitat Vision
+MFD01652,soil,55.6586,8.1417,NA,natural_soil,2140,English,08/07/2020 11:45, ,P08_1,natural soil,Habitat Vision
+MFD01653,soil,57.1172,8.654,NA,natural_soil,6210,Danish,23/07/2020 02:57,,P08_1,natural soil,Habitat Vision
+MFD01654,soil,55.8768,9.5963,NA,natural_soil,7200,English,01/07/2020 06:13, ,P08_1,natural soil,Habitat Vision
+MFD01655,soil,56.1984,9.6468,NA,natural_soil,6230,English,23/07/2020 08:36,,P08_1,natural soil,Habitat Vision
+MFD01656,soil,55.6469,8.1584,NA,natural_soil,2190,English,09/07/2020 09:21, ,P08_1,natural soil,Habitat Vision
+MFD01658,soil,55.8646,9.6102,NA,natural_soil,7230,English,30/06/2020 08:53,,P08_1,natural soil,Habitat Vision
+MFD01659,soil,55.5535,9.7182,,natural_soil,7200,English,24/08/2020 09:05,"fredericia mose-54, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD01661,soil,55.6421,8.1457,NA,natural_soil,2110,English,08/07/2020 11:12, ,P08_1,natural soil,Habitat Vision
+MFD01662,soil,55.5465,9.684,,natural_soil,7200,Danish,24/08/2020 05:41,"fredericia mose-41, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD01663,soil,57.0795,8.7167,NA,natural_soil,6210,Danish,22/07/2020 08:34,,P08_1,natural soil,Habitat Vision
+MFD01664,soil,55.6469,8.1584,NA,natural_soil,2170,English,08/07/2020 11:30, ,P08_1,natural soil,Habitat Vision
+MFD01665,soil,56.9996,8.4309,,natural_soil,2160,English,12/10/2020 06:15,,P08_1,natural soil,Habitat Vision
+MFD01668,soil,55.885,9.5236,NA,natural_soil,6200,English,30/06/2020 02:56, ,P08_1,natural soil,Habitat Vision
+MFD01669,soil,55.6421,8.1457,NA,natural_soil,2130,Danish,08/07/2020 12:27,grå x grøn klit,P08_1,natural soil,Habitat Vision
+MFD01672,soil,55.8738,9.6202,NA,natural_soil,7230,English,30/06/2020 10:19,,P08_1,natural soil,Habitat Vision
+MFD01673,soil,55.9051,8.5782,NA,natural_soil,9100,Danish,03/07/2020 06:11,nåleskov,P08_1,natural soil,Habitat Vision
+MFD01675,soil,55.9051,8.5782,NA,natural_soil,4030,English,03/07/2020 06:04,,P08_1,natural soil,Habitat Vision
+MFD01676,soil,55.6469,8.1584,NA,natural_soil,2190,English,09/07/2020 09:59, ,P08_1,natural soil,Habitat Vision
+MFD01679,soil,55.2535,9.3457,NA,natural_soil,6230,English,14/06/2020 06:20,,P08_1,natural soil,Habitat Vision
+MFD01682,soil,55.6585,8.1417,NA,natural_soil,2130,Danish,10/07/2020 10:35,grøn klit,P08_1,natural soil,Habitat Vision
+MFD01685,soil,55.9046,8.5796,NA,natural_soil,4010,English,03/07/2020 06:20,,P08_1,natural soil,Habitat Vision
+MFD01686,soil,55.9153,9.6199,NA,natural_soil,7230,English,01/07/2020 04:12,,P08_1,natural soil,Habitat Vision
+MFD01688,soil,55.621,8.2366,NA,natural_soil,2130,Danish,09/07/2020 10:29,grå klit,P08_1,natural soil,Habitat Vision
+MFD01691,soil,55.939,9.6471,NA,natural_soil,6230,English,02/07/2020 08:53,,P08_1,natural soil,Habitat Vision
+MFD01692,soil,55.6421,8.1457,NA,natural_soil,2140,English,09/07/2020 10:51, ,P08_1,natural soil,Habitat Vision
+MFD01694,soil,55.6445,8.142,NA,natural_soil,2130,Danish,08/07/2020 12:03,grå klit,P08_1,natural soil,Habitat Vision
+MFD01803,soil,57.0771,8.7804,NA,natural_soil,6210,English,22/07/2020 10:43, 6210x6230,P08_1,natural soil,Habitat Vision
+MFD01805,soil,56.8207,9.9487,NA,natural_soil,7120,English,20/07/2020 05:38, ,P08_1,natural soil,Habitat Vision
+MFD01806,soil,57.0345,8.5767,NA,natural_soil,2190,English,22/07/2020 07:06, ,P08_1,natural soil,Habitat Vision
+MFD01807,soil,56.9043,9.5765,NA,natural_soil,6210,English,27/07/2020 09:14, ,P08_1,natural soil,Habitat Vision
+MFD01812,soil,56.8013,9.7788,NA,natural_soil,7230,English,28/07/2020 09:45, ,P08_1,natural soil,Habitat Vision
+MFD01817,soil,56.8002,9.7749,NA,natural_soil,7230,English,28/07/2020 08:41, ,P08_1,natural soil,Habitat Vision
+MFD01820,soil,57.1026,8.6432,NA,natural_soil,2190,English,21/07/2020 08:05, ,P08_1,natural soil,Habitat Vision
+MFD01828,soil,56.8261,9.912,NA,natural_soil,7120,English,20/07/2020 08:53, ,P08_1,natural soil,Habitat Vision
+MFD01831,soil,56.8568,9.6607,NA,natural_soil,7220,English,28/07/2020 05:32, ,P08_1,natural soil,Habitat Vision
+MFD01832,soil,56.8642,9.4378,NA,natural_soil,6410,English,27/07/2020 06:08, ,P08_1,natural soil,Habitat Vision
+MFD01836,soil,56.8207,9.9487,NA,natural_soil,7110,English,20/07/2020 06:28, ,P08_1,natural soil,Habitat Vision
+MFD01838,soil,57.1376,9.4617,NA,natural_soil,2130,English,29/07/2020 06:45, ,P08_1,natural soil,Habitat Vision
+MFD01841,soil,57.1026,8.6432,NA,natural_soil,2190,English,21/07/2020 08:49, ,P08_1,natural soil,Habitat Vision
+MFD01842,soil,57.1376,9.4617,NA,natural_soil,2130,English,29/07/2020 04:31, ,P08_1,natural soil,Habitat Vision
+MFD01843,soil,56.9067,9.4945,NA,natural_soil,6410,English,27/07/2020 03:46, ,P08_1,natural soil,Habitat Vision
+MFD01844,soil,57.0054,8.6465,NA,natural_soil,2130,English,21/07/2020 10:25, ,P08_1,natural soil,Habitat Vision
+MFD01845,soil,57.0773,8.6032,NA,natural_soil,2190,English,21/07/2020 04:51, ,P08_1,natural soil,Habitat Vision
+MFD01847,soil,56.8577,9.661,NA,natural_soil,7220,English,28/07/2020 06:46, ,P08_1,natural soil,Habitat Vision
+MFD01848,soil,57.1017,8.645,NA,natural_soil,2190,English,22/07/2020 08:06, ,P08_1,natural soil,Habitat Vision
+MFD01877,soil,56.5215,10.424,,natural_soil,2250,English,30/10/2020 04:44,"novnana 43-05, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD01878,soil,56.5219,10.4238,,natural_soil,2250,English,30/10/2020 05:15,"novana 42-4, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD01879,soil,55.9097,9.7529,,natural_soil,7200,English,29/10/2020 08:43,mose v horsens. gammelt dambrug.,P08_1,natural soil,Habitat Vision
+MFD01894,soil,56.6239,9.3168,,natural_soil,4030,English,10/11/2020 04:38,uldbjerg klint,P08_1,natural soil,Habitat Vision
+MFD01921,soil,56.0991,10.5117,NA,natural_soil,7200,English,31/03/2020 06:58,,P08_1,natural soil,Habitat Vision
+MFD01925,soil,56.6244,9.3173,,natural_soil,5130,English,10/11/2020 04:44,uldbjerg klint,P08_1,natural soil,Habitat Vision
+MFD01928,soil,57.2376,10.9879,,natural_soil,1330,English,22/10/2020 07:40,,P08_1,natural soil,Habitat Vision
+MFD01931,soil,55.5246,9.835, Mose-326,natural_soil,7200,English,25/08/2020 02:27,mose-326,P08_1,natural soil,Habitat Vision
+MFD01936,soil,55.5524,9.6894, ,natural_soil,7200,Danish,24/08/2020 08:06,mose-44.2,P08_1,natural soil,Habitat Vision
+MFD01941,soil,57.1178,8.6481,NA,natural_soil,6210,English,23/07/2020 02:54, ,P08_1,natural soil,Habitat Vision
+MFD01947,soil,57.2807,10.9658,,natural_soil,4010,English,21/10/2020 04:03,,P08_3,natural soil,MFD
+MFD02008,soil,56.3137,9.7194,NA,natural_soil,7200,English,09/06/2020 05:09, ,P08_1,natural soil,Habitat Vision
+MFD02015,soil,56.3058,9.7004,NA,natural_soil,7200,English,09/06/2020 06:18, ,P08_1,natural soil,Habitat Vision
+MFD02019,soil,56.312,9.7255,NA,natural_soil,6230,English,10/06/2020 09:09, ,P08_1,natural soil,Habitat Vision
+MFD02021,soil,56.3139,9.7262,NA,natural_soil,6400,English,11/06/2020 04:09,6400x7220,P08_1,natural soil,Habitat Vision
+MFD02024,soil,56.3151,9.7137,NA,natural_soil,7200,English,09/06/2020 08:17, ,P08_1,natural soil,Habitat Vision
+MFD02026,soil,56.3127,9.7143,NA,natural_soil,7200,English,10/06/2020 04:25, ,P08_1,natural soil,Habitat Vision
+MFD02030,soil,56.3118,9.7108,NA,natural_soil,6230,English,08/06/2020 11:27, ,P08_1,natural soil,Habitat Vision
+MFD02032,soil,56.315,9.7398,NA,natural_soil,6230,English,11/06/2020 10:00, ,P08_1,natural soil,Habitat Vision
+MFD02036,soil,56.316463,9.737044,,natural_soil,6200,Danish,16/02/2021 06:19,"kalk overdrev, favrskov kommune",P08_1,natural soil,Habitat Vision
+MFD02046,soil,56.3135,9.7199,NA,natural_soil,6230,English,10/06/2020 05:20, ,P08_1,natural soil,Habitat Vision
+MFD02051,soil,56.3141,9.7217,NA,natural_soil,7200,English,09/06/2020 04:00, ,P08_1,natural soil,Habitat Vision
+MFD02053,soil,56.3152,9.7345,NA,natural_soil,6400,English,11/06/2020 06:39, ,P08_1,natural soil,Habitat Vision
+MFD02054,soil,56.3163,9.7372,NA,natural_soil,6400,English,11/06/2020 08:07, ,P08_1,natural soil,Habitat Vision
+MFD02057,soil,56.3087,9.6985,NA,natural_soil,6400,English,08/06/2020 07:27, ,P08_1,natural soil,Habitat Vision
+MFD02058,soil,56.3125,9.7075,NA,natural_soil,6400,English,08/06/2020 10:16, ,P08_1,natural soil,Habitat Vision
+MFD02059,soil,56.3152,9.7136,NA,natural_soil,6200,English,09/06/2020 07:46, ,P08_1,natural soil,Habitat Vision
+MFD02065,soil,56.315,9.7283,NA,natural_soil,6200,English,11/06/2020 05:05, ,P08_1,natural soil,Habitat Vision
+MFD02067,soil,56.3123,9.7087,NA,natural_soil,6400,English,09/06/2020 10:37,"""6410 light""""""",P08_1,natural soil,Habitat Vision
+MFD02123,soil,55.9092,9.7536,,natural_soil,7220,English,29/10/2020 08:29,kilde v horsens,P08_1,natural soil,Habitat Vision
+MFD02129,soil,56.6112,9.312, ,natural_soil,9100,English,08/10/2020 05:29,virksund viborg ,P08_1,natural soil,Habitat Vision
+MFD02135,soil,55.5209,9.6579,NA,natural_soil,91E0,English,06/08/2020 09:18,,P08_1,natural soil,Habitat Vision
+MFD02138,soil,56.4556,10.5085,1286-41,natural_soil,7140,English,27/10/2020 06:15,,P08_1,natural soil,Habitat Vision
+MFD02151,soil,56.4552,10.5081,1286-9,natural_soil,7140,English,27/10/2020 06:54,,P08_1,natural soil,Habitat Vision
+MFD02152,soil,56.1773,9.6319,NA,natural_soil,91D0,English,23/07/2020 07:00,,P08_1,natural soil,Habitat Vision
+MFD02154,soil,56.9413,9.2188,NA,natural_soil,6210,English,20/07/2020 11:11, ,P08_1,natural soil,Habitat Vision
+MFD02155,soil,55.4479,10.0262,Overdrev-383,natural_soil,6230 light,English,25/08/2020 14:59, ,P08_1,natural soil,Habitat Vision
+MFD02157,soil,57.0692,8.7692,NA,natural_soil,6210,English,22/07/2020 10:42, ,P08_1,natural soil,Habitat Vision
+MFD02160,soil,56.1769,9.609,NA,natural_soil,7230,English,23/07/2020 03:39,,P08_1,natural soil,Habitat Vision
+MFD02161,soil,56.6115,9.308, ,natural_soil,7230,English,08/10/2020 04:07,virksund viborg,P08_1,natural soil,Habitat Vision
+MFD02162,soil,55.5227,9.6334,NA,natural_soil,7230,English,05/08/2020 08:51,,P08_1,natural soil,Habitat Vision
+MFD02163,soil,56.2608,9.6615,NA,natural_soil,7230,English,22/07/2020 07:29,,P08_1,natural soil,Habitat Vision
+MFD02164,soil,57.6693,10.4644,NA,natural_soil,2140,English,19/08/2020 09:09, ,P08_1,natural soil,Habitat Vision
+MFD02165,soil,56.6242,9.3154,,natural_soil,5130,Danish,10/11/2020 04:41,usikker habitat bestemmelse: 5130?,P08_1,natural soil,Habitat Vision
+MFD02166,soil,55.5242,9.8407, mose-327,natural_soil,91E0,Danish,25/08/2020 05:50,mose-327,P08_1,natural soil,Habitat Vision
+MFD02168,soil,55.5139,9.605,NA,natural_soil,1220,English,05/08/2020 04:09,,P08_1,natural soil,Habitat Vision
+MFD02169,soil,55.4499,10.014,Overdrev-378,natural_soil,6200,English,25/08/2020 08:04, ,P08_1,natural soil,Habitat Vision
+MFD02170,soil,57.3012,10.9498,,natural_soil,9100,Danish,21/10/2020 07:03,bjergfyr bevoksning,P08_3,natural soil,MFD
+MFD02171,soil,56.252,9.6693,NA,natural_soil,6230,English,22/07/2020 11:01,,P08_1,natural soil,Habitat Vision
+MFD02172,soil,55.5723,10.1047,,natural_soil,6400,English,24/08/2020 05:20,bogense 10d,P08_1,natural soil,Habitat Vision
+MFD02174,soil,56.8919,8.3985,NA,natural_soil,6210,English,19/08/2020 04:42,,P08_1,natural soil,Habitat Vision
+MFD02175,soil,57.0357,8.527,NA,natural_soil,2130,English,21/07/2020 11:16, ,P08_1,natural soil,Habitat Vision
+MFD02178,soil,57.0761,8.6189,NA,natural_soil,2190,English,21/07/2020 05:23,,P08_1,natural soil,Habitat Vision
+MFD02179,soil,55.5165,9.6176,NA,natural_soil,6400,English,05/08/2020 05:14,,P08_1,natural soil,Habitat Vision
+MFD02180,soil,55.5529,9.703,,natural_soil,6400,English,24/08/2020 16:52," fredericia eng-51.2, vrj: passer ikke med miljøpportal",P08_1,natural soil,Habitat Vision
+MFD02184,soil,56.6116,9.3076, ,natural_soil,6230,English,08/10/2020 03:42,virksund viborg,P08_1,natural soil,Habitat Vision
+MFD02185,soil,57.2951,9.8088,,natural_soil,9100,English,01/12/2020 08:18,,P08_1,natural soil,Habitat Vision
+MFD02186,soil,55.5194,9.6569,NA,natural_soil,91E0,English,06/08/2020 10:58,,P08_1,natural soil,Habitat Vision
+MFD02187,soil,55.5152,9.6187,NA,natural_soil,7200,English,05/08/2020 04:53,,P08_1,natural soil,Habitat Vision
+MFD02188,soil,56.8355,9.9326,NA,natural_soil,4010,English,20/07/2020 03:38,,P08_1,natural soil,Habitat Vision
+MFD02189,soil,55.5185,9.617,NA,natural_soil,7200,English,05/08/2020 06:48,,P08_1,natural soil,Habitat Vision
+MFD02190,soil,55.5547,9.7005,,natural_soil,7220,English,24/08/2020 15:16," fredericia mose-50, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02192,soil,55.5261,9.6591,NA,natural_soil,91E0,English,06/08/2020 08:01,,P08_1,natural soil,Habitat Vision
+MFD02194,soil,56.6116,9.3083, ,natural_soil,6400,English,08/10/2020 04:25,virksund viborg,P08_1,natural soil,Habitat Vision
+MFD02196,soil,56.8899,9.9134,NA,natural_soil,6210,English,20/07/2020 05:46, ,P08_1,natural soil,Habitat Vision
+MFD02197,soil,57.0235,10.3457,,natural_soil,9100,English,13/11/2020 05:07,rgr ,P08_1,natural soil,Habitat Vision
+MFD02198,soil,56.2861,9.6731,NA,natural_soil,91D0,English,22/07/2020 06:11,,P08_1,natural soil,Habitat Vision
+MFD02199,soil,55.5948,9.655,,natural_soil,7200,English,21/09/2020 05:44,"mose 99, fredericia ",P08_1,natural soil,Habitat Vision
+MFD02200,soil,56.9292,9.8837,NA,natural_soil,6210,English,20/07/2020 07:07, ,P08_1,natural soil,Habitat Vision
+MFD02201,soil,57.0715,8.6215,NA,natural_soil,2190,English,21/07/2020 04:51,,P08_1,natural soil,Habitat Vision
+MFD02202,soil,56.9808,8.4288,NA,natural_soil,9100,English,20/08/2020 04:34,,P08_1,natural soil,Habitat Vision
+MFD02203,soil,55.5183,9.6552,NA,natural_soil,6200,English,06/08/2020 06:43,,P08_1,natural soil,Habitat Vision
+MFD02205,soil,57.079,8.6025,NA,natural_soil,2190,English,21/07/2020 06:17, ,P08_1,natural soil,Habitat Vision
+MFD02206,soil,55.5251,9.6133,NA,natural_soil,6400,English,05/08/2020 09:10,,P08_1,natural soil,Habitat Vision
+MFD02208,soil,57.2346,10.9891,,natural_soil,1330,English,22/10/2020 07:49,,P08_3,natural soil,MFD
+MFD02209,soil,56.7673,9.7811,NA,natural_soil,7220,English,20/07/2020 08:52,,P08_1,natural soil,Habitat Vision
+MFD02210,soil,55.4222,9.5712,,natural_soil,9130,English,11/10/2020 04:12,,P08_1,natural soil,Habitat Vision
+MFD02211,soil,55.5244,9.8393, Mose-323,natural_soil,7200,Danish,25/08/2020 04:55,mose-323,P08_1,natural soil,Habitat Vision
+MFD02212,soil,55.518,9.8288, mose-326,natural_soil,7230,Danish,25/08/2020 02:48,mose-326.2,P08_1,natural soil,Habitat Vision
+MFD02213,soil,55.524,9.6175,NA,natural_soil,6210,English,06/08/2020 03:01,,P08_1,natural soil,Habitat Vision
+MFD02214,soil,56.2861,9.6731,NA,natural_soil,91E0,English,22/07/2020 05:51,,P08_1,natural soil,Habitat Vision
+MFD02215,soil,55.5263,9.6534,NA,natural_soil,6400,English,06/08/2020 07:05,,P08_1,natural soil,Habitat Vision
+MFD02216,soil,55.5206,9.6102,NA,natural_soil,7200,English,05/08/2020 10:13,pil,P08_1,natural soil,Habitat Vision
+MFD02218,soil,55.5197,9.6186,NA,natural_soil,7200,English,06/08/2020 04:26,,P08_1,natural soil,Habitat Vision
+MFD02219,soil,56.6238,9.3188,,natural_soil,6200,English,10/11/2020 05:08,uldbjerg klint,P08_1,natural soil,Habitat Vision
+MFD02220,soil,55.5202,9.6579,NA,natural_soil,7200,English,06/08/2020 09:57,,P08_1,natural soil,Habitat Vision
+MFD02221,soil,56.1769,9.6075,NA,natural_soil,6230,English,23/07/2020 02:28,,P08_1,natural soil,Habitat Vision
+MFD02223,soil,56.6239,9.3146,,natural_soil,4030,English,10/11/2020 04:28,,P08_1,natural soil,Habitat Vision
+MFD02224,soil,55.5511,9.7134,,natural_soil,6210,English,24/08/2020 12:00," fredericia overdrev-55, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02226,soil,55.5208,9.6217,NA,natural_soil,7220,English,06/08/2020 04:49,,P08_1,natural soil,Habitat Vision
+MFD02227,soil,55.5221,9.6101,NA,natural_soil,91E0,English,06/08/2020 02:44,,P08_1,natural soil,Habitat Vision
+MFD02228,soil,55.5253,9.6633,NA,natural_soil,7200,English,06/08/2020 09:20,,P08_1,natural soil,Habitat Vision
+MFD02232,soil,56.9388,8.4481,NA,natural_soil,9100,English,20/08/2020 07:34,,P08_1,natural soil,Habitat Vision
+MFD02233,soil,55.3514,9.4927,,natural_soil,7200,English,10/10/2020 10:06,højstaudemose,P08_1,natural soil,Habitat Vision
+MFD02235,soil,55.242,9.458,,natural_soil,6200,English,25/08/2020 08:04,haderslev3a,P08_1,natural soil,Habitat Vision
+MFD02236,soil,55.7482,10.3084,,natural_soil,7200,English,28/09/2020 04:06,endelave 2-25ny,P08_1,natural soil,Habitat Vision
+MFD02238,soil,56.9126,9.3746,,natural_soil,4030,English,30/09/2020 08:13,vindblæs hede,P08_1,natural soil,Habitat Vision
+MFD02239,soil,57.301,10.9498,,natural_soil,9100,Danish,21/10/2020 06:54,skovfyr bevoksning,P08_3,natural soil,MFD
+MFD02240,soil,55.422,9.5676,,natural_soil,6230,English,11/10/2020 05:29,,P08_1,natural soil,Habitat Vision
+MFD02241,soil,55.7212,9.6801,,natural_soil,6200,English,10/10/2020 05:56,,P08_1,natural soil,Habitat Vision
+MFD02243,soil,56.9136,9.3746,,natural_soil,4030,English,30/09/2020 07:59,vindblæs hede ,P08_1,natural soil,Habitat Vision
+MFD02244,soil,57.2897,10.9798,,natural_soil,9100,English,22/10/2020 07:09,,P08_3,natural soil,MFD
+MFD02245,soil,56.7656,8.8351,,natural_soil,1330,English,14/10/2020 05:33,,P08_1,natural soil,Habitat Vision
+MFD02246,soil,57.3,10.9686,4326-6,natural_soil,2140,English,22/10/2020 07:17,,P08_3,natural soil,MFD
+MFD02247,soil,55.73,10.3413,,natural_soil,9100,English,28/09/2020 08:42,endelave dådyrhegnet bævreasp,P08_1,natural soil,Habitat Vision
+MFD02248,soil,57.2786,10.9751,1044-35,natural_soil,4010,English,21/10/2020 06:08,,P08_3,natural soil,MFD
+MFD02249,soil,55.7183,9.6788,,natural_soil,6200,English,10/10/2020 05:22,hedensted,P08_1,natural soil,Habitat Vision
+MFD02250,soil,55.5737,10.1044,,natural_soil,9100,English,24/08/2020 06:19,bogense 10c,P08_1,natural soil,Habitat Vision
+MFD02251,soil,55.7469,10.3091,,natural_soil,6410,English,28/09/2020 05:05,endelave 2-8,P08_1,natural soil,Habitat Vision
+MFD02253,soil,57.2771,10.9458,5658-1,natural_soil,4030,English,21/10/2020 04:58,,P08_3,natural soil,MFD
+MFD02254,soil,57.0062,9.2109,,natural_soil,1330,English,30/09/2020 06:53,aggersborg ,P08_1,natural soil,Habitat Vision
+MFD02255,soil,56.9345,8.5914,,natural_soil,9100,English,14/10/2020 04:39,,P08_1,natural soil,Habitat Vision
+MFD02256,soil,55.3787,9.3634,,natural_soil,7200,English,08/09/2020 06:55,kolding fos-karholm_mose-5,P08_1,natural soil,Habitat Vision
+MFD02257,sediment,55.3676,9.4182,,natural_soil,3150,English,09/09/2020 09:14,ny p3 sø i fos- frøpbrød_mose-3,P08_1,natural soil,Habitat Vision
+MFD02264,soil,55.4046,9.442,,natural_soil,6400,English,09/09/2020 03:03,kolding fos-taps_eng-19,P08_1,natural soil,Habitat Vision
+MFD02267,soil,55.3731,9.359,,natural_soil,6410,English,08/09/2020 03:58,kolding fos-karholm_eng-8,P08_1,natural soil,Habitat Vision
+MFD02268,soil,55.3613,9.5957,,natural_soil,1330,English,10/10/2020 08:56,,P08_1,natural soil,Habitat Vision
+MFD02271,soil,57.2855,10.9811,5660-1,natural_soil,4030,English,20/10/2020 09:00,NA,P08_1,natural soil,Habitat Vision
+MFD02278,soil,57.6912,10.4901,4330-2,natural_soil,2140,English,19/10/2020 12:52,NA,P08_1,natural soil,Habitat Vision
+MFD02285,soil,55.3604,9.5989,,natural_soil,1330,English,10/10/2020 09:10,,P08_1,natural soil,Habitat Vision
+MFD02324,soil,55.5075,8.2478,NA,natural_soil,1330,Danish,10/07/2020 08:07,fugtigt marskland på prøvetagningstidspunkt,P08_3,natural soil,MFD
+MFD02331,soil,55.5567,8.0847,NA,natural_soil,2330,English,29/06/2020 11:08,,P08_3,natural soil,MFD
+MFD02343,soil,55.5049,8.2533,NA,natural_soil,1330,Danish,10/07/2020 07:56,"marsk, rimelig tør på prøvetgagningstidspunkt",P08_3,natural soil,MFD
+MFD02344,soil,55.655,8.2837,NA,natural_soil,9100,Danish,08/07/2020 09:25,fyrretræs plantage,P08_3,natural soil,MFD
+MFD02346,soil,55.665,8.2944,NA,natural_soil,9160,Danish,08/07/2020 09:08,egetræer med enkelte birk,P08_3,natural soil,MFD
+MFD02352,soil,56.6117,9.307, ,natural_soil,1220,English,08/10/2020 03:26,virksund viborg ,P08_1,natural soil,Habitat Vision
+MFD02353,soil,55.5291,9.6978,NA,natural_soil,7200,English,06/08/2020 07:25,,P08_1,natural soil,Habitat Vision
+MFD02355,soil,55.5206,9.6599,NA,natural_soil,7200,English,06/08/2020 08:34,,P08_1,natural soil,Habitat Vision
+MFD02358,soil,55.5211,9.614,NA,natural_soil,6400,English,06/08/2020 03:55,,P08_1,natural soil,Habitat Vision
+MFD02359,soil,56.8146,9.9235,NA,natural_soil,4010,English,20/07/2020 05:25,,P08_1,natural soil,Habitat Vision
+MFD02360,soil,57.0795,8.7192,NA,natural_soil,6210,Danish,22/07/2020 08:07,,P08_1,natural soil,Habitat Vision
+MFD02361,soil,55.5205,9.6595,NA,natural_soil,6400,English,06/08/2020 08:15,,P08_1,natural soil,Habitat Vision
+MFD02362,soil,57.066,8.9419,NA,natural_soil,2130,Danish,21/07/2020 11:56,,P08_1,natural soil,Habitat Vision
+MFD02365,soil,55.6659,11.1465, ,natural_soil,7200,English,15/09/2020 08:12,kalundborg 18_mose,P08_1,natural soil,Habitat Vision
+MFD02366,soil,56.8545,9.555,4170-6,natural_soil,1340,Danish,24/09/2020 04:37,,P08_1,natural soil,Habitat Vision
+MFD02368,soil,56.9174,9.9724,1087-101,natural_soil,6230,Danish,30/09/2020 05:00,,P08_1,natural soil,Habitat Vision
+MFD02369,soil,55.5729,9.7024,,natural_soil,6200,English,17/09/2020 03:48,fredericia nyt overdrev v eng-56,P08_1,natural soil,Habitat Vision
+MFD02371,soil,56.7252,8.5034,4007-11,natural_soil,1220,English,23/09/2020 05:49,,P08_1,natural soil,Habitat Vision
+MFD02372,soil,55.5771,9.7334,,natural_soil,6210,English,21/09/2020 05:55,fredericia overdrev 65,P08_1,natural soil,Habitat Vision
+MFD02373,soil,55.6766,11.1293, ,natural_soil,6400,English,15/09/2020 10:14,kalundborg 15_eng,P08_1,natural soil,Habitat Vision
+MFD02376,soil,55.5739,9.7345,,natural_soil,6230,English,21/09/2020 04:36,fredericia overdrev-66,P08_1,natural soil,Habitat Vision
+MFD02380,soil,56.886,9.4556,1110-33,natural_soil,7140,Danish,08/10/2020 05:04,,P08_1,natural soil,Habitat Vision
+MFD02382,soil,55.6685,11.1444, ,natural_soil,1340,English,15/09/2020 09:27,kalundborg 13_eng_2,P08_1,natural soil,Habitat Vision
+MFD02385,soil,56.8592,9.6574,1092-104,natural_soil,6230,Danish,29/09/2020 07:27,,P08_1,natural soil,Habitat Vision
+MFD02390,soil,56.7683,8.823,1196-3,natural_soil,6230,English,21/09/2020 11:46, ,P08_1,natural soil,Habitat Vision
+MFD02391,soil,55.6687,11.1422, ,natural_soil,6400,English,15/09/2020 09:40,kalundborg 13_eng,P08_1,natural soil,Habitat Vision
+MFD02394,soil,57.3906,9.7608,NA,natural_soil,7230,English,17/08/2020 09:37, ,P08_1,natural soil,Habitat Vision
+MFD02397,soil,56.8847,9.4539,1110-1,natural_soil,7140,Danish,08/10/2020 05:34,,P08_1,natural soil,Habitat Vision
+MFD02398,soil,0,0,NA,natural_soil,2130,Danish,18/08/2020 15:27,gps gemt at scanne i felten ,P08_1,natural soil,Habitat Vision
+MFD02399,soil,55.9977,10.5533,,natural_soil,6230,Danish,30/09/2020 04:20,samsø,P08_1,natural soil,Habitat Vision
+MFD02400,soil,56.7958,8.5889,4003-4,natural_soil,1220,English,22/09/2020 11:13,,P08_1,natural soil,Habitat Vision
+MFD02401,soil,57.3865,9.7775,NA,natural_soil,7230,Danish,17/08/2020 04:35,tilgroning i tagrør,P08_1,natural soil,Habitat Vision
+MFD02404,soil,56.6778,9.4768,4653-2,natural_soil,7140,Danish,07/10/2020 06:00,mesotrof type 7140,P08_1,natural soil,Habitat Vision
+MFD02405,soil,57.4213,9.8211,NA,natural_soil,7230,English,12/08/2020 04:06, ,P08_1,natural soil,Habitat Vision
+MFD02408,soil,57.4281,9.8291,5447-16,natural_soil,7140,Danish,12/10/2020 07:26,,P08_1,natural soil,Habitat Vision
+MFD02409,soil,57.3931,9.7795,NA,natural_soil,7230,English,17/08/2020 10:14, ,P08_1,natural soil,Habitat Vision
+MFD02410,soil,57.3005,10.228,NA,natural_soil,6230,Danish,20/08/2020 04:41,,P08_1,natural soil,Habitat Vision
+MFD02411,soil,56.7865,8.5553,4002-3,natural_soil,1220,English,24/09/2020 06:44, ,P08_1,natural soil,Habitat Vision
+MFD02412,soil,57.244,9.8227,1102-31,natural_soil,7120,Danish,12/10/2020 10:12,,P08_1,natural soil,Habitat Vision
+MFD02413,soil,57.4149,10.3376,NA,natural_soil,7230,Danish,19/08/2020 03:42,,P08_1,natural soil,Habitat Vision
+MFD02414,soil,56.3849,9.8313,NA,natural_soil,6210,Danish,05/08/2020 09:04,lokalitet tidligere reg. som hede-2399,P08_1,natural soil,Habitat Vision
+MFD02415,soil,56.7652,8.8358,1131-5,natural_soil,1330,English,21/09/2020 05:17, ,P08_1,natural soil,Habitat Vision
+MFD02416,soil,56.8577,9.5553,2-1,natural_soil,1340,Danish,24/09/2020 07:47,,P08_1,natural soil,Habitat Vision
+MFD02418,soil,56.7204,8.5486,4008-22,natural_soil,1220,English,22/09/2020 03:06, ,P08_1,natural soil,Habitat Vision
+MFD02419,soil,55.666,11.1485,,natural_soil,9100,English,16/09/2020 05:39,17-mose ny skovmose,P08_1,natural soil,Habitat Vision
+MFD02420,soil,56.683,9.1735,1091-13,natural_soil,6230,English,28/09/2020 04:25,,P08_1,natural soil,Habitat Vision
+MFD02421,soil,57.3881,9.7759,NA,natural_soil,7230,Danish,17/08/2020 05:32,tilgroet i tagrør,P08_1,natural soil,Habitat Vision
+MFD02422,soil,56.3845,9.8294,NA,natural_soil,6210,English,05/08/2020 05:10,,P08_1,natural soil,Habitat Vision
+MFD02425,soil,56.3819,9.8323,NA,natural_soil,6210,English,04/08/2020 10:56,6210x6230,P08_1,natural soil,Habitat Vision
+MFD02426,soil,56.118,10.2129,1089-11,natural_soil,6230,Danish,28/09/2020 12:29,,P08_1,natural soil,Habitat Vision
+MFD02427,soil,56.3844,9.8309,NA,natural_soil,6200,Danish,06/08/2020 11:02,nyregistrering,P08_1,natural soil,Habitat Vision
+MFD02429,soil,57.1736,9.7818,1104-21,natural_soil,7110,Danish,13/10/2020 06:31,,P08_1,natural soil,Habitat Vision
+MFD02430,soil,56.8556,9.5541,2-2,natural_soil,1340,Danish,24/09/2020 08:11,,P08_1,natural soil,Habitat Vision
+MFD02431,soil,56.8544,9.5549,4170-4,natural_soil,1340,Danish,24/09/2020 04:20,,P08_1,natural soil,Habitat Vision
+MFD02432,soil,56.8582,9.6633,1092-23,natural_soil,6230,Danish,29/09/2020 04:51,,P08_1,natural soil,Habitat Vision
+MFD02434,soil,56.8248,10.2573,NA,natural_soil,9100,English,03/08/2020 10:51,,P08_1,natural soil,Habitat Vision
+MFD02435,soil,57.4137,10.3364,NA,natural_soil,7230,Danish,19/08/2020 05:20,,P08_1,natural soil,Habitat Vision
+MFD02438,soil,55.4504,10.0279,Mose-398,natural_soil,7200,Danish,25/08/2020 11:50, pilesump,P08_1,natural soil,Habitat Vision
+MFD02439,soil,56.7043,8.7658,1134-1,natural_soil,1330,English,21/09/2020 09:13, ,P08_1,natural soil,Habitat Vision
+MFD02440,soil,56.6787,9.4744,5653-11,natural_soil,7140,Danish,07/10/2020 07:20,mesotrof 7140,P08_1,natural soil,Habitat Vision
+MFD02441,soil,55.5552,9.6967,,natural_soil,91e0,English,17/09/2020 05:05,mose 48,P08_1,natural soil,Habitat Vision
+MFD02442,soil,55.5525,9.6937,,natural_soil,91e0,English,17/09/2020 03:10,"mose45, fredericia, ny skov",P08_1,natural soil,Habitat Vision
+MFD02443,soil,56.8686,9.6157,4590-3,natural_soil,6230,Danish,22/09/2020 06:57,,P08_1,natural soil,Habitat Vision
+MFD02444,soil,57.1748,9.7871,1104-38,natural_soil,7110,Danish,13/10/2020 03:58,,P08_1,natural soil,Habitat Vision
+MFD02446,soil,56.869,9.6127,4590-12,natural_soil,6230,Danish,22/09/2020 04:51,,P08_1,natural soil,Habitat Vision
+MFD02448,soil,57.2448,9.8248,1102-7,natural_soil,7120,Danish,12/10/2020 09:36,,P08_1,natural soil,Habitat Vision
+MFD02450,soil,56.1178,10.2133,1089-11,natural_soil,6230,Danish,28/09/2020 12:24,,P08_1,natural soil,Habitat Vision
+MFD02451,soil,56.3837,9.8288,NA,natural_soil,4030,English,04/08/2020 06:12,,P08_1,natural soil,Habitat Vision
+MFD02452,soil,55.9892,10.5497,,natural_soil,6230,Danish,30/09/2020 07:01,samsø,P08_1,natural soil,Habitat Vision
+MFD02453,soil,57.5337,10.4003,4352-2,natural_soil,2140,Danish,13/10/2020 09:52,,P08_1,natural soil,Habitat Vision
+MFD02455,soil,57.4133,9.7952,NA,natural_soil,7230,English,18/08/2020 02:57, ,P08_1,natural soil,Habitat Vision
+MFD02456,soil,55.5761,9.7217,,natural_soil,6400,English,24/08/2020 15:34,"fredericia. eng-59, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02457,soil,56.7454,8.8633,1133-5,natural_soil,1330,English,21/09/2020 07:16, ,P08_1,natural soil,Habitat Vision
+MFD02459,soil,56.7098,8.6116,4054-32,natural_soil,1310,English,24/09/2020 03:29, ,P08_1,natural soil,Habitat Vision
+MFD02460,soil,56.7154,8.5822,4053-31,natural_soil,1310,English,22/09/2020 06:53, ,P08_1,natural soil,Habitat Vision
+MFD02461,soil,56.9194,9.9728,1087-33,natural_soil,6230,English,30/09/2020 06:05,,P08_1,natural soil,Habitat Vision
+MFD02462,soil,55.9946,10.5475,,natural_soil,6230,Danish,30/09/2020 06:11,samsø,P08_1,natural soil,Habitat Vision
+MFD02464,soil,55.5732,9.6994,,natural_soil,6200,English,17/09/2020 05:32,fredericia nyt overdrev 2 v eng-56,P08_1,natural soil,Habitat Vision
+MFD02465,soil,56.8326,10.2574,NA,natural_soil,2250,English,03/08/2020 06:28,,P08_1,natural soil,Habitat Vision
+MFD02466,soil,55.5981,9.6579,,natural_soil,6230,English,21/09/2020 07:34,"overdrev 101, fredericia ",P08_1,natural soil,Habitat Vision
+MFD02467,soil,54.9554,8.9218,,natural_soil,7200,English,13/09/2020 06:18,energinet 21,P08_1,natural soil,Habitat Vision
+MFD02469,soil,57.3056,10.2242,NA,natural_soil,6230,Danish,20/08/2020 06:36,,P08_1,natural soil,Habitat Vision
+MFD02470,soil,56.3938,9.8279,NA,natural_soil,6200,English,12/08/2020 04:15,,P08_1,natural soil,Habitat Vision
+MFD02471,soil,55.5771,9.721,,natural_soil,6400,English,24/08/2020 13:52,"fredericia. eng-57, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02472,soil,56.8232,10.2692,NA,natural_soil,4010,English,04/08/2020 03:09,,P08_1,natural soil,Habitat Vision
+MFD02474,soil,57.4213,9.8211,NA,natural_soil,7230,English,12/08/2020 06:54, ,P08_1,natural soil,Habitat Vision
+MFD02475,soil,56.7099,10.1242,NA,natural_soil,1330,English,04/08/2020 09:25,,P08_1,natural soil,Habitat Vision
+MFD02476,soil,56.826,10.246,NA,natural_soil,4010,English,04/08/2020 03:33,,P08_1,natural soil,Habitat Vision
+MFD02477,soil,55.5948,9.6546,,natural_soil,7200,English,21/09/2020 06:02,pilesump,P08_1,natural soil,Habitat Vision
+MFD02479,soil,55.175,8.8345,,natural_soil,9190,English,13/09/2020 04:56,energinet 20,P08_1,natural soil,Habitat Vision
+MFD02480,soil,56.9871,8.8277,1135-102,natural_soil,1330,English,17/09/2020 06:31,,P08_1,natural soil,Habitat Vision
+MFD02481,soil,55.5751,9.7362,,natural_soil,9110,English,21/09/2020 04:09,,P08_1,natural soil,Habitat Vision
+MFD02482,soil,56.7274,8.5048,4007-2,natural_soil,1220,English,23/09/2020 04:46,,P08_1,natural soil,Habitat Vision
+MFD02483,soil,57.4283,9.8295,5447-22,natural_soil,7140,Danish,12/10/2020 05:46,,P08_1,natural soil,Habitat Vision
+MFD02485,soil,56.3867,9.8271,NA,natural_soil,6200,English,11/08/2020 09:49,,P08_1,natural soil,Habitat Vision
+MFD02486,soil,55.5523,9.6942,,natural_soil,7230,English,17/09/2020 02:49,mose-45. fredericia,P08_1,natural soil,Habitat Vision
+MFD02487,soil,56.3838,9.8295,NA,natural_soil,6200,English,06/08/2020 05:50,,P08_1,natural soil,Habitat Vision
+MFD02488,soil,55.4797,10.0435,Eng-339,natural_soil,6400,English,25/08/2020 09:34,,P08_1,natural soil,Habitat Vision
+MFD02489,soil,55.5758,9.7186,,natural_soil,6200,English,24/08/2020 11:10,"fredericia. eng-58, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02491,soil,55.5717,10.1004,,natural_soil,6400,English,24/08/2020 04:05,bogense 10a,P08_1,natural soil,Habitat Vision
+MFD02492,soil,57.4491,10.2667,1090-33,natural_soil,6230,English,29/09/2020 04:22,,P08_1,natural soil,Habitat Vision
+MFD02493,soil,55.3237,8.8033,,natural_soil,2330,English,12/09/2020 10:37,energinet 15,P08_1,natural soil,Habitat Vision
+MFD02494,soil,56.8621,8.4216,5071-3,natural_soil,6230,English,07/09/2020 11:56,,P08_1,natural soil,Habitat Vision
+MFD02495,soil,55.4123,8.7674,,natural_soil,9100,English,12/09/2020 07:25,energinet 8,P08_1,natural soil,Habitat Vision
+MFD02496,soil,55.5933,9.6628,,natural_soil,7200,English,21/09/2020 08:28,fredericia ny mose nord for mose-108,P08_1,natural soil,Habitat Vision
+MFD02497,soil,55.6671,11.1372, ,natural_soil,6400,English,16/09/2020 06:46,kalundborg 16_eng,P08_1,natural soil,Habitat Vision
+MFD02498,soil,56.8169,10.2725,NA,natural_soil,2130,English,03/08/2020 04:56,,P08_1,natural soil,Habitat Vision
+MFD02499,soil,55.5335,9.8476,Overdrev-319,natural_soil,6200,English,23/09/2020 03:53,overdrev319,P08_1,natural soil,Habitat Vision
+MFD02500,soil,55.5204,9.6043,NA,natural_soil,6400,English,05/08/2020 06:33,,P08_1,natural soil,Habitat Vision
+MFD02501,soil,56.9112,8.6262,5131-1,natural_soil,6230,English,09/09/2020 07:47,,P08_1,natural soil,Habitat Vision
+MFD02503,soil,55.9908,10.5558,,natural_soil,6230,English,30/09/2020 09:11,samsø,P08_1,natural soil,Habitat Vision
+MFD02504,soil,57.6568,10.4151,NA,natural_soil,2130,English,19/08/2020 03:46, ,P08_1,natural soil,Habitat Vision
+MFD02505,soil,55.9976,10.5594,,natural_soil,6230,Danish,30/09/2020 03:03,samsø,P08_1,natural soil,Habitat Vision
+MFD02506,soil,56.8355,10.2282,NA,natural_soil,9100,Danish,04/08/2020 12:05,dom af ørnebregne,P08_1,natural soil,Habitat Vision
+MFD02508,soil,56.8327,10.227,NA,natural_soil,6410,English,04/08/2020 06:35,,P08_1,natural soil,Habitat Vision
+MFD02510,soil,55.5254,9.6484,NA,natural_soil,9120,English,06/08/2020 06:31,,P08_1,natural soil,Habitat Vision
+MFD02515,soil,57.2751,10.9492,5658-11,natural_soil,4030,English,21/10/2020 04:31,,P08_3,natural soil,MFD
+MFD02516,soil,55.542,9.8421,,natural_soil,6400,English,24/09/2020 13:54,"eng 309, vrj: passer ikke med  gps og miljøportal",P08_1,natural soil,Habitat Vision
+MFD02518,soil,57.1568,9.0346,NA,natural_soil,2130,Danish,21/07/2020 05:28,,P08_1,natural soil,Habitat Vision
+MFD02519,soil,55.3842,8.7936,,natural_soil,9190,English,12/09/2020 08:46,energinet 11,P08_1,natural soil,Habitat Vision
+MFD02520,soil,55.5163,9.606,NA,natural_soil,1330,English,05/08/2020 05:15,,P08_1,natural soil,Habitat Vision
+MFD02521,soil,55.5456,9.8495,Overdrev-306,natural_soil,6200,English,22/09/2020 11:34,overdrev-306,P08_1,natural soil,Habitat Vision
+MFD02522,soil,56.7099,10.1242,NA,natural_soil,1310,English,04/08/2020 09:16,,P08_1,natural soil,Habitat Vision
+MFD02523,soil,55.5136,9.6057,NA,natural_soil,6200,English,05/08/2020 04:33,,P08_1,natural soil,Habitat Vision
+MFD02524,soil,56.6229,9.3162,,natural_soil,6400,English,10/11/2020 05:01,,P08_1,natural soil,Habitat Vision
+MFD02525,soil,56.7694,8.8235,1196-9,natural_soil,6230,English,22/09/2020 03:22,,P08_1,natural soil,Habitat Vision
+MFD02527,soil,55.6144,10.592,NA,natural_soil,6210,Danish,21/04/2020 07:59,kalk overdrev m primula,P08_1,natural soil,Habitat Vision
+MFD02529,soil,55.5508,9.6853, ,natural_soil,7200,Danish,24/08/2020 04:21,ny-mose-40,P08_1,natural soil,Habitat Vision
+MFD02530,soil,56.8093,8.2504,,natural_soil,3160,English,13/10/2020 06:52,,P08_1,natural soil,Habitat Vision
+MFD02532,soil,55.4236,9.569,,natural_soil,6210,English,11/10/2020 05:11,ugræsset,P08_1,natural soil,Habitat Vision
+MFD02533,soil,56.7152,8.5824,4053-32,natural_soil,1310,English,22/09/2020 06:56, ,P08_1,natural soil,Habitat Vision
+MFD02537,soil,55.5194,9.6078,NA,natural_soil,6210,English,05/08/2020 09:11,,P08_1,natural soil,Habitat Vision
+MFD02538,soil,55.5258,9.6149,NA,natural_soil,6200,English,05/08/2020 09:59,,P08_1,natural soil,Habitat Vision
+MFD02539,soil,55.5751,9.7177,,natural_soil,6200,English,24/08/2020 10:19,"fredericia. overdrev-62, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02541,soil,56.8155,9.9254,NA,natural_soil,4010,English,20/07/2020 05:50,,P08_1,natural soil,Habitat Vision
+MFD02544,soil,55.5258,9.6512,NA,natural_soil,6400,English,06/08/2020 06:54,,P08_1,natural soil,Habitat Vision
+MFD02545,soil,55.5719,10.1035,NA,natural_soil,6400,English,24/08/2020 09:59,"bogense 10b, 6400x1330",P08_1,natural soil,Habitat Vision
+MFD02546,soil,55.5196,9.6099,NA,natural_soil,7230,English,05/08/2020 09:56,,P08_1,natural soil,Habitat Vision
+MFD02547,soil,56.8917,8.3991,5066_1,natural_soil,6210,English,19/08/2020 05:08,,P08_1,natural soil,Habitat Vision
+MFD02548,soil,55.5201,9.6233,NA,natural_soil,6210,English,06/08/2020 04:42,,P08_1,natural soil,Habitat Vision
+MFD02549,soil,55.5344,9.6232,NA,natural_soil,7200,English,05/08/2020 08:08,,P08_1,natural soil,Habitat Vision
+MFD02551,soil,56.9968,8.4378,,natural_soil,2170,English,12/10/2020 06:56,,P08_1,natural soil,Habitat Vision
+MFD02553,soil,55.5269,9.6862,,natural_soil,7200,English,25/08/2020 04:14,fredericia mose 31,P08_1,natural soil,Habitat Vision
+MFD02554,soil,57.5911,10.1546,NA,natural_soil,7230,Danish,18/08/2020 10:37,med leverurt,P08_1,natural soil,Habitat Vision
+MFD02555,soil,56.385,9.8285,NA,natural_soil,6230,English,05/08/2020 07:32,,P08_1,natural soil,Habitat Vision
+MFD02556,soil,55.4237,9.5708,,natural_soil,6200,English,11/10/2020 04:53,ungt od,P08_1,natural soil,Habitat Vision
+MFD02559,soil,56.3788,9.7985,NA,natural_soil,6200,English,11/08/2020 03:40,,P08_1,natural soil,Habitat Vision
+MFD02560,soil,56.8445,10.2678,NA,natural_soil,2180,English,03/08/2020 11:13,,P08_1,natural soil,Habitat Vision
+MFD02562,soil,56.376,9.7975,NA,natural_soil,6200,English,10/08/2020 07:43,,P08_1,natural soil,Habitat Vision
+MFD02564,soil,55.5283,9.6869,,natural_soil,91e0,English,25/08/2020 03:25,fredericia mose 31,P08_1,natural soil,Habitat Vision
+MFD02565,soil,55.4607,10.0224,Eng-366,natural_soil,6400,English,26/08/2020 11:02,,P08_1,natural soil,Habitat Vision
+MFD02566,soil,56.3844,9.8323,NA,natural_soil,6200,English,06/08/2020 11:02,,P08_1,natural soil,Habitat Vision
+MFD02568,soil,56.2291,10.2305,NA,natural_soil,6410,Danish,03/08/2020 01:37,bla,P08_1,natural soil,Habitat Vision
+MFD02570,soil,55.99,10.548400000000001,,natural_soil,6230,English,30/09/2020 08:13,samsø,P08_1,natural soil,Habitat Vision
+MFD02571,soil,56.3771,9.7946,NA,natural_soil,6200,English,10/08/2020 02:23,,P08_1,natural soil,Habitat Vision
+MFD02573,soil,56.729,8.5216,4007-8,natural_soil,1220,English,23/09/2020 10:19,,P08_1,natural soil,Habitat Vision
+MFD02574,soil,55.3614,9.5957,,natural_soil,1330,English,10/10/2020 08:44,,P08_1,natural soil,Habitat Vision
+MFD02576,soil,56.3709,9.7997,overdrev-2439,natural_soil,6200,English,21/08/2020 08:35,,P08_1,natural soil,Habitat Vision
+MFD02577,soil,55.5765,9.7207,,natural_soil,6200,English,24/08/2020 14:40,"fredericia. overdrev-61, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02578,soil,56.8215,10.2395,NA,natural_soil,9100,Danish,04/08/2020 07:43,skovfyr,P08_1,natural soil,Habitat Vision
+MFD02579,soil,57.2803,10.9905,,natural_soil,7150,English,29/08/2020 06:00,,P08_1,natural soil,Habitat Vision
+MFD02580,soil,56.7678,8.8385,1131-25,natural_soil,1330,English,21/09/2020 07:57, ,P08_1,natural soil,Habitat Vision
+MFD02581,soil,56.7958,8.5876,4003-2,natural_soil,1220,English,22/09/2020 11:31, ,P08_1,natural soil,Habitat Vision
+MFD02584,soil,56.3719,9.799,overdrev-2440,natural_soil,6200,English,21/08/2020 09:28,,P08_1,natural soil,Habitat Vision
+MFD02586,soil,55.5725,10.1087,,natural_soil,1330,English,24/08/2020 07:31,bogense11a,P08_1,natural soil,Habitat Vision
+MFD02589,soil,55.459,10.0228,Eng-374,natural_soil,6400,English,26/08/2020 08:23,,P08_1,natural soil,Habitat Vision
+MFD02590,soil,56.8266,10.2628,NA,natural_soil,2140,English,03/08/2020 10:04,,P08_1,natural soil,Habitat Vision
+MFD02592,soil,55.4748,10.0463,Mose-344,natural_soil,7200,English,25/08/2020 09:50,NA,P08_1,natural soil,Habitat Vision
+MFD02593,soil,55.2409,9.4502,,natural_soil,6230,English,25/08/2020 07:10,haderslev 2a,P08_1,natural soil,Habitat Vision
+MFD02594,soil,55.3613,9.5971,,natural_soil,1330,English,10/10/2020 08:37,,P08_1,natural soil,Habitat Vision
+MFD02596,soil,56.3706,9.8028,overdrev-2433,natural_soil,6230,English,21/08/2020 05:38,,P08_1,natural soil,Habitat Vision
+MFD02597,soil,55.6573,11.1543,,natural_soil,7200,English,16/09/2020 03:44,20-mose,P08_1,natural soil,Habitat Vision
+MFD02598,soil,55.3514,9.4926,,natural_soil,7200,English,10/10/2020 09:57,,P08_1,natural soil,Habitat Vision
+MFD02599,soil,56.7861,8.5566,4002-4,natural_soil,1220,English,24/09/2020 08:29,,P08_1,natural soil,Habitat Vision
+MFD02671,soil,56.9818,8.4288,NA,natural_soil,2180,Danish,20/08/2020 04:51,birk skovklit,P08_1,natural soil,Habitat Vision
+MFD02673,soil,56.9117,8.6255,5131-2,natural_soil,6230,English,09/09/2020 04:33,,P08_1,natural soil,Habitat Vision
+MFD02674,soil,55.2421,9.4488,,natural_soil,9100,English,25/08/2020 08:30,haderslev,P08_1,natural soil,Habitat Vision
+MFD02675,soil,56.9395,8.4481,NA,natural_soil,9100,Danish,20/08/2020 07:20,rødel,P08_1,natural soil,Habitat Vision
+MFD02676,soil,55.5503,9.8355, mose-300,natural_soil,91E0,English,22/09/2020 11:34,middelfart mose-300,P08_1,natural soil,Habitat Vision
+MFD02677,soil,55.4773,10.035,Mose-338,natural_soil,7200,Danish,27/08/2020 08:19,pilesump,P08_1,natural soil,Habitat Vision
+MFD02678,soil,55.7207,9.6799,,natural_soil,9130,English,10/10/2020 05:37,,P08_1,natural soil,Habitat Vision
+MFD02679,soil,55.5602,10.0592,,natural_soil,1330,English,24/08/2020 08:37,bogense 3,P08_1,natural soil,Habitat Vision
+MFD02683,soil,56.8232,10.2692,NA,natural_soil,2250,English,03/08/2020 08:24,,P08_1,natural soil,Habitat Vision
+MFD02685,soil,56.8968,8.3963,5065-3,natural_soil,6230,English,07/09/2020 06:16,,P08_1,natural soil,Habitat Vision
+MFD02687,soil,55.4749,10.0447,Eng-343,natural_soil,6400,English,25/08/2020 08:30,NA,P08_1,natural soil,Habitat Vision
+MFD02688,soil,55.4831,10.0092,Eng-330,natural_soil,6400,English,25/08/2020 11:05,,P08_1,natural soil,Habitat Vision
+MFD02689,soil,55.5976,9.6581,,natural_soil,7200,English,21/09/2020 07:02,"mose104, fredericia",P08_1,natural soil,Habitat Vision
+MFD02690,soil,55.577,9.7242,,natural_soil,6200,English,24/08/2020 16:23,"fredericia. overdrev-60, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02691,soil,56.5771,9.0494,,natural_soil,9110,English,14/10/2020 06:39,,P08_1,natural soil,Habitat Vision
+MFD02694,soil,55.5072,8.7154,,natural_soil,7000,Danish,12/09/2020 05:36,"pilesump, energinet 4",P08_1,natural soil,Habitat Vision
+MFD02696,soil,55.4773,10.0429,Mose-342,natural_soil,7200,English,25/08/2020 13:23,NA,P08_1,natural soil,Habitat Vision
+MFD02822,soil,56.3058,9.6999,NA,natural_soil,6400,English,08/06/2020 03:00, ,P08_1,natural soil,Habitat Vision
+MFD02828,soil,55.85,9.4992,NA,natural_soil,7230,English,02/07/2020 03:48, ,P08_1,natural soil,Habitat Vision
+MFD02835,soil,55.2906,14.7601,NA,natural_soil,1000,Danish,18/07/2020 08:32,  ,P08_3,natural soil,MFD
+MFD02840,soil,55.0595,14.7807,NA,natural_soil,natural_soil,English,19/07/2020 05:05, soil near beach,P08_3,natural soil,MFD
+MFD02841,soil,55.0519,14.8132,NA,natural_soil,natural_soil,English,19/07/2020 06:05, soil from a hill near beach,P08_3,natural soil,MFD
+MFD02844,soil,55.8314,9.4967,NA,natural_soil,7230,English,01/07/2020 04:00, ,P08_1,natural soil,Habitat Vision
+MFD02874,soil,55.5939,9.6642,,natural_soil,6200,English,21/09/2020 08:35,"pot overdrev , plæne, fredericia ",P08_1,natural soil,Habitat Vision
+MFD02875,soil,55.5252,9.7074,,natural_soil,91D0,English,25/08/2020 12:41,"fredericia ny skovmose i mose 37, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02876,soil,55.411,9.3714,eng-100,natural_soil,6400,English,07/09/2020 03:43,kolding vkå-drenderup skov_eng-100,P08_1,natural soil,Habitat Vision
+MFD02877,soil,55.4225,9.5717,,natural_soil,9120,English,11/10/2020 04:38,,P08_1,natural soil,Habitat Vision
+MFD02878,soil,55.7486,10.3227,,natural_soil,1220,English,28/09/2020 09:14,endelave,P08_1,natural soil,Habitat Vision
+MFD02879,soil,55.5256,9.6954,,natural_soil,6210,English,24/08/2020 14:06,"fredericia overdrev-35, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02880,soil,56.7613,8.8274,,natural_soil,4030,English,14/10/2020 06:02,,P08_1,natural soil,Habitat Vision
+MFD02881,soil,55.3867,9.4604,,natural_soil,6400,English,09/09/2020 06:26,kolding fos-taps_eng-23,P08_1,natural soil,Habitat Vision
+MFD02882,soil,55.5245,9.6997,,natural_soil,6210,English,24/08/2020 15:57,"fredericia overdrev-36, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02883,soil,55.5738,10.1038,,natural_soil,1220,English,24/08/2020 06:38,bogense strand,P08_1,natural soil,Habitat Vision
+MFD02884,soil,55.5237,9.7057,,natural_soil,6210,English,25/08/2020 13:43,"fredericia overdrev-39, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02885,soil,55.5246,9.6974,,natural_soil,6400,English,24/08/2020 14:41,"fredericia eng-32, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02886,soil,55.5286,9.6765,,natural_soil,7200,English,24/08/2020 11:25,"fredericia mose 28, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02887,soil,57.2794,10.9926,1096-104,natural_soil,6410,English,29/08/2020 04:27,,P08_1,natural soil,Habitat Vision
+MFD02888,soil,55.5479,9.8428,Overdrev-304,natural_soil,6200,English,22/09/2020 11:34,overdrev-304,P08_1,natural soil,Habitat Vision
+MFD02890,soil,55.5483,9.8437,Eng -302,natural_soil,6400,English,22/09/2020 11:34,,P08_1,natural soil,Habitat Vision
+MFD02891,soil,55.5508,9.8466,Overdrev-305,natural_soil,6210,English,22/09/2020 04:37,overdrev 305,P08_1,natural soil,Habitat Vision
+MFD02892,soil,57.2866,10.9759,5659-11,natural_soil,4030,English,20/10/2020 08:12,,P08_3,natural soil,MFD
+MFD02893,soil,55.5285,9.6774,,natural_soil,6230,English,24/08/2020 06:01,fredericia nyt overdrev v eng 27,P08_1,natural soil,Habitat Vision
+MFD02895,soil,55.3964,9.4481,,natural_soil,6400,English,09/09/2020 05:28,kolding fos-taps_eng-22,P08_1,natural soil,Habitat Vision
+MFD02896,soil,55.3734,9.3588,eng-8,natural_soil,91D0,English,08/09/2020 04:23,kolding ny fos-karholm_eng-8,P08_1,natural soil,Habitat Vision
+MFD02897,soil,55.5285,9.674,F,natural_soil,6400,English,25/08/2020 07:25,"redericia ny eng i overdrev 29, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02898,soil,55.412,9.3965,eng-29,natural_soil,6400,English,07/09/2020 06:09,kolding fos-ødis_eng-29,P08_1,natural soil,Habitat Vision
+MFD02899,soil,55.529,9.6781,,natural_soil,6400,English,24/08/2020 10:40,"fredericia eng-27, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02901,soil,55.5396,9.8408,Overdrev-313,natural_soil,6200,English,24/09/2020 13:54,overdrev313,P08_1,natural soil,Habitat Vision
+MFD02903,soil,55.3674,9.4183,,natural_soil,7200,English,09/09/2020 09:09,kolding fos-frøeuprød_mose-3,P08_1,natural soil,Habitat Vision
+MFD02904,soil,55.5268,9.6945,,natural_soil,91D0,English,25/08/2020 08:57,"fredericia ny skovmose i mose 33, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02906,soil,55.54,9.8439,Mose-310,natural_soil,7200,English,24/09/2020 13:54,mose 310,P08_1,natural soil,Habitat Vision
+MFD02907,soil,55.376,9.3721,mose-6,natural_soil,7200,English,08/09/2020 09:34,kolding ny p3 mose i fos-karholm_ mose-6,P08_1,natural soil,Habitat Vision
+MFD02909,soil,55.5247,9.7097,,natural_soil,6400,English,25/08/2020 11:34,"fredericia ny eng i overdrev 38, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02910,soil,55.3867,9.4742,,natural_soil,6210,English,09/09/2020 07:26,kolding ny fos-taps_eng-31,P08_1,natural soil,Habitat Vision
+MFD02911,soil,55.5253,9.6976,,natural_soil,7200,English,24/08/2020 15:12,"fredericia mose-32, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02912,soil,55.5312,9.8465,,natural_soil,6200,English,23/09/2020 04:22,"overdrev 318, middelfart ",P08_1,natural soil,Habitat Vision
+MFD02913,soil,57.2792,10.9863,1096_10,natural_soil,6410,English,29/08/2020 05:07,ingen græsning,P08_1,natural soil,Habitat Vision
+MFD02914,soil,55.4036,9.4312,eng-17,natural_soil,6400,English,07/09/2020 10:08,kolding fos-taps_eng-17,P08_1,natural soil,Habitat Vision
+MFD02915,soil,55.4066,9.4107,,natural_soil,6400,English,07/09/2020 07:20,kolding fos-ødis_eng-30,P08_1,natural soil,Habitat Vision
+MFD02916,soil,56.5711,9.0396,,natural_soil,9130,English,14/10/2020 07:09,,P08_1,natural soil,Habitat Vision
+MFD02917,soil,55.5263,9.6938,,natural_soil,7200,English,25/08/2020 09:35,"fredericia mose 33, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02918,soil,55.3778,9.3635,,natural_soil,91D0,English,08/09/2020 08:10,kolding fos-karholm_mose-6,P08_1,natural soil,Habitat Vision
+MFD02919,soil,56.5775,9.0506,,natural_soil,1220,English,14/10/2020 06:59,,P08_1,natural soil,Habitat Vision
+MFD02921,soil,56.6069,9.29, ,natural_soil,9100,English,08/10/2020 04:43,virksund viborg,P08_1,natural soil,Habitat Vision
+MFD02922,soil,55.3799,9.3645,,natural_soil,6410,English,08/09/2020 07:31,kolding nyeng-fos-karholm_mose-5,P08_1,natural soil,Habitat Vision
+MFD02923,soil,56.765,8.8343,,natural_soil,1330,English,14/10/2020 05:27,,P08_1,natural soil,Habitat Vision
+MFD02924,soil,55.1842,8.8476,,natural_soil,9100,English,13/09/2020 05:04,energinet 18,P08_1,natural soil,Habitat Vision
+MFD02926,soil,55.3601,9.4073,,natural_soil,7230,English,10/09/2020 03:31,kolding ny mose fos frøruprød_eng-4,P08_1,natural soil,Habitat Vision
+MFD02927,soil,55.4625,10.0525,Eng-353,natural_soil,7200,English,23/09/2020 09:43,eng353,P08_1,natural soil,Habitat Vision
+MFD02928,soil,56.7611,8.8304,,natural_soil,9100,Danish,14/10/2020 05:49,nål,P08_1,natural soil,Habitat Vision
+MFD02929,soil,57.4213,9.8211,NA,natural_soil,7230,English,12/08/2020 09:45, ,P08_1,natural soil,Habitat Vision
+MFD02930,soil,55.5239,9.7087,,natural_soil,7200,English,25/08/2020 12:14,"fredericia mose 37, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02931,soil,55.5476,9.8427,Mose-303,natural_soil,91E0,English,22/09/2020 11:34,mose-303,P08_1,natural soil,Habitat Vision
+MFD02932,soil,56.0588,9.6305,NA,natural_soil,5130,English,05/08/2020 13:05, ,P08_1,natural soil,Habitat Vision
+MFD02933,soil,56.0375,9.6988,NA,natural_soil,6200,Danish,06/08/2020 06:31,,P08_1,natural soil,Habitat Vision
+MFD02934,soil,55.5286,9.6725,Fredericia overdrev 29,natural_soil,6200,English,25/08/2020 07:04,NA,P08_1,natural soil,Habitat Vision
+MFD02936,soil,56.0511,9.6395,NA,natural_soil,4030,English,04/08/2020 07:07, 4030x6230,P08_1,natural soil,Habitat Vision
+MFD02937,soil,57.5919,10.1605,1129_38,natural_soil,7230,Danish,18/08/2020 11:17,mose,P08_1,natural soil,Habitat Vision
+MFD02940,soil,56.0608,9.6243,NA,natural_soil,4030,English,05/08/2020 13:05, ,P08_1,natural soil,Habitat Vision
+MFD02941,soil,55.399,9.4069,,natural_soil,6400,English,07/09/2020 09:14,kolding fos-dridekær_eng-1,P08_1,natural soil,Habitat Vision
+MFD02942,soil,57.4172,9.792,5435_34,natural_soil,7230,Danish,18/08/2020 05:31,,P08_1,natural soil,Habitat Vision
+MFD02943,soil,56.0431,9.6726,NA,natural_soil,6230,Danish,06/08/2020 08:08,,P08_1,natural soil,Habitat Vision
+MFD02946,soil,55.3504,9.3515,,natural_soil,6230,English,10/09/2020 07:25,kolding nyt overdrev v fos stepping_eng-15,P08_1,natural soil,Habitat Vision
+MFD02947,soil,55.3775,9.3722,eng-7,natural_soil,6400,English,08/09/2020 10:16,kolding fos-karholm_eng-7,P08_1,natural soil,Habitat Vision
+MFD02948,soil,55.5415,9.8482,,natural_soil,6200,English,23/09/2020 03:05,overdrev 313,P08_1,natural soil,Habitat Vision
+MFD02949,soil,55.241,9.4473,,natural_soil,6210,English,25/08/2020 06:04,haderslev 1a,P08_1,natural soil,Habitat Vision
+MFD02950,soil,55.8766,9.846,NA,natural_soil,6400,Danish,03/08/2020 04:13,,P08_1,natural soil,Habitat Vision
+MFD02951,soil,55.8773,9.8463,NA,natural_soil,Pilekrat/mose,Danish,03/08/2020 05:16,,P08_1,natural soil,Habitat Vision
+MFD02952,soil,55.5729,9.7352,,natural_soil,7200,English,21/09/2020 05:18,fredericia ny mose v overdrev -66,P08_1,natural soil,Habitat Vision
+MFD02953,soil,56.0389,9.6733,NA,natural_soil,Hede,Danish,03/08/2020 08:04,sphagnumdominans,P08_1,natural soil,Habitat Vision
+MFD02955,soil,56.0394,9.6745,NA,natural_soil,4030,English,03/08/2020 08:56,,P08_1,natural soil,Habitat Vision
+MFD02956,soil,56.0377,9.6746,NA,natural_soil,4030,Danish,03/08/2020 09:36,,P08_1,natural soil,Habitat Vision
+MFD02957,soil,55.5252,9.7101,,natural_soil,6210,English,25/08/2020 11:08,"fredericia overdrev 38, vrj: passer ikke med miljøportal",P08_1,natural soil,Habitat Vision
+MFD02958,soil,56.0382,9.6975,NA,natural_soil,Overdrev,Danish,06/08/2020 05:42,,P08_1,natural soil,Habitat Vision
+MFD02959,soil,56.7057,10.1426,1128-15,natural_soil,7230,Danish,24/08/2020 07:31,,P08_1,natural soil,Habitat Vision
+MFD02961,soil,56.935,8.5934,1210-16,natural_soil,7140,English,14/10/2020 02:37,,P08_1,natural soil,Habitat Vision
+MFD02962,soil,56.0507,9.7022,NA,natural_soil,6230,Danish,04/08/2020 10:30,,P08_1,natural soil,Habitat Vision
+MFD02963,soil,57.5903,10.1577,NA,natural_soil,2130,Danish,18/08/2020 12:05,,P08_1,natural soil,Habitat Vision
+MFD02964,soil,56.8849,10.1405,NA,natural_soil,6210,English,11/08/2020 09:35, ,P08_1,natural soil,Habitat Vision
+MFD02966,soil,57.3922,9.7606,NA,natural_soil,7230,English,17/08/2020 07:22,,P08_1,natural soil,Habitat Vision
+MFD02967,soil,55.7176,9.6798,,natural_soil,6210,English,10/10/2020 04:52,hedensted,P08_1,natural soil,Habitat Vision
+MFD02968,soil,56.7056,10.1429,1128-101,natural_soil,7230,Danish,24/08/2020 07:33,,P08_1,natural soil,Habitat Vision
+MFD02969,soil,57.4213,9.8211,NA,natural_soil,7230,English,12/08/2020 10:44, ,P08_1,natural soil,Habitat Vision
+MFD02972,soil,57.4218,9.7936,5435_28,natural_soil,7230,Danish,18/08/2020 03:15,,P08_1,natural soil,Habitat Vision
+MFD02973,soil,57.3924,9.7604,NA,natural_soil,7230,Danish,17/08/2020 07:26,,P08_1,natural soil,Habitat Vision
+MFD03101,soil,56.988,9.9704,NA,natural_soil,6230,English,28/07/2020 09:45,,P08_3,natural soil,MFD
+MFD03102,soil,56.9884,10.0051,NA,natural_soil,6230,English,30/07/2020 09:01,,P08_3,natural soil,MFD
+MFD03107,soil,56.9545,10.0158,NA,natural_soil,6230,English,03/08/2020 07:30,,P08_3,natural soil,MFD
+MFD03114,soil,56.9954,9.8789,NA,natural_soil,6230,English,22/07/2020 03:42,,P08_3,natural soil,MFD
+MFD03301,soil,56.9832,9.2875,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03302,soil,56.9751,9.9316,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03303,soil,56.9175,8.4271,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03304,soil,57.1859,9.5278,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03305,soil,56.2434,9.2693,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03306,soil,56.9718,9.929,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03307,soil,56.4588,9.6283,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03308,soil,56.4588,9.6294,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03309,soil,57.1291,10.0307,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03310,soil,57.4974,9.8842,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03311,soil,57.1857,9.5267,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03312,soil,56.9829,9.2875,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03313,soil,57.0672,9.894,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03314,soil,57.068,9.894,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03315,soil,57.1859,9.5273,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03316,soil,56.8119,8.2681,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03317,soil,56.904,10.2627,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03318,soil,56.9044,10.2613,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03319,soil,56.2437,9.269,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03320,soil,57.1701,9.5293,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03321,soil,56.9751,9.9322,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03322,soil,56.9748,9.9316,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03323,soil,56.459,9.6333,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03324,soil,57.4984,9.8877,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03325,soil,56.4589,9.6336,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03326,soil,57.1708,9.5296,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03327,soil,57.1697,9.5298,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03328,soil,56.8283,9.7986,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03329,soil,56.4591,9.6308,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03330,soil,57.129,10.0304,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03331,soil,56.265,9.2462,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03332,soil,56.9177,8.4274,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03333,soil,56.9003,10.2604,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03334,soil,56.2645,9.2469,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03335,soil,56.2642,9.2475,NA,natural_soil,4010,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03336,soil,56.9172,8.4272,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03337,soil,56.8286,9.7986,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03338,soil,56.8281,9.7985,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03339,soil,57.4985,9.8861,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03340,soil,56.9047,10.2612,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03341,soil,56.8113,8.2664,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03342,soil,56.9835,9.2878,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03343,soil,56.9023,10.2567,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03344,soil,56.8121,8.2693,NA,natural_soil,2140,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03345,soil,57.0676,9.8938,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03346,soil,56.2436,9.2692,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03347,soil,56.9715,9.929,NA,natural_soil,4030,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03348,soil,56.305,9.2351,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03349,soil,56.3053,9.2344,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03350,soil,56.3051,9.2339,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03351,soil,56.3148,9.1399, ,natural_soil,6230,English,20/09/2020 12:15,am masterproject (28c),P08_2,natural soil,MSc
+MFD03352,soil,56.3146,9.1394, ,natural_soil,6230,English,20/09/2020 11:39,am masterproject (28b),P08_2,natural soil,MSc
+MFD03353,soil,56.3141,9.1395, ,natural_soil,6230,English,20/09/2020 11:01,am masterproject (28a) ,P08_2,natural soil,MSc
+MFD03354,soil,56.301,9.2269,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03355,soil,56.3012,9.2272,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03356,soil,56.3016,9.2277,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03357,soil,56.3069,9.1424, ,natural_soil,6230,English,05/10/2020 15:20,am masterproject (8c) ,P08_2,natural soil,MSc
+MFD03358,soil,56.313,9.1267, ,natural_soil,6230,English,05/10/2020 15:20,am masterproject (8b) ,P08_2,natural soil,MSc
+MFD03359,soil,56.3129,9.1262, ,natural_soil,6230,English,05/10/2020 15:20,am masterproject (8a) ,P08_2,natural soil,MSc
+MFD03360,soil,57.3987,10.4904, ,natural_soil,6230,English,17/09/2020 18:39,am masterproject (7c) ,P08_2,natural soil,MSc
+MFD03361,soil,57.3842,10.4756, ,natural_soil,6230,English,17/09/2020 18:39,am masterproject (7b) ,P08_2,natural soil,MSc
+MFD03362,soil,57.3838,10.4752, ,natural_soil,6230,English,17/09/2020 18:39,am masterproject (7a) ,P08_2,natural soil,MSc
+MFD03363,soil,57.4341,10.4086, ,natural_soil,6230,English,17/09/2020 18:39,am masterproject (6c) ,P08_2,natural soil,MSc
+MFD03364,soil,57.4341,10.4097, ,natural_soil,6230,English,17/09/2020 18:39,am masterproject (6b) ,P08_2,natural soil,MSc
+MFD03365,soil,57.4343,10.4093, ,natural_soil,6230,English,17/09/2020 18:39,am masterproject (6a) ,P08_2,natural soil,MSc
+MFD03382,soil,56.9034,9.574,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03383,soil,56.9263,9.441,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03384,soil,56.927,9.4399,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03388,soil,56.3896,9.4724,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03389,soil,56.3889,9.4726,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03390,soil,56.9037,9.5737,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03391,soil,56.3901,9.4722,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03392,soil,56.5995,9.0138,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03393,soil,56.5997,9.0131,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03394,soil,56.5998,9.012,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03395,soil,56.9266,9.4404,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03396,soil,56.9041,9.5733,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03397,soil,56.3937,9.4696,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03398,soil,56.1857,9.7751,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03399,soil,56.1858,9.7749,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03400,soil,56.1859,9.7749,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03401,soil,56.4591,9.8914,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03402,soil,56.4586,9.8911,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03403,soil,56.4595,9.8917,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03404,soil,56.641,9.5441,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03405,soil,56.2148,10.5636, ,natural_soil,6230,English,13/09/2020 08:54,am masterproject (5c) ,P08_2,natural soil,MSc
+MFD03406,soil,56.2149,10.5633, ,natural_soil,6230,English,13/09/2020 07:51,am masterproject (5b) ,P08_2,natural soil,MSc
+MFD03407,soil,56.2147,10.5629, ,natural_soil,6230,English,13/09/2020 06:27,am masterproject (5a) ,P08_2,natural soil,MSc
+MFD03408,soil,56.3936,9.47,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03409,soil,56.3935,9.4703,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03410,soil,56.6405,9.5451,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03411,soil,56.6406,9.5453,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03412,soil,56.8875,9.712,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03413,soil,56.8877,9.7118,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03414,soil,56.8878,9.7116,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03415,soil,56.1178,9.601,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03416,soil,56.1179,9.5999,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03417,soil,56.1176,9.6002,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03420,soil,56.8127,9.832,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03421,soil,56.8125,9.8322,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03422,soil,56.8125,9.8327,NA,natural_soil,6230,English,30/10/2020 12:56,am masterproject,P08_2,natural soil,MSc
+MFD03432,soil,56.9796,9.9203,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03433,soil,57.0679,9.8939,NA,natural_soil,6210,English,15/08/2020 09:56,mix from three circles ,P08_4,natural soil,reps
+MFD03435,soil,56.9274,9.4378,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03437,soil,56.9749,9.9317, ,natural_soil,6230,English,02/09/2020 09:02,mix from three circles ,P08_4,natural soil,reps
+MFD03438,soil,56.7335,10.2918,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03439,soil,56.98,9.9197,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03440,soil,56.8286,9.7988,NA,natural_soil,6210,English,21/08/2020 10:16,mix from three circles ,P08_4,natural soil,reps
+MFD03441,soil,56.9022,10.2566,NA,natural_soil,6120,English,03/08/2020 08:38,mix of three circles ,P08_4,natural soil,reps
+MFD03442,soil,56.7338,10.2915,NA,natural_soil,6120,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03443,soil,56.9276,9.4367,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03445,soil,56.9274,9.4379,NA,natural_soil,6230,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03448,soil,56.9803,9.92,NA,natural_soil,6210,English,30/10/2020 12:56,ac masterprojekt,P08_2,natural soil,MSc
+MFD03450,soil,56.9048,10.2616,NA,natural_soil,6210,English,16/08/2020 09:50,mix from three circles ,P08_4,natural soil,reps
+MFD03451,soil,56.4588,9.6283,NA,natural_soil,4030,English,18/08/2020 13:47,mix from three circles ,P08_4,natural soil,reps
+MFD03452,soil,57.4972,9.8893,NA,natural_soil,6120,English,09/08/2020 10:08,mix from three circles,P08_4,natural soil,reps
+MFD03453,soil,56.2434,9.2692,NA,natural_soil,4030,English,07/08/2020 10:17,mix from three circles ,P08_4,natural soil,reps
+MFD03455,soil,57.1863,9.5283,NA,natural_soil,2140,English,13/08/2020 07:51,mix from three circles,P08_4,natural soil,reps
+MFD03456,soil,56.8113,8.2663, ,natural_soil,2140,English,23/08/2020 10:56,mix from three circles ,P08_4,natural soil,reps
+MFD03457,soil,56.9174,8.4273, ,natural_soil,2140,English,23/08/2020 13:49,mix from three circles ,P08_4,natural soil,reps
+MFD03458,soil,57.1701,9.5293, ,natural_soil,4010,English,27/08/2020 09:23,mix from three circles ,P08_4,natural soil,reps
+MFD03459,soil,56.9829,9.2877, ,natural_soil,6120,English,25/08/2020 07:56,mix from three circles ,P08_4,natural soil,reps
+MFD03460,soil,56.9716,9.9287,NA,natural_soil,4030,English,11/08/2020 10:00,mix from two circles,P08_4,natural soil,reps
+MFD03461,soil,57.1291,10.0307,NA,natural_soil,6230,English,09/08/2020 13:55,mix from two circles,P08_4,natural soil,reps
+MFD03462,soil,56.4588,9.6336,NA,natural_soil,4010,English,18/08/2020 08:42,mix from two circles. ,P08_4,natural soil,reps
+MFD03466,soil,56.9769,9.9202,NA,natural_soil,6230,English,11/08/2020 10:10,,P08_3,natural soil,MFD
+MFD03474,soil,56.9877,9.8202,,natural_soil,6230,English,24/08/2020 08:53,,P08_3,natural soil,MFD
+MFD03495,soil,57.0784,9.9151,,natural_soil,6230,English,28/08/2020 07:23,,P08_3,natural soil,MFD
+MFD03496,soil,56.9867,9.9393,NA,natural_soil,6230,English,17/08/2020 09:50,,P08_3,natural soil,MFD
+MFD03685,soil,57.2986,10.9321, ,natural_soil,natural_soil,English,27/09/2020 14:01,btfe20,P08_3,natural soil,MFD
+MFD03686,soil,57.2936,10.9309, ,natural_soil,natural_soil,English,27/09/2020 14:01,btfe20,P08_3,natural soil,MFD
+MFD03687,soil,57.2989,11.0165, ,natural_soil,natural_soil,English,27/09/2020 14:01,btfe20,P08_3,natural soil,MFD
+MFD03688,soil,57.2799,11.0336, ,natural_soil,natural_soil,English,27/09/2020 14:01,btfe20,P08_3,natural soil,MFD
+MFD03689,soil,57.2417,11.034, ,natural_soil,natural_soil,English,27/09/2020 14:01,57.24831 11.02150,P08_3,natural soil,MFD
+MFD03693,soil,57.2372,10.9881, ,natural_soil,natural_soil,English,27/09/2020 08:48,btfe20@bio.aau.dk,P08_3,natural soil,MFD
+MFD03696,soil,57.2339,10.9885, ,natural_soil,natural_soil,English,27/09/2020 08:58,btfe20@bio.aau.dk,P08_3,natural soil,MFD
+MFD03698,soil,57.2632,11, ,natural_soil,natural_soil,English,27/09/2020 07:25,btfe20@bio.aau.dk,P08_3,natural soil,MFD
+MFD03699,soil,57.2611,10.9678, ,natural_soil,natural_soil,English,27/09/2020 09:23,btfe20@bio.aau.dk ,P08_3,natural soil,MFD
+MFD03700,soil,57.2526,10.8769, ,natural_soil,natural_soil,English,27/09/2020 09:23,btfe20@bio.aau.dk,P08_3,natural soil,MFD
+MFD03701,soil,57.2658,10.9099, ,natural_soil,natural_soil,English,27/09/2020 04:17,btfe20@bio.aau.dk,P08_3,natural soil,MFD
+MFD03702,soil,57.2658,10.9099, ,natural_soil,natural_soil,English,27/09/2020 04:46,btfe20@bio.aau.dk,P08_3,natural soil,MFD
+MFD03703,soil,57.2965,11.0279, ,natural_soil,natural_soil,English,27/09/2020 14:01,btfe20,P08_3,natural soil,MFD
+MFD03760,soil,55.8878,8.7116,NA,natural_soil,6230,English,21/08/2020 07:10,am masterproject ,P08_4,natural soil,reps
+MFD03766,soil,56.6023,10.0128, ,natural_soil,9000,English,05/09/2020 10:48,mixed forest,P08_3,natural soil,MFD
+MFD03795,soil,56.1179,9.5999,NA,natural_soil,6230,English,21/08/2020 14:02,am masterproject ,P08_4,natural soil,reps
+MFD03798,soil,56.6055,10.0294, ,natural_soil,6230,English,05/09/2020 12:23,grassland,P08_3,natural soil,MFD
+MFD03800,soil,57.1636,9.7483,NA,natural_soil,9100,English,15/08/2020 12:56,"mixed forrest, gps coordinates is definetly wrong",P08_3,natural soil,MFD
+MFD03805,soil,56.641,9.5441, ,natural_soil,6230,English,29/08/2020 06:38,am masterproject ,P08_4,natural soil,reps
+MFD03808,soil,56.4588,8.8912,NA,natural_soil,6230,English,20/08/2020 12:38,am masterproject ,P08_4,natural soil,reps
+MFD03834,soil,56.6058,10.0261, ,natural_soil,9000,English,05/09/2020 12:34,deciduous forest,P08_3,natural soil,MFD
+MFD03841,soil,56.1172,9.5988,NA,natural_soil,6230,English,21/08/2020 10:26, ,P08_3,natural soil,MFD
+MFD03846,soil,57.3889,10.4726, ,natural_soil,6230,English,30/08/2020 13:22,am masterproject ,P08_4,natural soil,reps
+MFD03855,soil,57.1857,9.775,NA,natural_soil,6230,English,15/08/2020 12:40,am masterproject,P08_4,natural soil,reps
+MFD03867,soil,57.3958,10.4311, ,natural_soil,6230,English,30/08/2020 10:53,am masterproject ,P08_4,natural soil,reps
+MFD03868,soil,55.9034,8.7119,NA,natural_soil,4030,Danish,21/08/2020 03:05,"området skulle aldrig være gødet, og i hvert fald ikke siden 1903",P08_3,natural soil,MFD
+MFD03871,soil,56.8124,9.8317,NA,natural_soil,6230,English,15/08/2020 06:25,am masterproject,P08_4,natural soil,reps
+MFD03877,soil,56.5991,10.0114, ,natural_soil,7230,English,05/09/2020 10:57, ,P08_3,natural soil,MFD
+MFD03879,soil,56.9097,9.5705, ,natural_soil,6410,English,06/09/2020 06:53, ,P08_3,natural soil,MFD
+MFD03908,soil,56.5995,10.0138, ,natural_soil,6230,English,05/09/2020 10:28,am masterproject ,P08_4,natural soil,reps
+MFD03910,soil,56.9272,9.4403, ,natural_soil,4030,English,06/09/2020 11:28, ,P08_3,natural soil,MFD
+MFD03952,soil,56.3135,9.1262, ,natural_soil,4030,English,05/10/2020 15:20, ,P08_3,natural soil,MFD
+MFD03955,soil,57.3039,10.2286, ,natural_soil,9000,Danish,17/09/2020 18:39,løvfældende skov primært bøg,P08_3,natural soil,MFD
+MFD03962,soil,56.6047,10.0324, ,natural_soil,9000,English,05/09/2020 12:14,coniferous forest,P08_3,natural soil,MFD
+MFD03970,soil,56.9263,9.441, ,natural_soil,6230,English,06/09/2020 11:13,am masterproject ,P08_4,natural soil,reps
+MFD03973,soil,56.9034,9.574, ,natural_soil,6230,English,06/09/2020 06:21,am masterproject ,P08_4,natural soil,reps
