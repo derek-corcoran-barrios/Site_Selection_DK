@@ -250,16 +250,35 @@ This is map of the currently selected sites:
 ```{r AllData}
 AllData <- list(Biowide, AgriculturalPoints, MicroFlora) %>% 
   # join all together
-  purrr::reduce(rbind)
+  purrr::reduce(rbind) %>% 
+  mutate(Class = NA)
 ```
 
+
+```{r}
+DiverMap <- DiverMap %>% 
+  mutate(Dataset = paste(Dataset, Class, sep = "_"))
+AllData <- rbind(AllData, DiverMap)
+```
 
 ```{r, echo = F}
 ggplot() +
   geom_sf(data = Denmark) +
   geom_sf(data = AllData, aes(color = Dataset)) +
-  theme_bw() +
-  scale_color_viridis_d()
+  theme_bw()
 ```
 
+
+```{r}
+AllData <- AllData %>% 
+  mutate(Selected = "Yes")
+Novana <- Novana %>% 
+  dplyr::filter(!(ID %in% AllData$ID)) %>% 
+  mutate(Class = NA, 
+         Selected = "No")
+
+AllData <- AllData %>% rbind(Novana)
+
+saveRDS(AllData, "AllData.rds")
+```
 

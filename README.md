@@ -262,7 +262,27 @@ This is map of the currently selected sites:
 ``` r
 AllData <- list(Biowide, AgriculturalPoints, MicroFlora) %>% 
   # join all together
-  purrr::reduce(rbind)
+  purrr::reduce(rbind) %>% 
+  mutate(Class = NA)
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+``` r
+DiverMap <- DiverMap %>% 
+  mutate(Dataset = paste(Dataset, Class, sep = "_"))
+AllData <- rbind(AllData, DiverMap)
+```
+
+![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+
+``` r
+AllData <- AllData %>% 
+  mutate(Selected = "Yes")
+Novana <- Novana %>% 
+  dplyr::filter(!(ID %in% AllData$ID)) %>% 
+  mutate(Class = NA, 
+         Selected = "No")
+
+AllData <- AllData %>% rbind(Novana)
+
+saveRDS(AllData, "AllData.rds")
+```
