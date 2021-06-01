@@ -119,33 +119,14 @@ For each site we will calculate species richness based on the
 Novana//alledata-frekvens.csv file:
 
 ``` r
-# read file with 
-ForRichness <- read_csv(file=NovanaFiles[3])
+ForRichness <- fread(file=NovanaFiles[1], na.strings = "mv") %>% as.data.frame()  %>%
+  unite(col = "ID", site, plot)  %>% 
+  dplyr::select(ID, antalstjernearter, year) %>% 
+  rename(Richness = antalstjernearter)  %>% 
+  dplyr::filter(!is.na(Richness))
 ```
 
-    ## 
-    ## ── Column specification ────────────────────────────────────────────────────────
-    ## cols(
-    ##   .default = col_double()
-    ## )
-    ## ℹ Use `spec()` for the full column specifications.
-
-``` r
-# Keep only columns were there are presences
-ForRichness <- ForRichness[,(colSums(ForRichness, na.rm = T) > 0)]
-# Calculate richness
-Richness <- ForRichness[,-c(1:3)] %>% rowSums()
-# Keep only Site, plot and year
-ForRichness <- ForRichness[,c(1:3)]
-# Add Richness to it
-ForRichness$Richness <- Richness
-# Create a unique identifier based on site and plot
-ForRichness <- ForRichness %>% 
-  unite(col = "ID", site, plot)
-# See how many years each site was sampled
-```
-
-Most of the 97560 have only been sampled one year, so we filter to get
+Most of the 97501 have only been sampled one year, so we filter to get
 only the ones that have been sampled four or more different years.
 
 ``` r
@@ -199,8 +180,8 @@ Downwards <- Analysis %>%
   dplyr::filter(p.value < 0.05, estimate < 0)
 ```
 
-After that analysis we end up with 6453 stable sites, 388 sites with
-increasing richness, and 219 sites with increasing richness.
+After that analysis we end up with 6473 stable sites, 279 sites with
+increasing richness, and 283 sites with increasing richness.
 
 Now for each of those datasets we select either the 34 smallest absolute
 values of the slope estimate (for stable sites)

@@ -110,20 +110,11 @@ Novana <- fread(file=NovanaFiles[1]) %>% as.data.frame()  %>%
 For each site we will calculate species richness based on the `r NovanaFiles[3]` file:
 
 ```{r DiverPrepare}
-# read file with 
-ForRichness <- read_csv(file=NovanaFiles[3])
-# Keep only columns were there are presences
-ForRichness <- ForRichness[,(colSums(ForRichness, na.rm = T) > 0)]
-# Calculate richness
-Richness <- ForRichness[,-c(1:3)] %>% rowSums()
-# Keep only Site, plot and year
-ForRichness <- ForRichness[,c(1:3)]
-# Add Richness to it
-ForRichness$Richness <- Richness
-# Create a unique identifier based on site and plot
-ForRichness <- ForRichness %>% 
-  unite(col = "ID", site, plot)
-# See how many years each site was sampled
+ForRichness <- fread(file=NovanaFiles[1], na.strings = "mv") %>% as.data.frame()  %>%
+  unite(col = "ID", site, plot)  %>% 
+  dplyr::select(ID, antalstjernearter, year) %>% 
+  rename(Richness = antalstjernearter)  %>% 
+  dplyr::filter(!is.na(Richness))
 ```
 
 Most of the `r nrow(ForRichness)` have only been sampled one year, so we filter to get only the ones that have been sampled four or more different years.
