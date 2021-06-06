@@ -86,15 +86,16 @@ WithVars <- WithVars  %>%
 #WithVars <- raster::extract(Bios, Points) %>% as.data.frame() %>% scale()
 
 Dist <- vegan::vegdist(x = as.matrix(WithVars), method = "euclidean") %>% as.matrix() %>% as.data.frame() 
+saveRDS(Dist, "Dist.rds")
 
-Used <- AllData %>% dplyr::filter(Dataset %in% c("Biowide", "Agriculture", "Microflora Danica", "Ranked")) %>% pull(rowid)
-Unused <- AllData %>% dplyr::filter(Dataset == "Novana") %>% pull(rowid)
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
 
-ToRank <- 3000
+ToRank <- 2000
 
 for(i in 1:ToRank){
-  Used <- AllData %>% dplyr::filter(Dataset %in% c("Biowide", "Agriculture", "Microflora Danica", "Ranked")) %>% pull(rowid)
-  Unused <- AllData %>% dplyr::filter(Dataset == "Novana") %>% pull(rowid)
+  Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+  Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
 
   Temp <- Dist[Used, Unused]
   rownames(Temp) <- Used
@@ -104,7 +105,7 @@ for(i in 1:ToRank){
   
   Cond <- which(Temp == dmax, arr.ind = TRUE)[1,] %>% as.numeric()
   
-  AllData$Rank <- ifelse(AllData$rowid == Unused[Cond[2]], i, AllData$Rank)
+  AllData$Rank <- ifelse(AllData$rowid == Unused[Cond[2]], (i + 1), AllData$Rank)
   AllData$Dataset <- ifelse(AllData$rowid == Unused[Cond[2]], "Ranked", AllData$Dataset)
   print(paste(i, "of", ToRank, ", distance =", dmax))
 }
@@ -124,25 +125,41 @@ ggplot() +
   geom_sf(data = Denmark) +
   geom_sf(data = Prior) + 
   geom_sf(data = New, aes(color = Rank)) + 
-  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+#  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+  scale_colour_viridis_b(option = "C") +
   theme_bw()
 
-library(gganimate)
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
 
+RawDist <- vegan::vegdist(x = as.matrix(WithVars[Used,]), method = "euclidean")
 
-ggplot() + 
-  geom_sf(data = Denmark) +
-  geom_sf(data = Prior) + 
-  geom_sf(data = New, aes(color = Rank)) + 
-  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+saveRDS(RawDist, "RawDist.rds")
+
+nmds = monoMDS(RawDist)# 
+
+nmds_DF <- nmds$points %>% as.data.frame()
+
+OnlyPoints <- cbind(OnlyPoints, nmds_DF)
+
+ForGraph <- OnlyPoints %>% dplyr::filter(MDS1 < 20)
+
+Prior <- ForGraph %>% dplyr::filter(Rank == 0)
+
+New <- ForGraph  %>% dplyr::filter(Rank > 0)
+
+ggplot(Prior, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
+  theme_bw() +
+  geom_point(data = New)
+
+Animation <- ggplot(ForGraph, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
   theme_bw() +
   transition_reveal(along = Rank)
 
-RawDist <- vegan::vegdist(x = as.matrix(WithVars), method = "euclidean")
+animate(Animation, width = 1100, height = 1100, nframes = 150, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
+anim_save("Rank.gif")
 
-
-
-nmds = monoMDS(RawDist)# 
 # plot(Points["Rank"])
 # AllData <- Alldata %>% cbind(WithVars) %>% tibble::rowid_to_column() %>% 
 #   dplyr::filter_all(~!is.na(.x))
