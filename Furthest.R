@@ -256,7 +256,20 @@ ggplot(Prior, aes(x = MDS1, y = MDS2)) +
   theme_bw() +
   geom_point(data = New)
 
-Animation <- ggplot(ForGraph, aes(x = MDS1, y = MDS2)) +
-  geom_point(aes(color = Dataset)) +
+First_100 <- Onlypoints %>% 
+  dplyr::filter(Rank <= 100)
+
+library(gifski)
+library(gganimate)
+
+Animation <- ggplot(Onlypoints, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset, group = seq_along(Rank))) +
   theme_bw() +
-  transition_reveal(along = Rank)
+  transition_reveal(along = Rank, range = c(1,50)) +
+  enter_grow(size = 0.5)
+
+library(gifski)
+
+animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
+anim_save("Test.gif")
+

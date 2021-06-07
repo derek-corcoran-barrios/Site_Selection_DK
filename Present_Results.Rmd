@@ -1,0 +1,210 @@
+---
+title: "New Sampling points"
+author: "Derek Corcoran"
+date: "`r format(Sys.time(), '%d/%m, %Y')`"
+output:
+  ioslides_presentation:
+    widescreen: true
+    incremental: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, cache = TRUE, tidy = TRUE, tidy.opts= list(blank = FALSE, width.cutoff = 60), fig.align='center')
+# for shapefile manipulation
+library(sf)
+# for data wrangling and ploting
+library(tidyverse)
+# for community analysis
+library(vegan)
+# for efficient data manipulation
+library(data.table)
+# For clean summaries
+library(broom)
+```
+
+```{r ReadDk}
+Denmark <- readRDS("DK_Shape.rds")
+AllData <- readRDS("AllData.rds") %>% 
+  mutate(Dataset = fct_relevel(Dataset, "Microflora Danica", "Biowide", "Agriculture", "Novana_Stable", "Novana_Increase", "Novana_Decrease", "Novana"))
+```
+
+## Points already planned to be sampled
+
+```{r}
+Prior <- AllData %>% 
+  dplyr::filter(Dataset %in% c("Microflora Danica", "Biowide", "Agriculture"))
+```
+
+```{r}
+ggplot() +
+  geom_sf(data = Denmark) + 
+  geom_sf(data = Prior, aes(color = Dataset)) +
+  theme_bw() 
+```
+
+## Objective
+
+* Find the most stable, more increase and more decrease of species Richness
+* Find the points furthest away environmentally from the current points
+* Candidate points extracted from Novana dataset
+* `r prettyNum((nrow(AllData) - nrow(Prior)),big.mark = ",")` Candidate points
+
+```{r fig.height=3.5}
+ggplot() +
+  geom_sf(data = Denmark) + 
+  geom_sf(data = dplyr::filter(AllData, Dataset %in% c("Novana_Stable", "Novana_Increase", "Novana_Decrease", "Novana"))) +
+  theme_bw() 
+```
+
+# Selection by species richness change
+
+## Method
+
+* From Novana dataset select the point with at least 4 years of sampling
+* Make a linear regression between Richness (Only positive species), and year
+* If slope is non significative the sampling point is considered to be stable
+  + Select the 34 lowest absolute value slope
+* If slope is significative and positive the sampling point is considered to be of increasing richness
+  + Select the 34 highest slope value
+* If slope is significative and negative the sampling point is considered to be of decreasing richness
+  + Select the 34 lowest slope value
+  
+## Selected points
+
+```{r, cache=TRUE}
+NovanaFiles <- list.files(path = "Novana/", full.names = T)
+
+ForRichness <- fread(file=NovanaFiles[1], na.strings = "mv") %>% as.data.frame()  %>%
+  unite(col = "ID", site, plot)  %>% 
+  dplyr::select(ID, antalstjernearter, year) %>% 
+  rename(Richness = antalstjernearter)  %>% 
+  dplyr::filter(!is.na(Richness))
+
+Ns <- ForRichness %>% 
+  group_by(ID) %>% 
+  summarise(n = n()) %>% 
+  arrange(n) 
+## Keep only the IDs of the sites that have been sampled 4 or more times
+TestIDs <- Ns %>% dplyr::filter(n >= 4) %>% pull(ID)
+
+For_Analysis <- ForRichness %>% 
+  dplyr::filter(ID %in% TestIDs) %>% 
+  group_split(ID)
+Analysis_Name <- For_Analysis %>% 
+  purrr::map(~pull(.x, ID)) %>% 
+  reduce(c) %>% 
+  unique()
+
+Analysis <- For_Analysis %>% 
+  purrr::map(~lm(Richness ~ year, data = .x)) %>% 
+  purrr::map(broom::tidy) %>% 
+  purrr::map(~dplyr::filter(.x, term == "year")) %>% 
+  purrr::map2(Analysis_Name, ~mutate(.x, ID = .y)) %>% 
+  reduce(bind_rows)
+
+Stable <- Analysis %>% 
+  dplyr::filter(p.value >= 0.05) %>% 
+  dplyr::mutate(estimate)
+
+Upwards <- Analysis %>% 
+  dplyr::filter(p.value < 0.05, estimate > 0)
+
+Downwards <- Analysis %>% 
+  dplyr::filter(p.value < 0.05, estimate < 0)
+
+Stable <- Stable %>% 
+  dplyr::mutate(AbsSlope = abs(estimate)) %>% 
+  dplyr::slice_min(order_by = AbsSlope, n = 34)
+
+StableTrends <- For_Analysis %>% 
+  reduce(bind_rows) %>% 
+  dplyr::filter(ID %in% Stable$ID) %>% 
+  mutate(Class = "Stable")
+
+Upwards <- Upwards %>% 
+    dplyr::slice_max(order_by = estimate, n = 34)
+
+UpwardsTrends <- For_Analysis %>% 
+  reduce(bind_rows) %>% 
+  dplyr::filter(ID %in% Upwards$ID)  %>% 
+  mutate(Class = "Increase")
+
+Downwards <- Downwards %>% 
+    dplyr::slice_min(order_by = estimate, n = 34)
+
+DownwardsTrends <- For_Analysis %>% 
+  reduce(bind_rows) %>% 
+  dplyr::filter(ID %in% Downwards$ID) %>% 
+  mutate(Class = "Decrease")
+
+DiversTrend <- list(StableTrends, DownwardsTrends, UpwardsTrends) %>% 
+  reduce(bind_rows)
+
+ggplot(DiversTrend, aes(x = year, y = Richness)) + geom_path(aes(group= ID, color = ID)) + geom_point(aes(group= ID, color = ID)) + theme_bw() + theme(legend.position = "none") + facet_wrap(~Class)
+```
+
+## Selected points (map)
+
+```{r}
+Richness <- AllData %>% 
+  dplyr::filter(Dataset %in% c("Novana_Stable", "Novana_Increase", 
+"Novana_Decrease")) %>% 
+  mutate(Dataset = str_replace_all(Dataset, "Novana_", " ")) %>% 
+  rename(Richness = Dataset)
+```
+
+```{r}
+ggplot() +
+  geom_sf(data = Denmark) + 
+  geom_sf(data = Richness, aes(color = Richness)) +
+  theme_bw() 
+```
+
+# Environmental distance
+
+## Methods
+
+* From the remaining Novana data points we searched the furthest points in environmental space
+* Variables:
+  + Mean anual temperature
+  + Temperature seasonality
+  + Annual precipitation
+  + Precipitation seasonality
+  + Topographic wetness index
+  + Vegetation density
+  + pH Surface
+  + pH deep
+
+## Map of selected points
+
+```{r}
+OnlyPoints <- readRDS("Onlypoints.rds")
+
+Prior <- OnlyPoints %>% dplyr::filter(Rank == 0)
+
+New <- OnlyPoints  %>% dplyr::filter(Rank > 0)
+
+ggplot() + 
+  geom_sf(data = Denmark) +
+  geom_sf(data = Prior) + 
+  geom_sf(data = New, aes(color = Rank)) + 
+  #  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+  scale_colour_viridis_b(option = "C") +
+  theme_bw()
+```
+
+## NMDS of selected points
+
+```{r}
+ggplot(Prior, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
+  theme_bw() +
+  geom_point(data = New)
+```
+
+## First 50 points
+
+```{r, out.width= "50%"}
+knitr::include_graphics("Test.gif")
+```
+
