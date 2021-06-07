@@ -185,3 +185,78 @@ anim_save("Rank.gif")
 # Vars <- stack(Layers, Soils, Height, TWI, Valldepth)
 # 
 # 
+
+Dist <- vegan::vegdist(x = as.matrix(WithVars[,-6]), method = "euclidean") %>% as.matrix() %>% as.data.frame() 
+
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
+
+ToRank <- 2000
+
+for(i in 1:ToRank){
+  Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+  Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
+  
+  Temp <- Dist[Used, Unused]
+  rownames(Temp) <- Used
+  colnames(Temp) <- Unused
+  
+  dmax <- max(apply(Temp,2,min,na.rm=TRUE))
+  
+  Cond <- which(Temp == dmax, arr.ind = TRUE)[1,] %>% as.numeric()
+  
+  AllData$Rank <- ifelse(AllData$rowid == Unused[Cond[2]], (i + 1), AllData$Rank)
+  AllData$Dataset <- ifelse(AllData$rowid == Unused[Cond[2]], "Ranked", AllData$Dataset)
+  print(paste(i, "of", ToRank, ", distance =", dmax))
+}
+
+
+OnlyPoints <- AllData %>% dplyr::filter(!is.na(Rank))
+
+Prior <- OnlyPoints %>% dplyr::filter(Rank == 0)
+
+New <- OnlyPoints  %>% dplyr::filter(Rank > 0)
+
+New %>% dplyr::select(Rank) %>% write_sf("Ranked2.shp")
+
+Denmark <- read_rds("DK_Shape.rds")
+
+ggplot() + 
+  geom_sf(data = Denmark) +
+  geom_sf(data = Prior) + 
+  geom_sf(data = New, aes(color = Rank)) + 
+  #  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+  scale_colour_viridis_b(option = "C") +
+  theme_bw()
+
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+
+RawDist <- vegan::vegdist(x = as.matrix(WithVars[Used,-6]), method = "euclidean")
+
+saveRDS(RawDist, "RawDist2.rds")
+
+nmds = monoMDS(RawDist)# 
+
+nmds_DF <- nmds$points %>% as.data.frame()
+
+OnlyPoints <- cbind(OnlyPoints, nmds_DF)
+
+saveRDS(OnlyPoints, "Onlypoints.rds")
+
+OnlyPoints <- readRDS("Onlypoints.rds")
+
+ForGraph <- OnlyPoints 
+
+Prior <- ForGraph %>% dplyr::filter(Rank == 0)
+
+New <- ForGraph  %>% dplyr::filter(Rank > 0)
+
+ggplot(Prior, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
+  theme_bw() +
+  geom_point(data = New)
+
+Animation <- ggplot(ForGraph, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
+  theme_bw() +
+  transition_reveal(along = Rank)
