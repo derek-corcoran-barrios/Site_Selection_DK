@@ -374,12 +374,19 @@ First_100 <- Onlypoints %>%
 library(gifski)
 library(gganimate)
 
+OnlyPoints <- OnlyPoints %>% mutate(Selection_time  = ifelse(Rank <= 1, "Prior", "New"))
+
 Animation <- ggplot(OnlyPoints, aes(x = MDS1, y = MDS2)) +
-  geom_point(aes(color = Dataset, group = seq_along(Rank))) +
+  geom_point(aes(color = Selection_time, group = seq_along(Rank))) +
   theme_bw() +
   transition_reveal(along = Rank, range = c(1,50))
 
 library(gifski)
 
-animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
-anim_save("Test.gif")
+animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 5)
+anim_save("Test2.gif")
+
+
+library(GGally)
+
+ggpairs(OnlyPoints, columns = c(6:10,16:18), ggplot2::aes(colour=Selection_time, alpha = 0.5)) 
