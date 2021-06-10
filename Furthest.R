@@ -374,11 +374,10 @@ First_100 <- Onlypoints %>%
 library(gifski)
 library(gganimate)
 
-Animation <- ggplot(Onlypoints, aes(x = MDS1, y = MDS2)) +
+Animation <- ggplot(OnlyPoints, aes(x = MDS1, y = MDS2)) +
   geom_point(aes(color = Dataset, group = seq_along(Rank))) +
   theme_bw() +
-  transition_reveal(along = Rank, range = c(1,50)) +
-  enter_grow(size = 0.5)
+  transition_reveal(along = Rank, range = c(1,50))
 
 library(gifski)
 
