@@ -37,23 +37,32 @@ Layers <- readRDS("Layers_For_Distance.rds")
 Alldata <- read_rds("AllData.rds")
 Alldata <- Alldata[!is.na(st_dimension(Alldata)),]
 
-WithVars <- raster::extract(Layers, y = Alldata) %>% as.data.frame() %>% scale()  %>% as.data.frame() 
+RawVars <- raster::extract(Layers, y = Alldata) %>% as.data.frame()
+
+WithVars <- RawVars %>% scale()  %>% as.data.frame() 
 
 ## Add a new variable
 
 Canopy_Cover <- Wetness_lidar_files <- list.files(path = "O:/Nat_Ecoinformatics-tmp/au634851/dk_lidar_backup_2021-03-09/outputs/canopy_height/", full.names = T, pattern = ".vrt")
 
-Canopy_Cover <- raster::extract(raster(Canopy_Cover), y = Alldata) %>% as.data.frame() %>% scale()  %>% as.data.frame()
+Canopy_Cover <- raster::extract(raster(Canopy_Cover), y = Alldata) %>% as.data.frame() #%>% scale()  %>% as.data.frame()
 colnames(Canopy_Cover) <- "Canopy_Height"
-WithVars <- cbind(WithVars, Canopy_Cover)
+
+RawVars <- cbind(RawVars, Canopy_Cover)
+# Bins <1,1-3, 3-10, >10
+RawVars <- RawVars %>% 
+  mutate(Less_than_1 = ifelse(Canopy_Cover < 100, 1, 0),
+         Between_1_and_3 = ifelse(Canopy_Cover >= 100 & Canopy_Cover < 300, 1, 0),
+         Between_3_and_10 = ifelse(Canopy_Cover >= 300 & Canopy_Cover< 1000, 1, 0),
+         Over_10 = ifelse(Canopy_Cover >= 1000,1,0))
 
 Vegetation_dens <- Wetness_lidar_files <- list.files(path = "O:/Nat_Ecoinformatics-tmp/au634851/dk_lidar_backup_2021-03-09/outputs/proportions/vegetation_density/", full.names = T, pattern = ".vrt")
 
-Vegetation_dens <- raster::extract(raster(Vegetation_dens), y = Alldata) %>% as.data.frame() %>% scale()  %>% as.data.frame()
+Vegetation_dens <- raster::extract(raster(Vegetation_dens), y = Alldata) %>% as.data.frame() #%>% scale()  %>% as.data.frame()
 colnames(Vegetation_dens) <- "Vegetation_density"
-WithVars <- cbind(WithVars, Vegetation_dens)
+RawVars <- cbind(RawVars, Vegetation_dens)
 
-WithVars <- readRDS("withVars.rds")
+#WithVars <- readRDS("withVars.rds")
 
 SoilRasters <- list.files(path = "O:/AUIT_Geodata/Denmark/Natural_ressources/Soil_geology",pattern = ".tif", recursive = T, full.names = T)
 SoilRasters <- SoilRasters[str_detect(SoilRasters,pattern = ".aux", negate = T)]
@@ -66,27 +75,38 @@ Names <- c("PhSurface", "phDeep")
 
 Soils <- list()
 for(i in 1:length(SoilRasters)){ 
-  Soils[[i]] <- raster::extract(raster(SoilRasters[i]), y = Alldata) %>% as.data.frame() %>% scale()  %>% as.data.frame()
+  Soils[[i]] <- raster::extract(raster(SoilRasters[i]), y = Alldata) %>% as.data.frame() 
   colnames(Soils[[i]]) <- Names[i]
-  WithVars <- cbind(WithVars, Soils[[i]])
+  RawVars <- cbind(RawVars, Soils[[i]])
   message(paste(i, "of", length(SoilRasters)))
 }
 
-saveRDS(WithVars, "withVars.rds")
+saveRDS(RawVars, "RawVars.rds")
 
-AllData <- Alldata %>% cbind(WithVars) %>% 
+AllData <- Alldata %>% cbind(RawVars) %>% 
   dplyr::filter(!is.na(Temp), !is.na(Canopy_Height), !is.na(phDeep), !is.na(PhSurface))  %>% 
   mutate(Rank = case_when(Dataset %in% c("Biowide", "Agriculture", "Microflora Danica") ~ 0,
                           Dataset %in% c("Novana_Stable", "Novana_Increase", "Novana_Decrease")~ 1)) %>% 
   tibble::rowid_to_column() 
 
-WithVars <- WithVars  %>% 
+saveRDS(AllData, "AllData2.rds")
+
+WithVars <- RawVars  %>% 
+  dplyr::select("Temp", "TempSeas", "Prec", "PrecSeas", "TWI", 
+                "Vegetation_density", "PhSurface", "phDeep") %>% 
+  scale() %>% 
+  as.data.frame() %>% 
+  bind_cols(dplyr::select(RawVars, "Less_than_1", "Between_1_and_3", "Between_3_and_10", "Over_10")) %>% 
   dplyr::filter_all(~!is.na(.x))
+
+
+saveRDS(AllData, "AllData2.rds")
+saveRDS(WithVars, "WithVars.rds")
 
 #WithVars <- raster::extract(Bios, Points) %>% as.data.frame() %>% scale()
 
 Dist <- vegan::vegdist(x = as.matrix(WithVars), method = "euclidean") %>% as.matrix() %>% as.data.frame() 
-saveRDS(Dist, "Dist.rds")
+#saveRDS(Dist, "Dist.rds")
 
 Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
 Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
@@ -273,3 +293,94 @@ library(gifski)
 animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
 anim_save("Test.gif")
 
+## option 3
+
+Dist <- vegan::vegdist(x = as.matrix(WithVars), method = "euclidean") %>% as.matrix() %>% as.data.frame() 
+
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
+
+ToRank <- 1000
+
+for(i in 1:ToRank){
+  
+  Temp <- Dist[Used, Unused]
+  rownames(Temp) <- Used
+  colnames(Temp) <- Unused
+  
+  dmax <- max(apply(Temp,2,min,na.rm=TRUE))
+  
+  Cond <- which(Temp == dmax, arr.ind = TRUE)[1,] %>% as.numeric()
+  
+  AllData$Rank <- ifelse(AllData$rowid == Unused[Cond[2]], (i + 1), AllData$Rank)
+  AllData$Dataset <- ifelse(AllData$rowid == Unused[Cond[2]], "Ranked", AllData$Dataset)
+  Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+  Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
+  
+  saveRDS(Used, "Used.rds")
+  saveRDS(Unused, "Unused.rds")
+  print(paste(i, "of", ToRank, ", distance =", dmax))
+}
+
+
+OnlyPoints <- AllData %>% dplyr::filter(!is.na(Rank))
+
+Prior <- OnlyPoints %>% dplyr::filter(Rank == 0)
+
+New <- OnlyPoints  %>% dplyr::filter(Rank > 0)
+
+New %>% dplyr::select(Rank) %>% write_sf("Ranked3.shp")
+
+Denmark <- read_rds("DK_Shape.rds")
+
+ggplot() + 
+  geom_sf(data = Denmark) +
+  geom_sf(data = Prior) + 
+  geom_sf(data = New, aes(color = Rank)) + 
+  #  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+  scale_colour_viridis_b(option = "C") +
+  theme_bw()
+
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+
+RawDist <- vegan::vegdist(x = as.matrix(WithVars[Used,]), method = "euclidean")
+
+saveRDS(RawDist, "RawDist3.rds")
+
+nmds = monoMDS(RawDist)# 
+
+nmds_DF <- nmds$points %>% as.data.frame()
+
+OnlyPoints <- cbind(OnlyPoints, nmds_DF)
+
+saveRDS(OnlyPoints, "Onlypoints2.rds")
+
+OnlyPoints <- readRDS("Onlypoints2.rds")
+
+ForGraph <- OnlyPoints 
+
+Prior <- ForGraph %>% dplyr::filter(Rank == 0)
+
+New <- ForGraph  %>% dplyr::filter(Rank > 0)
+
+ggplot(Prior, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
+  theme_bw() +
+  geom_point(data = New)
+
+First_100 <- Onlypoints %>% 
+  dplyr::filter(Rank <= 100)
+
+library(gifski)
+library(gganimate)
+
+Animation <- ggplot(Onlypoints, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset, group = seq_along(Rank))) +
+  theme_bw() +
+  transition_reveal(along = Rank, range = c(1,50)) +
+  enter_grow(size = 0.5)
+
+library(gifski)
+
+animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
+anim_save("Test.gif")
