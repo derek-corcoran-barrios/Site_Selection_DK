@@ -43,7 +43,7 @@ WithVars <- RawVars %>% scale()  %>% as.data.frame()
 
 ## Add a new variable
 
-Canopy_Cover <- Wetness_lidar_files <- list.files(path = "O:/Nat_Ecoinformatics-tmp/au634851/dk_lidar_backup_2021-03-09/outputs/canopy_height/", full.names = T, pattern = ".vrt")
+Canopy_Cover <- list.files(path = "O:/Nat_Ecoinformatics-tmp/au634851/dk_lidar_backup_2021-03-09/outputs/canopy_height/", full.names = T, pattern = ".vrt")
 
 Canopy_Cover <- raster::extract(raster(Canopy_Cover), y = Alldata) %>% as.data.frame() #%>% scale()  %>% as.data.frame()
 colnames(Canopy_Cover) <- "Canopy_Height"
@@ -383,6 +383,7 @@ Animation <- ggplot(OnlyPoints, aes(x = MDS1, y = MDS2)) +
 
 library(gifski)
 
+<<<<<<< HEAD
 animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 5)
 anim_save("Test2.gif")
 
@@ -390,3 +391,154 @@ anim_save("Test2.gif")
 library(GGally)
 
 ggpairs(OnlyPoints, columns = c(6:10,16:18), ggplot2::aes(colour=Selection_time, alpha = 0.5)) 
+=======
+animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
+anim_save("Test.gif")
+
+## Add soil vars and slope and heat index
+
+SoilRasters <- list.files(path = "O:/AUIT_Geodata/Denmark/Natural_ressources/Soil_geology/Texture3D_2014/geotiffs/",pattern = ".tif", recursive = T, full.names = T)
+SoilRasters <- SoilRasters[str_detect(SoilRasters,pattern = ".aux", negate = T)]
+SoilRasters <- SoilRasters[str_detect(SoilRasters,pattern = ".xml", negate = T)]
+SoilRasters <- SoilRasters[str_detect(SoilRasters,pattern = ".ovr", negate = T)]
+SoilRasters <- SoilRasters[str_detect(SoilRasters,pattern = "/a", negate = F)]
+
+
+Soil3D <- SoilRasters[c(5:7,10)] %>% purrr::map(raster) %>% purrr::reduce(stack)
+
+Soil <- raster::extract(Soil3D, y = Alldata) %>% as.data.frame()
+
+RawVars <- cbind(RawVars, Soil)
+
+
+Slope <- list.files(path = "O:/Nat_Ecoinformatics-tmp/au634851/dk_lidar_backup_2021-03-09/outputs/slope/", full.names = T, pattern = ".vrt")
+
+Slope <- raster::extract(raster(Slope), y = Alldata) %>% as.data.frame() #%>% scale()  %>% as.data.frame()
+colnames(Slope) <- "Slope"
+
+RawVars <- cbind(RawVars, Slope)
+
+saveRDS(RawVars, "RawVars.rds")
+
+
+Heat <- list.files(path = "O:/Nat_Ecoinformatics-tmp/au634851/dk_lidar_backup_2021-03-09/outputs/heat_load_index/", full.names = T, pattern = ".vrt")
+
+Heat <- raster::extract(raster(Heat), y = Alldata) %>% as.data.frame() #%>% scale()  %>% as.data.frame()
+colnames(Heat) <- "Heat_Load_Index"
+
+RawVars <- cbind(RawVars, Heat)
+
+saveRDS(RawVars, "RawVars.rds")
+
+AllData <- Alldata %>% cbind(RawVars) %>% 
+  dplyr::filter(!is.na(Temp), !is.na(Canopy_Height), !is.na(phDeep), !is.na(PhSurface), !is.na(afsandno), !is.na(Slope))  %>% 
+  mutate(Rank = case_when(Dataset %in% c("Biowide", "Agriculture", "Microflora Danica") ~ 0,
+                          Dataset %in% c("Novana_Stable", "Novana_Increase", "Novana_Decrease")~ 1)) %>% 
+  tibble::rowid_to_column() 
+
+saveRDS(AllData, "AllData3.rds")
+
+WithVars <- RawVars  %>% 
+  dplyr::select("Temp", "TempSeas", "Prec", "PrecSeas", "TWI", "Canopy_Height", 
+                "Vegetation_density", "PhSurface", "phDeep", "aclaynor", "afsandno", 
+                "agsandno", "asiltnor", "Slope", "Heat_Load_Index") %>% 
+  scale() %>% 
+  as.data.frame() %>% 
+  bind_cols(dplyr::select(RawVars, "Less_than_1", "Between_1_and_3", "Between_3_and_10", "Over_10")) %>% 
+  dplyr::filter_all(~!is.na(.x))
+
+
+saveRDS(AllData, "AllData3.rds")
+saveRDS(WithVars, "WithVars.rds")
+
+## option 4
+
+Dist <- vegan::vegdist(x = as.matrix(WithVars), method = "euclidean") %>% as.matrix() %>% as.data.frame() 
+
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
+
+ToRank <- 3000
+
+for(i in 1:ToRank){
+  
+  Temp <- Dist[Used, Unused]
+  rownames(Temp) <- Used
+  colnames(Temp) <- Unused
+  
+  dmax <- max(apply(Temp,2,min,na.rm=TRUE))
+  
+  Cond <- which(Temp == dmax, arr.ind = TRUE)[1,] %>% as.numeric()
+  
+  AllData$Rank <- ifelse(AllData$rowid == Unused[Cond[2]], (i + 1), AllData$Rank)
+  AllData$Dataset <- ifelse(AllData$rowid == Unused[Cond[2]], "Ranked", AllData$Dataset)
+  Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+  Unused <- AllData %>% dplyr::filter(is.na(Rank)) %>% pull(rowid)
+  
+  saveRDS(Used, "Used.rds")
+  saveRDS(Unused, "Unused.rds")
+  print(paste(i, "of", ToRank, ", distance =", dmax))
+}
+
+
+OnlyPoints <- AllData %>% dplyr::filter(!is.na(Rank))
+
+Prior <- OnlyPoints %>% dplyr::filter(Rank == 0)
+
+New <- OnlyPoints  %>% dplyr::filter(Rank > 0)
+
+New  %>% write_sf("Ranked4.shp")
+
+Denmark <- read_rds("DK_Shape.rds")
+
+ggplot() + 
+  geom_sf(data = Denmark) +
+  geom_sf(data = Prior) + 
+  geom_sf(data = New, aes(color = Rank)) + 
+  #  scale_color_gradient(low = "#fff5f0", high = "#cb181d") + 
+  scale_colour_viridis_b(option = "C") +
+  theme_bw()
+
+Used <- AllData %>% dplyr::filter(!is.na(Rank)) %>% pull(rowid)
+
+RawDist <- vegan::vegdist(x = as.matrix(WithVars[Used,]), method = "euclidean")
+
+saveRDS(RawDist, "RawDist4.rds")
+
+nmds = monoMDS(RawDist)# 
+
+nmds_DF <- nmds$points %>% as.data.frame()
+
+OnlyPoints <- cbind(OnlyPoints, nmds_DF)
+
+saveRDS(OnlyPoints, "Onlypoints4.rds")
+
+OnlyPoints <- readRDS("Onlypoints4.rds")
+
+ForGraph <- OnlyPoints 
+
+Prior <- ForGraph %>% dplyr::filter(Rank == 0)
+
+New <- ForGraph  %>% dplyr::filter(Rank > 0)
+
+ggplot(Prior, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset)) +
+  theme_bw() +
+  geom_point(data = New)
+
+First_100 <- OnlyPoints %>% 
+  dplyr::filter(Rank <= 100)
+
+library(gifski)
+library(gganimate)
+
+Animation <- ggplot(OnlyPoints, aes(x = MDS1, y = MDS2)) +
+  geom_point(aes(color = Dataset, group = seq_along(Rank))) +
+  theme_bw() +
+  transition_reveal(along = Rank, range = c(1,50))
+
+library(gifski)
+
+animate(Animation, width = 1100, height = 1100, nframes = 200, renderer = gifski_renderer(loop = F), end_pause = 30, res = 150, fps = 8)
+anim_save("Test4.gif")
+>>>>>>> 6e3113f83aa5f7ea562020e581d4b1f7708a9225
