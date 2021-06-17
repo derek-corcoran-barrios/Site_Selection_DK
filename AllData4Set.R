@@ -20,47 +20,7 @@ alledata_abiotiske <-  fread(file="Novana/alledata-abiotiske.csv", na.strings = 
   rename(habtype = terhabtype) %>% 
   dplyr::filter(ID %in% AllData3$ID)
 
-AllData4 <- merge(AllData3,alledata_abiotiske)
+AllData4 <- left_join(AllData3,alledata_abiotiske)
 
 saveRDS(AllData4, "AllData4.rds")
 
-Habs <- unique(AllData4$habtype)
-IDs <- character()
-Final <- list()
-for(i in 1:500){
-  if(i == 1){
-    Temp <- AllData4
-    Selected <- Temp %>% sample_n(size = 1)
-    IDs <- pull(Selected, ID)
-    Temp <- Temp %>% dplyr::filter(!(ID %in% IDs)) 
-    Habs <- Habs[!(Habs %in% Selected$habtype)]
-  }
-  if(i > 1 & length(Habs) > 0){
-    
-    IDs <- c(IDs, pull(Selected, ID)) %>% unique()
-    Temp <- Temp %>% dplyr::filter(habtype %in% Habs,!(ID %in% IDs))
-    Selected <- rbind(Selected,sample_n(Temp, size = 1))
-    Habs <- Habs[!(Habs %in% Selected$habtype)]
-    if(length(Habs) == 0){
-      next
-    }
-  }
-  if(i > 1 & length(Habs) == 0){
-    IDs <- c(IDs, pull(Selected, ID)) %>% unique()
-    Temp <- AllData4 %>% dplyr::filter(!(ID %in% IDs))
-    Habs <- unique(Temp$habtype)
-    Final[[length(Final) + 1]] <- Selected
-    Selected <- Temp %>% sample_n(size = 1)
-    Habs <- Habs[!(Habs %in% Selected$habtype)]
-    print(paste("Set!!!", Sys.time()))
-    IDs <- c(IDs, pull(Selected, ID)) %>% unique()
-  }
-  message(paste(i, length(IDs)))
-}
-
-Final[[length(Final) + 1]] <- Selected
-Final <- Final %>%  purrr::reduce(rbind)
-
-Final$ID %>% length()
-
-Final$habtype %>% table()
