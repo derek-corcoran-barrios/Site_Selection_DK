@@ -20,11 +20,13 @@ library(vegan)
 library(data.table)
 # For clean summaries
 library(broom)
+library(kableExtra)
+options("kableExtra.html.bsTable" = T)
 ```
 
 ```{r ReadDk}
 Denmark <- readRDS("DK_Shape.rds")
-AllData <- readRDS("AllData3.rds") %>% 
+AllData <- readRDS("AllData4.rds") %>% 
   mutate(Dataset = fct_relevel(Dataset, "Microflora Danica", "Biowide", "Agriculture", "Novana_Stable", "Novana_Increase", "Novana_Decrease", "Novana"))
 ```
 
@@ -101,12 +103,6 @@ ggplot(Prior, aes(x = MDS1, y = MDS2)) +
   geom_point(data = New)
 ```
 
-## First 50 points
-
-```{r, out.width= "50%"}
-knitr::include_graphics("Test4.gif")
-```
-
 ## Environmental space
 
 ```{r}
@@ -135,7 +131,7 @@ ggpairs(OnlyPoints, columns = c(6:10,16:24), ggplot2::aes(colour=Selection_time,
 ## Selected points
 
 ```{r, cache=TRUE}
-NovanaFiles <- list.files(path = "Novana/", full.names = T)
+NovanaFiles <- list.files(path = "Novana/", full.names = T) 
 
 ForRichness <- fread(file=NovanaFiles[1], na.strings = "mv") %>% as.data.frame()  %>%
   unite(col = "ID", site, plot)  %>% 
@@ -223,25 +219,51 @@ ggplot() +
   theme_bw() 
 ```
 
+## Habitat
+
+```{r}
+OnlyPoints %>% as.data.frame()%>% dplyr::group_by(habtype) %>% summarise(n = n()) %>% arrange(desc(n)) %>% dplyr::filter(!is.na(habtype)) %>% kableExtra::kbl() %>% kableExtra::kable_paper() %>% kableExtra::scroll_box(width = "400px", height = "600px")
+```
+
 
 ## Final map
 
 ```{r, cache=FALSE}
 library(leaflet)
-Test <- read_sf("Ranked4.shp") %>% st_transform(crs = "+proj=longlat +datum=WGS84") 
 
+Coords <- OnlyPoints %>% dplyr::filter(Rank > 0) %>% as_Spatial()
+
+Coords <- Coords@coords %>% as.data.frame()
+
+Test <- OnlyPoints %>% dplyr::filter(Rank > 0)%>% st_transform(crs = "+proj=longlat +datum=WGS84") %>% 
+  mutate(Ranking = case_when(Rank <= 200 ~ "1 - 200",
+                             Rank > 200 & Rank <= 400 ~ "201 - 400",
+                             Rank > 400 & Rank <= 600 ~ "401 - 600",
+                             Rank > 600 & Rank <= 800 ~ "601 - 800",
+                             Rank > 800 ~ "> 800"),
+         Ranking = fct_relevel(Ranking, "1 - 200", "201 - 400","401 - 600", "601 - 800")) %>% 
+  cbind(Coords)
 l <-leaflet()
 
 esri <- grep("^Esri", providers, value = TRUE)
 esri <- esri[c(5,2,4,10)]
 
-pal <- colorQuantile(palette = c('#d73027','#fc8d59','#fee08b','#ffffbf','#d9ef8b','#91cf60','#1a9850'), Test$Rank, n = 7)
+pal <- colorFactor(
+  palette = c('#d7191c','#fdae61','#abd9e9','#2c7bb6', "black"),
+  domain= Test$Ranking,
+  ordered = TRUE,
+  na.color = "#808080"
+)
 
 for (provider in esri) {
   l <- l %>% addProviderTiles(provider, group = provider) %>% 
-  leaflet::addCircles(data = as_Spatial(Test), color = ~pal(Rank), popup = paste("<b>Ranking:", Test$Rank,"</b>", "<br>",
-                           "Canopy height:", Test$Cnpy_Hg, "<br>",
-                           "Sand:", (Test$afsandn + Test$agsandn)))
+  leaflet::addCircles(data = as_Spatial(Test), color = ~pal(Ranking), popup = paste("<b>Ranking:", Test$Rank,"</b>", "<br>", 
+                                                                                    "Habitat:", Test$habtype, "<br>",
+                                                                                    "Dataset:", Test$Dataset, "<br>",
+                           "Canopy height:", Test$Canopy_Height, "<br>",
+                           "Sand:", round(Test$afsandno + Test$agsandno), "<br>",
+                           "Coord x:", Test$coords.x1, "<br>",
+                           "Coord y:", Test$coords.x2))
 }
 
 l <- l %>%
@@ -251,7 +273,7 @@ l <- l %>%
              primaryLengthUnit = "meters",
              primaryAreaUnit = "hectares")
 
-l %>% addLegend("bottomright", pal = pal ,title = "Rank",opacity = 1, values = Test$Rank) %>%
+l %>% addLegend("bottomright", pal = pal ,title = "Rank",opacity = 1, values = Test$Ranking) %>%
   addEasyButton(easyButton(
     icon="fa-crosshairs", title="Locate Me",
     onClick=JS("function(btn, map){ map.locate({setView: true}); }")))

@@ -15,12 +15,19 @@ alledata_abiotiske <-  fread(file="Novana/alledata-abiotiske.csv", na.strings = 
   unite(col = "ID", site, plot) %>% 
   group_split(ID) %>% 
   purrr::map(~dplyr::filter(.x, year == max(year))) %>% 
-  purrr::reduce(bind_rows) %>% 
-  dplyr::select(ID, terhabtype) %>% 
-  rename(habtype = terhabtype) %>% 
-  dplyr::filter(ID %in% AllData3$ID)
+  purrr::reduce(bind_rows) 
 
-AllData4 <- left_join(AllData3,alledata_abiotiske)
+Test <- alledata_abiotiske %>% mutate(habtype = case_when(terhabtype == sekhabtype ~ terhabtype,
+                                                          str_count(terhabtype) == 4 ~ terhabtype,
+                                                          str_count(terhabtype) < 4 & str_count(sekhabtype) == 4 ~ sekhabtype),
+                                      count = str_count(habtype)) %>% 
+  dplyr::filter(!is.na(habtype), count == 4) %>% 
+  dplyr::select(ID, habtype) %>% 
+  dplyr::filter(ID %in% AllData3$ID) %>% 
+  mutate(MajorHab = stringr::str_sub(habtype, start = 1, end=2))
+ 
+
+AllData4 <- left_join(AllData3,Test)
 
 saveRDS(AllData4, "AllData4.rds")
 
